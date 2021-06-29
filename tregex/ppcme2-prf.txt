@@ -1,0 +1,3045 @@
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,27.26)
+ichose@l=chesen@m=7483@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,45.585)
+aspyed@l=aspien@m=2525@e=french@
+(HVP haue)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,45.592)
+igete@l=geten@m=18489@e=nonfrench@l=geten@m=18490@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,46.625)
+set@l=setten@m=39654@e=nonfrench@l=sitten@m=40572@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,48.699)
+procured@l=procuren@m=34783@e=french@w=stemming@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,50.757)
+raueschid@l=ravishen@m=36048@e=french@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,51.803)
+departid@l=departen@m=11123@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,52.816)
+departyd@l=departen@m=11123@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,52.817)
+ikept@l=ikepen@m=21883@e=nonfrench@
+(HVP ha+t)
+(ADVP-TMP (ADV euere))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,52.818)
+ilete@l=leten@m=25257@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,52.833)
+deuoured@l=devouren@m=11492@e=french@w=stemming@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,52.845)
+ywrout@l=iwerken@m=23674@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,54.891)
+defended@l=defenden@m=10805@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,54.892)
+kept@l=kepen@m=24173@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,54.893)
+conforted@l=comforten@m=8533@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,54.894)
+confermed@l=confermen@m=8913@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,56.955)
+itau+gt@l=itechen@m=23557@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,60.1038)
+wryte@l=writhen@m=53691@e=nonfrench@
+(HVP haue)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr3-m23.lemma.psd
+(ID CMAELR3-M23,60.1044)
+itake@l=itaken@m=23549@e=nonfrench@w=doubt@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr4-m4.lemma.psd
+(ID CMAELR4-M4,1.10)
+axed@l=asken@m=2480@e=nonfrench@
+(HVP hast)
+(ADVP-TMP (ADV ofte))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr4-m4.lemma.psd
+(ID CMAELR4-M4,2.43)
+enquered@l=enqueren@m=13944@e=french@
+(HV haue)
+(ADVP-TMP (ADV than))
+(MD shuldist)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr4-m4.lemma.psd
+(ID CMAELR4-M4,7.190)
+ordeyned@l=ordeinen@m=30818@e=french@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr4-m4.lemma.psd
+(ID CMAELR4-M4,9.225)
+write@l=writen@m=53686@e=nonfrench@w=doubt@w=substitution@
+(HVP haue)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr4-m4.lemma.psd
+(ID CMAELR4-M4,14.388)
+chosen@l=chesen@m=7483@e=nonfrench@
+(HVP hast)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr4-m4.lemma.psd
+(ID CMAELR4-M4,16.441)
+shewed@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39916@e=nonfrench@
+(HVP haue)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr4-m4.lemma.psd
+(ID CMAELR4-M4,17.476)
+seyde@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr4-m4.lemma.psd
+(ID CMAELR4-M4,20.566)
+chose@l=chesen@m=7483@e=nonfrench@
+(HVP hast)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr4-m4.lemma.psd
+(ID CMAELR4-M4,23.700)
+kepte@l=kepen@m=24173@e=nonfrench@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmaelr4-m4.lemma.psd
+(ID CMAELR4-M4,23.700)
+reserued@l=reserven@m=37058@e=french@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,I.42.5)
+icraued@l=craven@m=10228@e=french@
+(HVP habbe+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.56.542)
+ischriuen@l=ishriven@m=23469@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.58.582)
+areared@l=areren@m=2173@e=nonfrench@w=stemming@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.72.813)
+ispoken@l=ispeken@m=23498@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV NV))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.75.870)
+idemed@l=idemen@m=21684@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.77.906)
+ernde@l=rennen@m=36797@e=nonfrench@l=rennen@m=36798@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.77.907)
+erende@l=eren@m=14305@e=nonfrench@w=doubt@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.86.1042)
+ispeken@l=ispeken@m=23498@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.122.1567)
+ifulled@l=ifillen@m=21775@e=nonfrench@
+(HVD hefde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.124.1595)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVD hefde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.127.1650)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbe+d)
+(ADVP-TMP (ADV Nu+ge))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.128.1673)
+i+tocht@l=thinken@m=45310@e=nonfrench@
+(NEG+HVD nefde)
+(ADVP-TMP (ADV +toa))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.161.2207)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbe+d)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.166.2302)
+iseid@l=iseien@m=23430@e=nonfrench@
+(HVD hefde)
+(ADVP-TMP (ADVR swa) (ADV ofte))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.167.2311)
+inempned@l=nemnen@m=29299@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.169.2340)
+iset@l=isitten@m=23479@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.173.2417)
+ouercumen@l=overcomen@m=31576@e=nonfrench@
+(HVP hauest)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.178.2499)
+iholpen@l=ihelpen@m=21844@e=nonfrench@
+(HVP habbe+d)
+(NP-TMP (Q+N sumchere))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.181.2545)
+iseid@l=iseien@m=23430@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.195.2804)
+iturpled@l=torplen@m=46384@e=nonfrench@
+(HVD hefde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.210.3018)
+Iset@l=isitten@m=23479@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.227.3290)
+ibunden@l=binden@m=4667@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.229.3319)
+islein@l=ofslen@m=30391@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.233.3377)
+iseid@l=iseien@m=23430@e=nonfrench@
+(NEG+HVP naue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-1-m1.lemma.psd
+(ID CMANCRIW-1-M1,II.238.3465)
+iseid@l=iseien@m=23430@e=nonfrench@
+(NEG+HVP nabbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.253.124)
+ihauet@l=haven@m=20173@e=nonfrench@
+(HVP $habbe+d)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.282.614)
+iseid@l=iseien@m=23430@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV ear))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.283.630)
+ofgan@l=ofgon@m=30322@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.285.667)
+ouercumen@l=overcomen@m=31576@e=nonfrench@
+(HVD hefde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.287.692)
+icruned@l=corounen@m=9796@e=nonfrench@l=corounen@m=9797@e=nonfrench@
+(HVP $hauest)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.287.697)
+arud@l=arudden@m=2381@e=nonfrench@
+(HV habben)
+(MD muchte)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.290.755)
+depeint@l=depeinten@m=11132@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.292.787)
+ibocht@l=bien@m=4411@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.292.788)
+icud@l=ikithen@m=21893@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.294.820)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbe+d)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.299.895)
+$iwunnen@l=iwinnen@m=23695@e=nonfrench@
+(HVP $hauest)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.302.941)
+i+tucht@l=thinken@m=45309@e=nonfrench@l=thinken@m=45310@e=nonfrench@
+(HVP haue+d)
+(ADVP-TMP (ADV ofte))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.302.946)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP haue+d)
+(ADVP-TMP (ADV ofte))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmancriw-2-m1.lemma.psd
+(ID CMANCRIW-2-M1,II.316.1143)
+bitoch+gen@l=biten@m=4931@e=nonfrench@l=biten@m=4932@e=nonfrench@
+(HVD hefde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmastro-m3.lemma.psd
+(ID CMASTRO-M3,662.C1.7)
+yeven@l=yeven@m=53944@e=nonfrench@
+(HVP have)
+(ADVP-TMP (ADV Than))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmastro-m3.lemma.psd
+(ID CMASTRO-M3,662.C2.23)
+translatid@l=translaten@m=46784@e=nonfrench@
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmastro-m3.lemma.psd
+(ID CMASTRO-M3,666.C1.103)
+told@l=tellen@m=44693@e=nonfrench@
+(HVP have)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,44.748)
+yspeke@l=ispeken@m=23498@e=nonfrench@
+(HVP habbe+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,51.917)
+yzed@l=iseien@m=23430@e=nonfrench@
+(HVP he+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,51.919)
+ymad@l=imaken@m=22029@e=nonfrench@w=doubt@
+(HVP he+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,56.1016)
+y-hyerd@l=iheren@m=21849@e=nonfrench@
+(HVP hest)
+(ADVP-TMP (ADV Nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,56.1024)
+uorlore@l=forlesen@m=17013@e=nonfrench@
+(HVP he+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,70.1312)
+ytald@l=itellen@m=23560@e=nonfrench@
+(HVP habbe+t)
+(ADVP-TMP (ADV Nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,72.1372)
+ypased@l=ipassen@m=23269@e=nonfrench@
+(HVP habbe+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,72.1390)
+ybleued@l=bileven@m=4601@e=nonfrench@l=bileven@m=4602@e=nonfrench@
+(HVP habbe+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,76.1455)
+ysseawed@l=isheuen@m=23460@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,79.1524)
+yssewed@l=sheuen@m=39916@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,87.1689)
+yzet@l=isetten@m=23447@e=nonfrench@
+(HVP habbe+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,89.1742)
+ysseawed@l=isheuen@m=23460@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,91.1778)
+y-yeue@l=yeven@m=53944@e=nonfrench@w=substitution@
+(HVP he+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,93.1803)
+y-nome@l=inimen@m=22756@e=nonfrench@
+(HVD hedde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,94.1825)
+yssewed@l=sheuen@m=39916@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,97.1905)
+ywonne@l=iwinnen@m=23695@e=nonfrench@
+(HVP he+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,97.1907)
+yherd@l=iheren@m=21849@e=nonfrench@
+(HVP hest)
+(ADVP-TMP (ADV Nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,104.2041)
+yherd@l=iheren@m=21849@e=nonfrench@
+(HVP hest)
+(ADVP-TMP (ADV Nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,105.2049)
+yherd@l=iheren@m=21849@e=nonfrench@
+(HVP hest)
+(ADVP-TMP (ADV Nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,109.2112)
+yherd@l=iheren@m=21849@e=nonfrench@
+(HVP hest)
+(ADVP-TMP (ADV Nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,118.2266)
+y-herd@l=iheren@m=21849@e=nonfrench@
+(HVP hest)
+(ADVP-TMP (ADV Nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,260.2440)
+yspeke@l=ispeken@m=23498@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,260.2442)
+y-herd@l=iheren@m=21849@e=nonfrench@
+(HVP hest)
+(ADVP-TMP (ADV Nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmayenbi-m2.lemma.psd
+(ID CMAYENBI-M2,261.2455)
+y-wonne@l=iwinnen@m=23695@e=nonfrench@
+(HV habbe)
+(MD ssolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbenrul-m3.lemma.psd
+(ID CMBENRUL-M3,6.160)
+tan@l=taken@m=44420@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbenrul-m3.lemma.psd
+(ID CMBENRUL-M3,18.617)
+deuisid@l=devisen@m=11481@e=french@w=stemming@
+(HVP haue)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbenrul-m3.lemma.psd
+(ID CMBENRUL-M3,28.948)
+for-lokid@l=foreloken@m=16835@e=nonfrench@
+(HVP hauis)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbenrul-m3.lemma.psd
+(ID CMBENRUL-M3,43.1350)
+forlokid@l=for[e-loken@m=16835@e=nonfrench@
+(HVP hauis)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbenrul-m3.lemma.psd
+(ID CMBENRUL-M3,47.1440)
+writin@l=writen@m=53686@e=nonfrench@w=doubt@w=substitution@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,2.24)
+chastysed@l=chastisen@m=7314@e=french@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,3.56)
+brent@l=brennen@m=5928@e=nonfrench@
+(HV haue)
+(ADVP-TMP (ADV anon))
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,10.247)
+slayn@l=slen@m=40820@e=nonfrench@
+(HVD hadden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,12.308)
+geten@l=geten@m=18489@e=nonfrench@l=geten@m=18490@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,12.333)
+conqueryd@l=conqueren@m=9340@e=french@w=stemming@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,12.341)
+sent@l=senden@m=39404@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,13.362)
+weddid@l=wedden@m=51968@e=nonfrench@w=stemming@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,13.370)
+slayn@l=slen@m=40820@e=nonfrench@
+(HV haue)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,15.421)
+regnede@l=regnen@m=36511@e=french@
+(HVD hade)
+(ADVP-TMP (ADV +to))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,18.538)
+duellede@l=dwellen@m=12880@e=nonfrench@w=stemming@
+(NEG+HVD nade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,22.662)
+Lefte@l=leven@m=25339@e=nonfrench@l=leven@m=25340@e=nonfrench@l=leven@m=25341@e=nonfrench@
+(NEG+HVD nade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,23.688)
+conquerede@l=conqueren@m=9340@e=french@w=stemming@
+(HV haue)
+(ADVP-TMP (ADV after))
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,24.723)
+louede@l=loven@m=26259@e=nonfrench@l=louen@m=26190@e=nonfrench@l=louen@m=26191@e=french@l=louen@m=26188@e=nonfrench@l=louten@m=26236@e=nonfrench@w=stemming@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,25.730)
+went@l=wenden@m=52201@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,26.768)
+duellede@l=dwellen@m=12880@e=nonfrench@w=stemming@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,26.769)
+conquerede@l=conqueren@m=9340@e=french@w=stemming@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,26.774)
++geue@l=yeven@m=53944@e=nonfrench@
+(HV haue)
+(ADVP-TMP (ADV +to))
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,27.808)
+trauailede@l=travailen@m=46852@e=french@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,29.859)
+slayne@l=slen@m=40820@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,36.1096)
+made@l=maken@m=26584@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,38.1186)
+duellede@l=dwellen@m=12880@e=nonfrench@w=stemming@
+(NEG+HVD nade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,41.1273)
+made@l=maken@m=26584@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,43.1314)
+made@l=maken@m=26584@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,44.1346)
+taken@l=taken@m=44420@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,46.1382)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,53.1554)
+bigeten@l=biyeten@m=5038@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,53.1566)
+made@l=maken@m=26584@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,60.1762)
+bisegede@l=biseyen@m=4779@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,60.1771)
+wende@l=wenden@m=52201@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,62.1850)
+conquerede@l=conqueren@m=9340@e=french@w=stemming@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,65.1951)
+take@l=taken@m=44420@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,66.1984)
+put@l=putten@m=35369@e=nonfrench@l=put@m=35344.5@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,71.2152)
+gone@l=gon@m=19078@e=nonfrench@l=ginnen@m=18604@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,76.2320)
+slayne@l=slen@m=40820@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,79.2388)
+take@l=taken@m=44420@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,79.2404)
+despendede@l=dispenden@m=12012@e=french@w=stemming@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,82.2482)
+slayne@l=slen@m=40820@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,84.2538)
+duellede@l=dwellen@m=12880@e=nonfrench@w=stemming@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,86.2592)
+gone@l=gon@m=19078@e=nonfrench@l=ginnen@m=18604@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,89.2682)
+arryuede@l=ariven@m=2253@e=french@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,90.2712)
+assemblede@l=assemblen@m=2573@e=french@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,95.2884)
+desirede@l=desiren@m=11318@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,95.2893)
+made@l=maken@m=26584@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,99.2987)
+herde@l=heren@m=20505@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,99.2999)
+dryuen@l=driven@m=12668@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,105.3184)
+tak@l=taken@m=44420@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,106.3193)
+gete@l=geten@m=18489@e=nonfrench@l=geten@m=18490@e=nonfrench@
+(HV haue)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,108.3267)
+regnede@l=regnen@m=36511@e=french@
+(NEG+HVD nade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,108.3284)
+fou+gten@l=fighten@m=15910@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,115.3486)
+comen@l=comen@m=8522@e=nonfrench@
+(HV haue)
+(MD shulde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,116.3522)
+regnede@l=regnen@m=36511@e=french@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,117.3568)
+regnede@l=regnen@m=36511@e=french@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,120.3645)
+regnede@l=regnen@m=36511@e=french@
+(NEG+HVD nad)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,123.3717)
+herde@l=heren@m=20505@e=nonfrench@
+(HVP haue)
+(ADVP-TMP (ADV NOw))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,127.3839)
+comaunded@l=commaunden@m=8558@e=french@
+(HVD hade)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,226.4093)
+ordeyned@l=ordeinen@m=30818@e=french@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmbrut3-m3.lemma.psd
+(ID CMBRUT3-M3,226.4097)
+take@l=taken@m=44420@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,34.83)
+killid@l=killen@m=24236@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,45.403)
+descriued@l=descriven@m=11282@e=french@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,71.1170)
+killid@l=killen@m=24236@e=nonfrench@
+(HV a)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,91.1781)
+sey@l=sen@m=39393@e=nonfrench@l=sen@m=39393@e=nonfrench@l=seien@m=39209@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,106.2307)
+put@l=putten@m=35369@e=nonfrench@l=put@m=35344.5@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,109.2388)
+determined@l=determinen@m=11415@e=french@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,119.2676)
+seyn@l=sen@m=39393@e=nonfrench@l=seien@m=39209@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,122.2781)
+confermed@l=confermen@m=8913@e=french@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,127.2917)
+accused@l=ac[c]usen@m=316@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,131.3040)
+mad@l=maken@m=26584@e=nonfrench@w=doubt@l=maken@m=26585@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,135.3154)
+clepid@l=clepen@m=7971@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,138.3213)
+loggid@l=loggen@m=25917@e=french@w=stemming@
+(HV a)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,139.3226)
+clepid@l=clepen@m=7971@e=nonfrench@
+(HV a)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,139.3235)
+spent@l=spenden@m=42116@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,145.3378)
+weddid@l=wedden@m=51968@e=nonfrench@w=stemming@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,147.3441)
+go@l=gon@m=19078@e=nonfrench@
+(HV a)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,241.3980)
++toute@l=thinken@m=45309@e=nonfrench@l=thinken@m=45310@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,242.3997)
+behote@l=bihoten@m=4533@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,245.4088)
+mad@l=maken@m=26584@e=nonfrench@w=doubt@l=maken@m=26585@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapchr-m4.lemma.psd
+(ID CMCAPCHR-M4,247.4139)
+gadered@l=gaderen@m=18044@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcapser-m4.lemma.psd
+(ID CMCAPSER-M4,147.42)
+mad@l=maken@m=26584@e=nonfrench@w=doubt@l=maken@m=26585@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcloud-m3.lemma.psd
+(ID CMCLOUD-M3,22.141)
+for+geten@l=foryeten@m=17373@e=nonfrench@
+(HV haue)
+(MD may)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcloud-m3.lemma.psd
+(ID CMCLOUD-M3,25.186)
+brou+gt@l=bringen@m=6058@e=nonfrench@
+(HVP hast)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmcloud-m3.lemma.psd
+(ID CMCLOUD-M3,129.765)
+profitid@l=profiten@m=34819@e=french@w=stemming@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmctmeli-m3.lemma.psd
+(ID CMCTMELI-M3,217.C1b.7)
+left@l=leven@m=25339@e=nonfrench@l=leven@m=25340@e=nonfrench@l=leven@m=25341@e=nonfrench@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmctmeli-m3.lemma.psd
+(ID CMCTMELI-M3,229.C2.479)
+ytaken@l=itaken@m=23549@e=nonfrench@
+(HVP hast)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmctpars-m3.lemma.psd
+(ID CMCTPARS-M3,293.C1.209)
+lorn@l=lesen@m=25207@e=nonfrench@w=doubt@l=lesen@m=25208@e=nonfrench@l=lesen@m=25209@e=nonfrench@l=lesen@m=25210@e=nonfrench@l=lesen@m=25211@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmctpars-m3.lemma.psd
+(ID CMCTPARS-M3,296.C2a.337)
+spared@l=sparen@m=41972@e=nonfrench@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmctpars-m3.lemma.psd
+(ID CMCTPARS-M3,300.C2.494)
+noted@l=noten@m=29885@e=nonfrench@
+(HV have)
+(ADVP-TMP (ADVR so) (ADV soone))
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmctpars-m3.lemma.psd
+(ID CMCTPARS-M3,300.C2.494)
+spoken@l=speken@m=42083@e=nonfrench@
+(HV have)
+(ADVP-TMP (ADVR so) (ADV soone))
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmctpars-m3.lemma.psd
+(ID CMCTPARS-M3,302.C2.565)
+caused@l=causen@m=6992@e=french@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmctpars-m3.lemma.psd
+(ID CMCTPARS-M3,305.C1.673)
+confounded@l=confounden@m=8948@e=nonfrench@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmctpars-m3.lemma.psd
+(ID CMCTPARS-M3,316.C2.1201)
+lost@l=losen@m=26122@e=nonfrench@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmctpars-m3.lemma.psd
+(ID CMCTPARS-M3,323.C2.1520)
+offended@l=offenden@m=30287@e=french@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmctpars-m3.lemma.psd
+(ID CMCTPARS-M3,325.C2a.1589)
+toold@l=tellen@m=44693@e=nonfrench@
+(HVP have)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,4.118)
+stablist@l=stablishen@m=42542@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,5.168)
+crouned@l=corounen@m=9796@e=nonfrench@l=corounen@m=9797@e=nonfrench@
+(HVP hast)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,12.444)
+i-spoken@l=ispeken@m=23498@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,16.618)
+gon@l=gon@m=19078@e=nonfrench@l=ginnen@m=18604@e=nonfrench@
+(HVP han)
+(ADVP-TMP (ADV nov))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,16.619)
+stablyst@l=stablishen@m=42542@e=french@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,17.651)
+trubled@l=troublen@m=47229@e=french@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,17.654)
+taken@l=taken@m=44420@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,22.865)
+knowen@l=knouen@m=24477@e=nonfrench@
+(HVP haue)
+(ADVP-TMP (ADV nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,24.976)
+en-cumpassed@l=encompassen@m=13609@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,29.1224)
+en-he+ged@l=enheien@m=13860@e=nonfrench@w=doubt@
+(HVP ha+t)
+(ADVP-TMP (ADV nou))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,30.1245)
+for-saken@l=forsaken@m=17117@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,30.1246)
+taken@l=taken@m=44420@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,46.1969)
+forsaken@l=forsaken@m=17117@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,49.2109)
+y-take@l=itaken@m=23549@e=nonfrench@
+(HVP han)
+(ADVP-TMP (ADV alway))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,49.2111)
+i-cumpassed@l=compassen@m=8681@e=french@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,49.2116)
+fur-saken@l=forsaken@m=17117@e=nonfrench@
+(HVP ha+te)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,50.2154)
+sinned@l=sinnen@m=40481@e=nonfrench@
+(HVP $haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,53.2308)
+couered@l=coveren@m=10112@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,57.2495)
+taken@l=taken@m=44420@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,61.2666)
+synned@l=sinnen@m=40481@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,62.2707)
++geuen@l=yeven@m=53944@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,63.2772)
+despised@l=despisen@m=11358@e=nonfrench@l=despising@m=11360@e=nonfrench@w=stemming@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,65.2843)
+suffred@l=sufferen@m=43653@e=french@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,65.2845)
+hid@l=hiden@m=20739@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,66.2893)
+defouled@l=defoulen@m=10868@e=nonfrench@w=stemming@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,70.3074)
+put@l=putten@m=35369@e=nonfrench@l=put@m=35344.5@e=nonfrench@
+(HVP hast)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,70.3075)
+destriued@l=destriven@m=11399@e=french@
+(HVP hast)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,73.3210)
+drawen@l=drauen@m=12537@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,89.3899)
+wro+gt@l=werken@m=52280@e=nonfrench@l=werken@m=52281@e=nonfrench@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,100.4353)
+for-don@l=fordon@m=16755@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,100.4354)
+bounden@l=binden@m=4667@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,116.5055)
+tau+gt@l=techen@m=44633@e=nonfrench@
+(HVP hast)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,116.5065)
+woned@l=wonen@m=53401@e=nonfrench@l=wonden@m=53374@e=nonfrench@l=wonten@m=53412@e=nonfrench@l=wonen@m=53402@e=nonfrench@w=stemming@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,130.5668)
+syn+ged@l=sinnen@m=40481@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,130.5669)
+wro+gt@l=werken@m=52280@e=nonfrench@l=werken@m=52281@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,136.5951)
+stilled@l=stillen@m=42953@e=nonfrench@l=stillen@m=42954@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,144.6357)
+blisced@l=blissen@m=5238@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,145.6405)
+bi-so+gt@l=bisechen@m=4774@e=nonfrench@
+(HVP $haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,146.6414)
+shewed@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39916@e=nonfrench@
+(HVP $haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,146.6437)
+couaited@l=coveiten@m=10085@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,146.6443)
+so+gt@l=sechen@m=39128@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,147.6478)
+vrnen@l=rennen@m=36798@e=nonfrench@
+(HVP $haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,147.6520)
+sou+gt@l=sechen@m=39128@e=nonfrench@
+(HVP $haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,150.6641)
+for+geten@l=foryeten@m=17373@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,150.6652)
+casten@l=casten@m=6914@e=nonfrench@
+(HVD hadden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,151.6671)
+perissed@l=perishen@m=32991@e=french@l=percen@m=32913@e=french@
+(HVD had)
+(ADVP-TMP (ADV +tan))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,151.6678)
+so+gt@l=sechen@m=39128@e=nonfrench@
+(HVP $haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,151.6681)
+vnderstonden@l=understonden@m=48362@e=nonfrench@w=substitution@
+(HVP $haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,152.6726)
+for-+geten@l=forhoten@m=16987@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,152.6731)
+purchased@l=purchasen@m=35231@e=french@
+(HVP $haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,153.6783)
+wasted@l=wasten@m=51859@e=french@w=stemming@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,154.6831)
+for-+geten@l=forhoten@m=16987@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,158.7033)
+deuoured@l=devouren@m=11492@e=french@w=stemming@
+(HVD hadden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,158.7035)
+swolwed@l=swolwen@m=44301@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmearlps-m2.lemma.psd
+(ID CMEARLPS-M2,158.7038)
+passed@l=passen@m=32556@e=french@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedmund-m4.lemma.psd
+(ID CMEDMUND-M4,172.274)
+kyssed@l=kissen@m=24356@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedthor-m34.lemma.psd
+(ID CMEDTHOR-M34,17.40)
+tynte@l=tinen@m=45911@e=nonfrench@l=tinen@m=45912@e=nonfrench@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedthor-m34.lemma.psd
+(ID CMEDTHOR-M34,18.59)
+delyuerde@l=deliveren@m=10989@e=french@
+(HVP has)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedthor-m34.lemma.psd
+(ID CMEDTHOR-M34,19.86)
+sett@l=setten@m=39654@e=nonfrench@l=sitten@m=40572@e=nonfrench@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedthor-m34.lemma.psd
+(ID CMEDTHOR-M34,20.101)
+delyuered@l=deliveren@m=10989@e=french@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedthor-m34.lemma.psd
+(ID CMEDTHOR-M34,25.239)
+herde@l=heren@m=20505@e=nonfrench@
+(HVP hase)
+(ADVP-TMP (ADV Nowe))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedthor-m34.lemma.psd
+(ID CMEDTHOR-M34,28.318)
+gyfen@l=yeven@m=53944@e=nonfrench@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedthor-m34.lemma.psd
+(ID CMEDTHOR-M34,32.422)
+made@l=maken@m=26584@e=nonfrench@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedthor-m34.lemma.psd
+(ID CMEDTHOR-M34,33.428)
+dyede@l=dien@m=11564@e=nonfrench@
+(HVD had)
+(ADVP-TMP (ADV +tan))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedthor-m34.lemma.psd
+(ID CMEDTHOR-M34,42.597)
+twynnned@l=twinen@m=47504@e=nonfrench@l=twinnen@m=47519@e=nonfrench@
+(HVP hafe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedvern-m3.lemma.psd
+(ID CMEDVERN-M3,242.78)
+forloren@l=forlesen@m=17013@e=nonfrench@l=forlosen@m=17032@e=nonfrench@
+(HVP hast)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedvern-m3.lemma.psd
+(ID CMEDVERN-M3,242.101)
+delyuered@l=deliveren@m=10989@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedvern-m3.lemma.psd
+(ID CMEDVERN-M3,243.155)
+dilyuered@l=deliveren@m=10989@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedvern-m3.lemma.psd
+(ID CMEDVERN-M3,254.612)
+distynktet@l=distincten@m=12142@e=french@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedvern-m3.lemma.psd
+(ID CMEDVERN-M3,255.663)
+lete@l=leten@m=25257@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedvern-m3.lemma.psd
+(ID CMEDVERN-M3,256.686)
+loued@l=louen@m=26188@e=nonfrench@l=loven@m=26259@e=nonfrench@w=substitution@
+(HV han)
+(ADVP-TMP (ADV +tenne))
+(MD mihten)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedvern-m3.lemma.psd
+(ID CMEDVERN-M3,256.709)
+fult@l=foulen@m=17438@e=french@l=filsten@m=15980@e=nonfrench@l=folwen@m=16601@e=nonfrench@l=fillen@m=15971@e=nonfrench@l=filen@m=15955@e=nonfrench@w=stemming@
+(HVP $ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmedvern-m3.lemma.psd
+(ID CMEDVERN-M3,258.771)
+serued@l=serven@m=39583@e=french@
+(HVD hedde)
+(ADVP-TMP (ADV +tenne))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmequato-m3.lemma.psd
+(ID CMEQUATO-M3,26.122)
+complet@l=completen@m=8735@e=nonfrench@
+(HVP $hast)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmequato-m3.lemma.psd
+(ID CMEQUATO-M3,34.222)
+founde@l=finden@m=16004@e=nonfrench@l=founden@m=17460@e=nonfrench@
+(HVP $hast)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmequato-m3.lemma.psd
+(ID CMEQUATO-M3,42.291)
+mad@l=maken@m=26584@e=nonfrench@w=doubt@l=maken@m=26585@e=nonfrench@
+(HVP $hast)
+(ADVP-TMP (ADV than))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmfitzja-m4.lemma.psd
+(ID CMFITZJA-M4,B2R.119)
+namyd@l=namen@m=29059@e=nonfrench@
+(HVP haue)
+(ADVP-TMP (ADV Thenne))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgaytry-m34.lemma.psd
+(ID CMGAYTRY-M34,2.16)
+tretide@l=treten@m=46989@e=french@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgaytry-m34.lemma.psd
+(ID CMGAYTRY-M34,2.16)
+Ordeyned@l=ordeinen@m=30818@e=french@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgaytry-m34.lemma.psd
+(ID CMGAYTRY-M34,3.19)
+ordaynede@l=ordeinen@m=30818@e=french@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgaytry-m34.lemma.psd
+(ID CMGAYTRY-M34,3.19)
+bedyn@l=bidden@m=4381@e=nonfrench@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,97.53)
+foughte@l=fighten@m=15910@e=nonfrench@
+(HV have)
+(NP-TMP (D that) (ADJ same) (N yere))
+(MD shulde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,108.297)
+ordaynyde@l=ordeinen@m=30818@e=french@w=stemming@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,163.828)
+rowyde@l=rouen@m=37947@e=nonfrench@w=stemming@
+(HV have)
+(NP-TMP (D the) (NUM viij) (N day) (PP (P of) (NP (NPR Novembyr))))
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,172.1025)
+take@l=taken@m=44420@e=nonfrench@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,172.1035)
+made@l=maken@m=26584@e=nonfrench@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,176.1111)
+gon@l=gon@m=19078@e=nonfrench@l=ginnen@m=18604@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,205.1748)
+made@l=maken@m=26584@e=nonfrench@
+(HV have)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,211.1916)
+weddyd@l=wedden@m=51968@e=nonfrench@w=stemming@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,221.2170)
+slayne@l=slen@m=40820@e=nonfrench@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,226.2268)
+causyd@l=causen@m=6992@e=french@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,226.2269)
+ordaynyd@l=ordeinen@m=30818@e=french@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,229.2347)
+passefyde@l=pacifien@m=32148@e=french@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,232.2420)
+causyd@l=causen@m=6992@e=french@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,232.2431)
+bund@l=binden@m=4667@e=nonfrench@
+(HVP hathe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmgregor-m4.lemma.psd
+(ID CMGREGOR-M4,237.2597)
+take@l=taken@m=44420@e=nonfrench@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmhali-m1.lemma.psd
+(ID CMHALI-M1,145.239)
+ilahet@l=lauen@m=24825@e=nonfrench@
+(HVP haued)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmhali-m1.lemma.psd
+(ID CMHALI-M1,147.266)
+iseid@l=iseien@m=23430@e=nonfrench@
+(HVP hauest)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmhali-m1.lemma.psd
+(ID CMHALI-M1,157.409)
+ihalden@l=iholden@m=21862@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmhali-m1.lemma.psd
+(ID CMHALI-M1,158.423)
+ethalden@l=at-holden@m=2795@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmhorses-m3.lemma.psd
+(ID CMHORSES-M3,87.19)
+herde@l=heren@m=20505@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmhorses-m3.lemma.psd
+(ID CMHORSES-M3,91.57)
+seye@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@l=sen@m=39393@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmhorses-m3.lemma.psd
+(ID CMHORSES-M3,117.312)
+seie@l=sen@m=39393@e=nonfrench@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmhorses-m3.lemma.psd
+(ID CMHORSES-M3,121.350)
+seye@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@l=sen@m=39393@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cminnoce-m4.lemma.psd
+(ID CMINNOCE-M4,7.97)
+inserchyd@l=serchen@m=39496@e=french@
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmjulia-m1.lemma.psd
+(ID CMJULIA-M1,96.11)
+iunne@l=iunnen@m=23617@e=nonfrench@
+(HVD hefde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmjulia-m1.lemma.psd
+(ID CMJULIA-M1,111.254)
+ifolhet@l=folwen@m=16601@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmjulia-m1.lemma.psd
+(ID CMJULIA-M1,122.468)
+iseid@l=iseien@m=23430@e=nonfrench@
+(NEG+HVD $Nefde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmjulia-m1.lemma.psd
+(ID CMJULIA-M1,123.490)
+iwilnet@l=iwilnen@m=23689.5@e=nonfrench@
+(HVD hefde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmjulnor-m34.lemma.psd
+(ID CMJULNOR-M34,50.37)
+made@l=maken@m=26584@e=nonfrench@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmjulnor-m34.lemma.psd
+(ID CMJULNOR-M34,51.61)
+laughyn@l=laughen@m=24826@e=nonfrench@
+(HV hafe)
+(ADVP-TMP (ADV than))
+(MD schulde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmjulnor-m34.lemma.psd
+(ID CMJULNOR-M34,52.88)
+sayde@l=seien@m=39209@e=nonfrench@w=doubt@l=seien@m=39210@e=nonfrench@
+(HV hafe)
+(MD myght)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmjulnor-m34.lemma.psd
+(ID CMJULNOR-M34,52.89)
+sayde@l=seien@m=39209@e=nonfrench@w=doubt@l=seien@m=39210@e=nonfrench@
+(HV hafe)
+(MD myght)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmjulnor-m34.lemma.psd
+(ID CMJULNOR-M34,55.151)
+lokyd@l=loken@m=25943@e=nonfrench@l=loken@m=25944@e=nonfrench@l=louken@m=26207@e=nonfrench@w=stemming@
+(HV hafe)
+(MD walde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmjulnor-m34.lemma.psd
+(ID CMJULNOR-M34,60.280)
+lefte@l=leven@m=25339@e=nonfrench@l=leven@m=25340@e=nonfrench@l=leven@m=25341@e=nonfrench@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkathe-m1.lemma.psd
+(ID CMKATHE-M1,19.29)
+iset@l=isitten@m=23479@e=nonfrench@
+(HVD hefde)
+(ADVP-TMP (ADV earliche))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkathe-m1.lemma.psd
+(ID CMKATHE-M1,22.55)
+ibroht@l=ibringen@m=21618@e=nonfrench@
+(NEG+HVP naue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkathe-m1.lemma.psd
+(ID CMKATHE-M1,29.160)
+iseid@l=iseien@m=23430@e=nonfrench@
+(NEG+HVD Nefde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkathe-m1.lemma.psd
+(ID CMKATHE-M1,43.384)
+ilea+det@l=ilathen@m=21902@e=nonfrench@
+(HVP haue+d)
+(ADVP-TMP (NP-MSR (ADJ luttel)) (ADV ear))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkathe-m1.lemma.psd
+(ID CMKATHE-M1,45.407)
+iloset@l=losen@m=26121@e=french@l=losen@m=26122@e=nonfrench@l=losen@m=26123@e=nonfrench@
+(HVD hef)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkathe-m1.lemma.psd
+(ID CMKATHE-M1,52.514)
+ibede@l=ibidden@m=21594@e=nonfrench@l=bidden@m=4381@e=nonfrench@l=ibiden@m=21595@e=nonfrench@
+(NEG+HVD $Nefde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,4.53)
+red@l=reden@m=36308@e=nonfrench@l=reden@m=36309@e=nonfrench@l=reden@m=36310@e=nonfrench@
+(HVD had)
+(NP-TMP (Q+N sum-tym))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,5.59)
+behestyd@l=bihesten@m=4506@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,27.588)
+forsakyn@l=forsaken@m=17117@e=nonfrench@
+(HVD had)
+(NP-TMP (D+OTHER Ano+ter) (N tyme))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,32.698)
+gon@l=gon@m=19078@e=nonfrench@l=ginnen@m=18604@e=nonfrench@
+(HV a)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,54.1224)
+put@l=putten@m=35369@e=nonfrench@l=put@m=35344.5@e=nonfrench@
+(HV a)
+(MD mygth)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,55.1231)
+wretyn@l=writen@m=53686@e=nonfrench@
+(HV a)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,75.1688)
+turnyd@l=turnen@m=47404@e=nonfrench@
+(HV a)
+(ADVP-TMP (ADV +tan))
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,78.1752)
+thowt@l=thinken@m=45309@e=nonfrench@l=thinken@m=45310@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,86.1949)
+partyd@l=parten@m=32501@e=french@
+(HV a)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,88.1976)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVD had)
+(NP-TMP (NP-MSR (ADJ+N ny-hand)) (Q euery) (N day))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,92.2066)
+put@l=putten@m=35369@e=nonfrench@l=put@m=35344.5@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,92.2085)
++gouyn@l=yeven@m=53944@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,103.2307)
+louyd@l=loven@m=26259@e=nonfrench@l=louen@m=26190@e=nonfrench@l=louen@m=26191@e=french@l=louen@m=26188@e=nonfrench@l=louten@m=26236@e=nonfrench@w=stemming@
+(HVD had)
+(NP-TMP (ADV+N be-for-tyme))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,104.2351)
+sufferyd@l=sufferen@m=43653@e=french@
+(HVP hath)
+(ADVP-TMP (ADV sithen))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,105.2369)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVD had)
+(ADVP-TMP (ADV neuyr))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,106.2418)
+ordeyned@l=ordeinen@m=30818@e=french@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,114.2618)
+telde@l=tellen@m=44693@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,117.2675)
+stondyn@l=stonden@m=43062@e=nonfrench@
+(HV a)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,118.2691)
+lost@l=losen@m=26122@e=nonfrench@
+(HV a)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,118.2694)
+putte@l=putten@m=35369@e=nonfrench@
+(HV a)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,119.2735)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,121.2793)
+behestyd@l=bihesten@m=4506@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,125.2881)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVD had)
+(ADVP-TMP (ADV be-forn))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,129.2991)
+gon@l=gon@m=19078@e=nonfrench@l=ginnen@m=18604@e=nonfrench@
+(HV a)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,143.3286)
+hiryd@l=hiren@m=20866@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,150.3454)
+seyd@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@
+(HVD had)
+(NP-TMP (Q many) (NS tymys))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,153.3515)
+seyn@l=sen@m=39393@e=nonfrench@l=seien@m=39209@e=nonfrench@
+(HVD had)
+(ADVP-TMP (ADV Than))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,153.3515)
+red@l=reden@m=36308@e=nonfrench@l=reden@m=36309@e=nonfrench@l=reden@m=36310@e=nonfrench@
+(HVD had)
+(ADVP-TMP (ADV Than))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,222.3571)
+takyn@l=taken@m=44420@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,226.3665)
+putt@l=putten@m=35369@e=nonfrench@
+(HV a)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,231.3780)
+deyd@l=dien@m=11564@e=nonfrench@
+(HV a)
+(MD myth)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,233.3834)
+seyn@l=sen@m=39393@e=nonfrench@l=seien@m=39209@e=nonfrench@
+(HVD had)
+(ADVP-TMP (ADV neuyr))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkentho-m1.lemma.psd
+(ID CMKENTHO-M1,135.36)
+gemynte@l=iminten@m=22079@e=nonfrench@w=doubt@
+(HVD h+afde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkentho-m1.lemma.psd
+(ID CMKENTHO-M1,142.209)
+gety+ded@l=itithien@m=23602@e=nonfrench@
+(HVP h+at+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkentho-m1.lemma.psd
+(ID CMKENTHO-M1,143.234)
+beteald@l=beten@m=4268@e=nonfrench@w=doubt@l=beten@m=4269@e=nonfrench@
+(HVP habbe+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkentho-m1.lemma.psd
+(ID CMKENTHO-M1,144.276)
+forhaten@l=forhoten@m=16987@e=nonfrench@
+(HVD h+afde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkentse-m2.lemma.psd
+(ID CMKENTSE-M2,216.52)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbet)
+(ADVP-TMP (ADV nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkentse-m2.lemma.psd
+(ID CMKENTSE-M2,216.53)
+ioffred@l=ioffren@m=23261@e=nonfrench@
+(HVP habbet)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkentse-m2.lemma.psd
+(ID CMKENTSE-M2,217.83)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbe+t)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkentse-m2.lemma.psd
+(ID CMKENTSE-M2,218.90)
+maked@l=maken@m=26584@e=nonfrench@l=maken@m=26585@e=nonfrench@
+(HVP habbe+t)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkentse-m2.lemma.psd
+(ID CMKENTSE-M2,219.118)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbet)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkentse-m2.lemma.psd
+(ID CMKENTSE-M2,222.220)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbe+t)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlamb1-m1.lemma.psd
+(ID CMLAMB1-M1,77.75)
+bigunnen@l=biginnen@m=4470@e=nonfrench@
+(HVP habbe+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlamb1-m1.lemma.psd
+(ID CMLAMB1-M1,77.76)
+isei+d@l=iseien@m=23430@e=nonfrench@
+(HVP habbe+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlamb1-m1.lemma.psd
+(ID CMLAMB1-M1,81.148)
+iholpen@l=ihelpen@m=21844@e=nonfrench@
+(NEG+HVP naue+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlamb1-m1.lemma.psd
+(ID CMLAMB1-M1,83.174)
+uorloren@l=forlesen@m=17013@e=nonfrench@
+(HVD hefde)
+(ADVP-TMP (ADV efre))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,5.33)
+iseid@l=iseien@m=23430@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,7.73)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbet)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,15.178)
+iset@l=isitten@m=23479@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,17.199)
+ihaten@l=hoten@m=21307@e=nonfrench@
+(HVP hafe+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,19.218)
+i+garket@l=yarken@m=53768@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,19.224)
+i+gefen@l=yeven@m=53944@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,39.507)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,45.590)
+iher+d@l=iheren@m=21849@e=nonfrench@
+(HVP habbe+d)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,49.628)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbe+d)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,49.644)
+isceawe+d@l=isheuen@m=23460@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,51.659)
+iher+d@l=iheren@m=21849@e=nonfrench@
+(HVP habbe+d)
+(ADVP-TMP (ADV nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,107.995)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbe+d)
+(ADVP-TMP (ADV nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmlambx1-mx1.lemma.psd
+(ID CMLAMBX1-MX1,123.1201)
+ifestned@l=fastnen@m=15328@e=nonfrench@
+(NEG+HVD nefden)
+(ADVP-TMP (ADV nefre))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,8.209)
+lost@l=losen@m=26122@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,8.210)
+lefte@l=leven@m=25339@e=nonfrench@l=leven@m=25340@e=nonfrench@l=leven@m=25341@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,14.415)
+told@l=tellen@m=44693@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,15.452)
+takyn@l=taken@m=44420@e=nonfrench@
+(HV a)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,18.551)
+ordayned@l=ordeinen@m=30818@e=french@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,23.710)
+slayne@l=slen@m=40820@e=nonfrench@
+(HVD had)
+(ADVP-TMP (ADV tofore))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,38.1235)
+slayne@l=slen@m=40820@e=nonfrench@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,40.1311)
+smytten@l=smiten@m=41102@e=nonfrench@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,40.1318)
+slayne@l=slen@m=40820@e=nonfrench@
+(HV have)
+(ADVP-TMP (ADV Than))
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,43.1426)
+purfilde@l=purfiled@m=35243@e=french@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,49.1595)
+sought@l=sechen@m=39128@e=nonfrench@l=sechen@m=39128@e=nonfrench@
+(HVD had)
+(ADVP-TMP (NP-MSR (NUM three) (N yere)) (ADV before))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,55.1823)
+lyen@l=lien@m=25443@e=nonfrench@
+(HV have)
+(NP-TMP (D that) (N nyght))
+(MD sholde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,55.1835)
+slayne@l=slen@m=40820@e=nonfrench@
+(HV have)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,61.2034)
+slayne@l=slen@m=40820@e=nonfrench@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,61.2041)
+foughtyn@l=fighten@m=15910@e=nonfrench@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,66.2236)
+slayne@l=slen@m=40820@e=nonfrench@
+(HVP have)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,68.2299)
+fellyd@l=fellen@m=15536@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,181.2417)
+overtakyn@l=overtaken@m=32010@e=nonfrench@w=stemming@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,197.3009)
+strykyn@l=striken@m=43351@e=nonfrench@
+(HVD had)
+(ADVP-TMP (ADV Than))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,203.3242)
+sene@l=sen@m=39393@e=nonfrench@l=sen@m=39394@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,207.3402)
+redyn@l=reden@m=36308@e=nonfrench@w=doubt@l=reden@m=36309@e=nonfrench@l=reden@m=36310@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,633.3726)
+defowled@l=defoulen@m=10868@e=nonfrench@w=stemming@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,635.3782)
+holde@l=holden@m=20995@e=nonfrench@l=holden@m=20996@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,636.3787)
+gone@l=gon@m=19078@e=nonfrench@l=ginnen@m=18604@e=nonfrench@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,646.4149)
+harde@l=hardenen@m=19972@e=nonfrench@w=doubt@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,647.4159)
+ryddyn@l=riden@m=37470@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,648.4202)
+abydyn@l=abiden@m=88@e=nonfrench@w=doubt@
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,661.4627)
+lyved@l=liven@m=25843@e=nonfrench@w=stemming@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,663.4723)
+borne@l=beren@m=4156@e=nonfrench@l=beren@m=4157@e=nonfrench@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmalory-m4.lemma.psd
+(ID CMMALORY-M4,664.4739)
+overtake@l=overtaken@m=32010@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,1.12)
+deserued@l=deserven@m=11291@e=french@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,3.29)
+entflawmed@l=enflaumen@m=13775@e=nonfrench@w=doubt@
+(HVP han)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,3.36)
+passed@l=passen@m=32556@e=french@
+(HVP haue)
+(NP-TMP (ADV often) (NS tymes))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,3.36)
+ryden@l=riden@m=37470@e=nonfrench@
+(HVP haue)
+(NP-TMP (ADV often) (NS tymes))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,5.73)
+lost@l=losen@m=26122@e=nonfrench@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,7.126)
+hydd@l=hiden@m=20739@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,8.135)
+seen@l=sen@m=39393@e=nonfrench@l=sen@m=39394@e=nonfrench@
+(HVP haue)
+(NP-TMP (Q many) (NS tymes))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,8.135)
+beholden@l=biholden@m=4526@e=nonfrench@
+(HVP haue)
+(NP-TMP (Q many) (NS tymes))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,8.137)
+departed@l=departen@m=11123@e=french@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,9.164)
+seen@l=sen@m=39393@e=nonfrench@l=sen@m=39394@e=nonfrench@
+(HVP haue)
+(NP-TMP (ADV often) (N tyme))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,11.213)
+biryed@l=biren@m=4725@e=nonfrench@
+(HV haue)
+(NP-TMP (Q+N somtyme))
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,13.272)
+sett@l=setten@m=39654@e=nonfrench@l=sitten@m=40572@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,14.308)
+see@l=sen@m=39393@e=nonfrench@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@l=sen@m=39393@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,18.419)
+destroyed@l=destroien@m=11399@e=french@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,21.507)
+maryed@l=marien@m=26914@e=french@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,27.662)
+ylost@l=losen@m=26122@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,32.809)
+seen@l=sen@m=39393@e=nonfrench@l=sen@m=39394@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,33.841)
+spoken@l=speken@m=42083@e=nonfrench@
+(HVP haue)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,39.990)
+vndirstonden@l=understonden@m=48362@e=nonfrench@w=substitution@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,40.996)
+told@l=tellen@m=44693@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,49.1213)
+suffred@l=sufferen@m=43653@e=french@
+(HVP hath)
+(ADVP-TMP (ADV often))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,49.1216)
+holden@l=holden@m=20995@e=nonfrench@l=holden@m=20996@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,54.1338)
+leyd@l=leden@m=24960@e=nonfrench@l=leden@m=24960@e=nonfrench@l=leien@m=25043@e=nonfrench@w=substitution@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,59.1457)
+slayn@l=slen@m=40820@e=nonfrench@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,68.1703)
+yleye@l=lien@m=25443@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,71.1786)
+sacrificed@l=sacrificen@m=38221@e=nonfrench@l=sacrifien@m=38222@e=french@
+(HV haue)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,73.1861)
+dwelled@l=dwellen@m=12880@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,75.1897)
+made@l=maken@m=26584@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,75.1900)
+destroyed@l=destroien@m=11399@e=french@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,77.1947)
+lyued@l=liven@m=25843@e=nonfrench@w=stemming@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,85.2156)
+hidd@l=hiden@m=20739@e=nonfrench@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,88.2208)
+defouled@l=defoulen@m=10868@e=nonfrench@w=stemming@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,97.2347)
+disserued@l=deserven@m=11291@e=french@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,98.2376)
+wasted@l=wasten@m=51859@e=french@w=stemming@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,105.2573)
+assayed@l=assaien@m=2547@e=french@
+(HVP haue)
+(NP-TMP (ADV often) (NS tymes))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,106.2598)
+seen@l=sen@m=39393@e=nonfrench@l=sen@m=39394@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,110.2682)
++gouen@l=yeven@m=53944@e=nonfrench@w=substitution@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,111.2703)
+seen@l=sen@m=39393@e=nonfrench@l=sen@m=39394@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,111.2709)
+wonnen@l=winnen@m=52917@e=nonfrench@w=substitution@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,113.2767)
+dronken@l=drinken@m=12654@e=nonfrench@
+(HVP haue)
+(NP-TMP (NUMP (NUM .iij.) (CONJ or) (NUM .iiij.)) (NS sithes))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,120.2937)
+mesured@l=mesuren@m=27531@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,120.2941)
+gon@l=gon@m=19078@e=nonfrench@l=ginnen@m=18604@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,120.2942)
+founden@l=finden@m=16004@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,120.2943)
+gon@l=gon@m=19078@e=nonfrench@l=ginnen@m=18604@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,120.2944)
+founden@l=finden@m=16004@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,120.2947)
+seyn@l=sen@m=39393@e=nonfrench@l=seien@m=39209@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,120.2948)
+$seyn@l=sen@m=39393@e=nonfrench@l=seien@m=39209@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,121.2955)
+seen@l=sen@m=39393@e=nonfrench@l=sen@m=39394@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,121.2967)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,122.2973)
+befallen@l=bifallen@m=4416@e=nonfrench@
+(HVP hath)
+(NP-TMP (Q many) (NS tymes))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,122.2977)
+founden@l=finden@m=16004@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,126.3060)
+let@l=leten@m=25257@e=nonfrench@l=leden@m=24960@e=nonfrench@l=leten@m=25257@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,127.3085)
+seen@l=sen@m=39393@e=nonfrench@l=sen@m=39394@e=nonfrench@
+(HVP haue)
+(NP-TMP (QP (ADV full) (Q many)) (NS tymes))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,131.3169)
+coueyted@l=coveiten@m=10085@e=french@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmandev-m3.lemma.psd
+(ID CMMANDEV-M3,140.3217)
+let@l=leten@m=25257@e=nonfrench@l=leden@m=24960@e=nonfrench@l=leten@m=25257@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmarga-m1.lemma.psd
+(ID CMMARGA-M1,86.489)
+iseid@l=iseien@m=23430@e=nonfrench@
+(NEG+HVD Nefde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,7.162)
+accuset@l=ac[c]usen@m=316@e=nonfrench@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,34.962)
+gon@l=gon@m=19078@e=nonfrench@l=ginnen@m=18604@e=nonfrench@
+(HV have)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,36.1027)
+apechet@l=apechen@m=1810@e=nonfrench@
+(HVD hadden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,46.1313)
+sayde@l=seien@m=39209@e=nonfrench@w=doubt@l=seien@m=39210@e=nonfrench@
+(HV haue)
+(MD myghten)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,46.1318)
+tysut@l=ticen@m=45762@e=french@
+(HV haue)
+(ADVP-TMP (ADV neuer))
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,48.1357)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVD haden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,50.1407)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVP haue)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,52.1458)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVP han)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,61.1671)
+taken@l=taken@m=44420@e=nonfrench@
+(HV haue)
+(ADVP-TMP (ADV Then))
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,67.1812)
+ouercomen@l=overcomen@m=31576@e=nonfrench@
+(HV haue)
+(ADVP-TMP (ADVR so) (ADV sone))
+(MD schuld)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,73.1966)
+herde@l=heren@m=20505@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,79.2102)
+sayde@l=seien@m=39209@e=nonfrench@w=doubt@l=seien@m=39210@e=nonfrench@
+(HV haue)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,89.2366)
+smyton@l=smiten@m=41102@e=nonfrench@
+(HV haue)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,91.2419)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,95.2554)
+schryuen@l=shriven@m=40134@e=nonfrench@
+(HV haue)
+(ADVP-TMP (ADV oft))
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,96.2566)
+waschen@l=washen@m=51841@e=nonfrench@
+(HV haue)
+(MD wold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,97.2610)
+schapon@l=shapen@m=39782@e=nonfrench@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,99.2645)
+laft@l=leven@m=25339@e=nonfrench@l=leven@m=25340@e=nonfrench@l=leven@m=25341@e=nonfrench@
+(HVD haden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,106.2889)
+spoken@l=speken@m=42083@e=nonfrench@
+(HVD had)
+(ADVP-TMP (ADV oft))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,108.2949)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVP haue)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,118.3184)
+herde@l=heren@m=20505@e=nonfrench@
+(HVP haue)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmmirk-m34.lemma.psd
+(ID CMMIRK-M34,137.3628)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVP haue)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmntest-m3.lemma.psd
+(ID CMNTEST-M3,1,1J.28)
+seyn@l=sen@m=39393@e=nonfrench@l=seien@m=39209@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmntest-m3.lemma.psd
+(ID CMNTEST-M3,1,1J.36)
+teld@l=tellen@m=44693@e=nonfrench@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmntest-m3.lemma.psd
+(ID CMNTEST-M3,4,40J.333)
+comun@l=communen@m=8626@e=french@l=comen@m=8522@e=nonfrench@
+(HVD hadden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmntest-m3.lemma.psd
+(ID CMNTEST-M3,6,40J.521)
+seid@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmntest-m3.lemma.psd
+(ID CMNTEST-M3,7,40J.675)
+take@l=taken@m=44420@e=nonfrench@
+(HV haue)
+(MD wolden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmntest-m3.lemma.psd
+(ID CMNTEST-M3,8,1J.715)
+dampned@l=dampnen@m=10533@e=french@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmntest-m3.lemma.psd
+(ID CMNTEST-M3,9,20J.902)
+conspirid@l=conspiren@m=9414@e=french@
+(HVD hadden)
+(ADVP-TMP (ADV thanne))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmntest-m3.lemma.psd
+(ID CMNTEST-M3,11,1J.1069)
+seid@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMNTEST-M3,11,40J.1149)
++gouun@l=yeven@m=53944@e=nonfrench@
+(HVD hadden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,DED.1.4)
+wennd@l=wenden@m=52201@e=nonfrench@
+(HVP hafe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,DED.L23.10)
+sammnedd@l=samnen@m=38420@e=nonfrench@
+(HVP hafe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,DED.L23.13)
+sett@l=setten@m=39654@e=nonfrench@l=sitten@m=40572@e=nonfrench@
+(HVP hafe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,DED.L113.33)
+turrnedd@l=turnen@m=47404@e=nonfrench@
+(HVP hafe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,DED.L113.34)
+hollpenn@l=helpen@m=20336@e=nonfrench@
+(HVP hafe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,DED.L143.38)
+addledd@l=adlen@m=504@e=nonfrench@
+(HV hafenn)
+(MD shall)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,DED.L285.57)
+turrnedd@l=turnen@m=47404@e=nonfrench@
+(HVP hafe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,2.140)
+herrd@l=heren@m=20505@e=nonfrench@
+(HVP hafe+t+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,2.140)
++gatedd@l=yeten@m=53933@e=nonfrench@
+(HVP hafe+t+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,6.175)
+sh+awedd@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39917@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,6.180)
+se+g+gd@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@
+(HVD haffde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,12.222)
+lokedd@l=loken@m=25944@e=nonfrench@
+(HVD haffde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,14.237)
+sett@l=setten@m=39654@e=nonfrench@l=sitten@m=40572@e=nonfrench@
+(HVD haffde)
+(ADVP-TMP (ADV +tanne))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,14.239)
+sett@l=setten@m=39654@e=nonfrench@l=sitten@m=40572@e=nonfrench@
+(HVD haffde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,16.251)
+filledd@l=fillen@m=15971@e=nonfrench@
+(HVD haffde)
+(ADVP-TMP (ADV a+g+g))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,31.351)
+sh+awedd@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39917@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,34.374)
+metedd@l=meten@m=27560@e=nonfrench@l=meten@m=27561@e=nonfrench@l=meten@m=27562@e=nonfrench@l=meten@m=27563@e=nonfrench@
+(HVD haffdenn)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,34.375)
+metedd@l=meten@m=27560@e=nonfrench@l=meten@m=27561@e=nonfrench@l=meten@m=27562@e=nonfrench@l=meten@m=27563@e=nonfrench@
+(HVD haffdenn)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,34.378)
+metedd@l=meten@m=27560@e=nonfrench@l=meten@m=27561@e=nonfrench@l=meten@m=27562@e=nonfrench@l=meten@m=27563@e=nonfrench@
+(HVD haffdenn)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,36.394)
+sh+awedd@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39917@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,36.395)
+sh+awedd@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39917@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,37.403)
+sh+awedd@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39917@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,46.471)
+Forrlorenn@l=forlesen@m=17013@e=nonfrench@l=forlosen@m=17032@e=nonfrench@
+(HVD haffdenn)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,65.593)
+sett@l=setten@m=39654@e=nonfrench@l=sitten@m=40572@e=nonfrench@
+(HVD haffde)
+(ADVP-TMP (ADV +tanne))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,79.699)
+sett@l=setten@m=39654@e=nonfrench@l=sitten@m=40572@e=nonfrench@
+(HVD haffde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,79.701)
+se+g+gd@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@
+(HVD haffde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,83.730)
+fesstnedd@l=fastnen@m=15328@e=nonfrench@
+(HVP hafe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,85.758)
+sh+awedd@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39917@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,154.1269)
+sla+genn@l=slen@m=40820@e=nonfrench@
+(HVP haffst)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,156.1286)
+sh+awedd@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39917@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,172.1417)
+sh+awedd@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39917@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,189.1559)
+sh+awedd@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39917@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,194.1593)
+sh+awedd@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39917@e=nonfrench@
+(HVP hafe)
+(ADVP-TMP (ADV nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,199.1630)
+sh+awedd@l=sheuen@m=39916@e=nonfrench@l=sheuen@m=39917@e=nonfrench@
+(HVP hafe)
+(ADVP-TMP (ADV nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,200.1647)
+nemmnedd@l=nemnen@m=29299@e=nonfrench@
+(HVP hafe)
+(ADVP-TMP (ADV nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,236.1941)
+strenedd@l=strenen@m=43281@e=nonfrench@
+(HVD haffde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,238.1958)
+redd@l=reden@m=36308@e=nonfrench@w=doubt@l=reden@m=36309@e=nonfrench@l=reden@m=36310@e=nonfrench@
+(HVD haffde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,258.2089)
+bonedd@l=bonen@m=5511@e=nonfrench@
+(HVD haffdenn)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,263.2135)
++geornedd@l=irennen@m=23342@e=nonfrench@
+(HVD haffde)
+(ADVP-TMP (ADV A+g+g))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,263.2136)
++geornedd@l=irennen@m=23342@e=nonfrench@
+(HVD haffde)
+(ADVP-TMP (ADV a+g+g))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,263.2137)
++gatedd@l=yeten@m=53933@e=nonfrench@
+(HVD haffde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,263.2138)
+se+g+gd@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@
+(HVD haffde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,268.2183)
+sett@l=setten@m=39654@e=nonfrench@l=sitten@m=40572@e=nonfrench@
+(HVD haffde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmorm-m1.lemma.psd
+(ID CMORM-M1,I,283.2329)
+letenn@l=leten@m=25257@e=nonfrench@
+(HVD haffde)
+(ADVP-TMP (ADV +ar))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmotest-m3.lemma.psd
+(ID CMOTEST-M3,2,1G.89)
+reyned@l=regnen@m=36511@e=french@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmotest-m3.lemma.psd
+(ID CMOTEST-M3,14,1G.491)
+smyte@l=smiten@m=41102@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmotest-m3.lemma.psd
+(ID CMOTEST-M3,17,1N.801)
+broke@l=breken@m=5908@e=nonfrench@
+(HVD hadden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpeterb-m1.lemma.psd
+(ID CMPETERB-M1,45.123)
+numen@l=nimen@m=29539@e=nonfrench@
+(HVD hefde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpeterb-m1.lemma.psd
+(ID CMPETERB-M1,48.203)
+numen@l=nimen@m=29539@e=nonfrench@
+(HVD h+afde)
+(ADVP-TMP (ADVR +aror))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpeterb-m1.lemma.psd
+(ID CMPETERB-M1,55.416)
+gadered@l=gaderen@m=18044@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpeterb-m1.lemma.psd
+(ID CMPETERB-M1,60.646)
+begunnon@l=biginnen@m=4470@e=nonfrench@
+(HVP haued)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,17.112)
+in-fecte@l=infecten@m=22601@e=nonfrench@w=doubt@w=substitution@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,17.112)
+schend@l=shenden@m=39857@e=nonfrench@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,39.262)
+i-spared@l=sparen@m=41972@e=nonfrench@
+(HV have)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,41.270)
+infecte@l=infecten@m=22601@e=nonfrench@w=doubt@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,45.288)
+i-made@l=imaken@m=22029@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,47.304)
+i-do@l=don@m=12367@e=nonfrench@
+(HVD hadde)
+(ADVP-TMP (ADV +tanne))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,55.374)
+i-regned@l=regnen@m=36511@e=french@
+(HVD hadde)
+(ADVP-TMP (ADVR ra+ter))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,65.461)
+i-dampned@l=dampnen@m=10533@e=french@w=substitution@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,71.494)
+i-left@l=ileven@m=21935@e=nonfrench@l=ileven@m=21936@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,75.529)
+i-lerned@l=ilernen@m=21926@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,77.541)
+i-wedded@l=wedden@m=51968@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,77.543)
+i-spoused@l=spousen@m=42368@e=french@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,77.544)
+i-bro+gt@l=ibringen@m=21618@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,81.577)
+i-favored@l=favouren@m=15389@e=french@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,121.830)
+i-wedded@l=wedden@m=51968@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,137.941)
+i-recovered@l=recoveren@m=36240@e=french@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,147.1036)
+i-bulde@l=bilden@m=4579@e=nonfrench@
+(HVD hadde)
+(ADVP-TMP (ADV (ADV21 to) (ADV22 forehonde)))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,155.1111)
+i-ordeyned@l=ordeinen@m=30818@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,181.1297)
+desired@l=desiren@m=11318@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,207.1479)
+i-spoke@l=ispeken@m=23498@e=nonfrench@
+(HVP have+t)
+(ADVP-TMP (ADV (ADV21 to) (ADV22 forehonde)))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,233.1679)
+i-spoke@l=ispeken@m=23498@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,241.1746)
+i-slawe@l=ofslen@m=30391@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,245.1776)
+i-broke@l=breken@m=5908@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,259.1893)
+i-fonge@l=fon@m=16615@e=nonfrench@
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,321.2344)
+i-gete@l=geten@m=18489@e=nonfrench@l=geten@m=18490@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,321.2345)
+i-gete@l=geten@m=18489@e=nonfrench@l=geten@m=18490@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,347.2540)
+i-chaunged@l=changen@m=7376@e=french@w=substitution@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,405.2958)
+i-+geve@l=yeven@m=53944@e=nonfrench@w=substitution@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,421.3078)
+made@l=maken@m=26584@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,435.3189)
+i-dampned@l=dampnen@m=10533@e=french@w=substitution@
+(HV have)
+(ADVP-TMP (ADV +Tanne))
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,435.3195)
+i-spared@l=sparen@m=41972@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VI,465.3439)
+decresed@l=decresen@m=10731@e=french@w=stemming@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VIII,83.3532)
+studied@l=studien@m=43438@e=french@
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VIII,89.3581)
+i-fonge@l=fon@m=16615@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VIII,89.3588)
+i-lerned@l=ilernen@m=21926@e=nonfrench@
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VIII,93.3617)
+i-let@l=leten@m=25257@e=nonfrench@w=doubt@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpolych-m3.lemma.psd
+(ID CMPOLYCH-M3,VIII,111.3743)
+i-fonge@l=fon@m=16615@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpurvey-m3.lemma.psd
+(ID CMPURVEY-M3,I,12.460)
+slayn@l=slen@m=40820@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpurvey-m3.lemma.psd
+(ID CMPURVEY-M3,I,24.1135)
+forsake@l=forsaken@m=17117@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpurvey-m3.lemma.psd
+(ID CMPURVEY-M3,I,24.1174)
+forsake@l=forsaken@m=17117@e=nonfrench@
+(HVD hadden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpurvey-m3.lemma.psd
+(ID CMPURVEY-M3,I,25.1252)
+dressid@l=dressen@m=12602@e=french@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpurvey-m3.lemma.psd
+(ID CMPURVEY-M3,I,25.1263)
+forsake@l=forsaken@m=17117@e=nonfrench@
+(HVD hadden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpurvey-m3.lemma.psd
+(ID CMPURVEY-M3,I,37.1734)
+synned@l=sinnen@m=40481@e=nonfrench@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpurvey-m3.lemma.psd
+(ID CMPURVEY-M3,I,44.1917)
+ordeyned@l=ordeinen@m=30818@e=french@
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpurvey-m3.lemma.psd
+(ID CMPURVEY-M3,I,57.2269)
+translatid@l=translaten@m=46784@e=nonfrench@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmpurvey-m3.lemma.psd
+(ID CMPURVEY-M3,I,58.2291)
+set@l=setten@m=39654@e=nonfrench@l=sitten@m=40572@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmreynar-m4.lemma.psd
+(ID CMREYNAR-M4,7.28)
+bythought@l=bithinken@m=4936@e=nonfrench@
+(HVD had)
+(ADVP-TMP (ADV tho))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmreynar-m4.lemma.psd
+(ID CMREYNAR-M4,9.100)
+lefte@l=leven@m=25339@e=nonfrench@l=leven@m=25340@e=nonfrench@l=leven@m=25341@e=nonfrench@
+(HV haue)
+(MD shold)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmreynar-m4.lemma.psd
+(ID CMREYNAR-M4,11.182)
+tasted@l=tasten@m=44587@e=french@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmreynes-m4.lemma.psd
+(ID CMREYNES-M4,295.545)
+grauntyd@l=graunten@m=19274@e=french@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrollep-m24.lemma.psd
+(ID CMROLLEP-M24,88.391)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVP hase)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrollep-m24.lemma.psd
+(ID CMROLLEP-M24,92.475)
+deceyved@l=deceiven@m=10673@e=french@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrollep-m24.lemma.psd
+(ID CMROLLEP-M24,95.531)
+lent@l=lenden@m=25102@e=nonfrench@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrollep-m24.lemma.psd
+(ID CMROLLEP-M24,102.620)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVP hase)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrollep-m24.lemma.psd
+(ID CMROLLEP-M24,110.794)
+lost@l=losen@m=26122@e=nonfrench@
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrollep-m24.lemma.psd
+(ID CMROLLEP-M24,116.908)
+lufed@l=loven@m=26259@e=nonfrench@w=stemming@
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrollep-m24.lemma.psd
+(ID CMROLLEP-M24,119.979)
+sayde@l=seien@m=39209@e=nonfrench@w=doubt@l=seien@m=39210@e=nonfrench@
+(HVP have)
+(ADVP-TMP (ADV schortly))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,1.14)
+tane@l=taken@m=44420@e=nonfrench@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,1.27)
+sett@l=setten@m=39654@e=nonfrench@l=sitten@m=40572@e=nonfrench@
+(HVP haf)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,2.28)
+sett@l=setten@m=39654@e=nonfrench@l=sitten@m=40572@e=nonfrench@
+(HVP haf)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,2.31)
+ouer-comemyn@l=overcomen@m=31576@e=nonfrench@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,2.32)
+wondyde@l=wounden@m=53523@e=nonfrench@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,2.33)
+thurghe-fychede@l=thurghfichen@m=45624@e=nonfrench@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,2.40)
+taughte@l=techen@m=44633@e=nonfrench@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,2.41)
+lyghtenede@l=lighten@m=25503@e=nonfrench@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,2.43)
+faylede@l=failen@m=15144@e=french@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,3.87)
+dysseruede@l=deserven@m=11291@e=french@
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,3.91)
+knawen@l=knouen@m=24477@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,18.423)
+felyde@l=felen@m=15520@e=nonfrench@l=felen@m=15521@e=nonfrench@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,20.471)
+tolde@l=tellen@m=44693@e=nonfrench@
+(HVP haue)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,34.713)
+sent@l=senden@m=39404@e=nonfrench@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,34.714)
+sent@l=senden@m=39404@e=nonfrench@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmrolltr-m24.lemma.psd
+(ID CMROLLTR-M24,40.827)
+turnede@l=turnen@m=47404@e=nonfrench@
+(HVP hase)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmroyal-m34.lemma.psd
+(ID CMROYAL-M34,255.270)
+reyned@l=regnen@m=36511@e=french@
+(HVP haue)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmroyal-m34.lemma.psd
+(ID CMROYAL-M34,255.278)
+lost@l=losen@m=26122@e=nonfrench@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmroyal-m34.lemma.psd
+(ID CMROYAL-M34,259.343)
+spokon@l=speken@m=42083@e=nonfrench@
+(HVD had)
+(ADVP-TMP (ADV afore))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmroyal-m34.lemma.psd
+(ID CMROYAL-M34,259.343)
+seen@l=sen@m=39393@e=nonfrench@l=sen@m=39394@e=nonfrench@
+(HVD had)
+(ADVP-TMP (ADV afore))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmsawles-m1.lemma.psd
+(ID CMSAWLES-M1,168.28)
+ileanet@l=lenen@m=25107@e=nonfrench@l=lenen@m=25107@e=nonfrench@l=lenen@m=25108@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmsiege-m4.lemma.psd
+(ID CMSIEGE-M4,75.134)
+take@l=taken@m=44420@e=nonfrench@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmsiege-m4.lemma.psd
+(ID CMSIEGE-M4,78.237)
+take@l=taken@m=44420@e=nonfrench@
+(HVD hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmsiege-m4.lemma.psd
+(ID CMSIEGE-M4,82.336)
++geyfe@l=yeven@m=53944@e=nonfrench@
+(HVD hade)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,19.218)
+opened@l=openen@m=30724@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,21.249)
+bigunnen@l=biginnen@m=4470@e=nonfrench@
+(HVP habbe+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,21.250)
+seid@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@
+(HVP habbe+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,33.461)
+warned@l=warnen@m=51804@e=french@w=stemming@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,59.818)
+maked@l=maken@m=26584@e=nonfrench@l=maken@m=26585@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,61.833)
+logen@l=loggen@m=25917@e=french@
+(HVP habbe+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,63.849)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVP hauen)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,71.976)
+blissed@l=blissen@m=5238@e=nonfrench@
+(HVP hauest)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,115.1557)
+ouercumen@l=overcomen@m=31576@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,135.1806)
+iwist@l=iwiten@m=23709@e=nonfrench@l=iwiten@m=23710@e=nonfrench@l=iwiten@m=23711@e=nonfrench@
+(HVP hauest)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,141.1900)
+seid@l=seien@m=39209@e=nonfrench@l=seien@m=39210@e=nonfrench@
+(HVP hauen)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,143.1930)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbe+d)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,179.2442)
+boht@l=bien@m=4411@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,185.2553)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP habbe+d)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,185.2559)
+maked@l=maken@m=26584@e=nonfrench@l=maken@m=26585@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,189.2605)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVP hauen)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,195.2692)
+forloren@l=forlesen@m=17013@e=nonfrench@l=forlosen@m=17032@e=nonfrench@
+(HVD hadde)
+(ADVP-TMP (ADV +tanne))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,197.2702)
+binumen@l=binimen@m=4680@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,207.2869)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVP hauen)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmtrinit-mx1.lemma.psd
+(ID CMTRINIT-MX1,209.2889)
+leid@l=leden@m=24960@e=nonfrench@l=leden@m=24960@e=nonfrench@l=leien@m=25043@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,3.23)
+imaked@l=imaken@m=22029@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,7.62)
+misdon@l=misdon@m=28025@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,7.69)
+forboden@l=forbeden@m=16659@e=nonfrench@
+(HVP haf+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,9.88)
+beuolen@l=befelen@m=3904@e=nonfrench@l=befelen@m=3905@e=nonfrench@
+(HVP habbe)
+(ADVP-TMP (ADV Oft))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,11.104)
++gemaked@l=imaken@m=22029@e=nonfrench@
+(HVP haue+d)
+(ADVP-TMP (ADV ofte))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,11.120)
+beuolen@l=befelen@m=3904@e=nonfrench@l=befelen@m=3905@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,15.157)
+forworpen@l=forworthen@m=17354@e=nonfrench@
+(HVP haf+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,17.192)
+ofearned@l=ofernen@m=30273@e=nonfrench@l=ofernen@m=30274@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,17.193)
+forloren@l=forlesen@m=17013@e=nonfrench@l=forlosen@m=17032@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,21.238)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP hafst)
+(ADVP-TMP (ADV Nv))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,23.260)
+iwelt@l=iwelden@m=23663@e=nonfrench@
+(HVP habbe+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,23.261)
+forsaken@l=forsaken@m=17117@e=nonfrench@
+(HVP hafst)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,37.430)
++geherd@l=isen@m=23439@e=nonfrench@l=heren@m=20505@e=nonfrench@w=stemming@
+(HVP hafst)
+(ADVP-TMP (ADV Nu))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,53.578)
+i+toht@l=ithenchen@m=23577@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,69.761)
+ilierned@l=ilernen@m=21926@e=nonfrench@
+(HVP habbe+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,71.790)
+iherd@l=iheren@m=21849@e=nonfrench@
+(HVP hafst)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,71.790)
+ilierned@l=ilernen@m=21926@e=nonfrench@
+(HVP hafst)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,81.912)
+forloren@l=forlesen@m=17013@e=nonfrench@l=forlosen@m=17032@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,85.977)
+iwriten@l=writen@m=53686@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,91.1078)
+iswunken@l=swinken@m=44259@e=nonfrench@
+(HVP haf+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,93.1089)
+beswiken@l=biswiken@m=4908@e=nonfrench@
+(HVP haf+d)
+(ADVP-TMP (ADV ofte))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,97.1140)
+behoten@l=bihoten@m=4533@e=nonfrench@
+(HVP haf+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,119.1464)
+iopened@l=iopenen@m=23263@e=nonfrench@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,121.1465)
+bihoten@l=bihoten@m=4533@e=nonfrench@
+(HVP haf+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,127.1551)
+of-earned@l=ofernen@m=30273@e=nonfrench@l=ofernen@m=30274@e=nonfrench@w=substitution@
+(HVP haue+d)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices1-m1.lemma.psd
+(ID CMVICES1-M1,151.1862)
+beswonken@l=biswiken@m=4908@e=nonfrench@
+(HVP habbe)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices4-m34.lemma.psd
+(ID CMVICES4-M34,103.138)
+herde@l=heren@m=20505@e=nonfrench@
+(HVP hast)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices4-m34.lemma.psd
+(ID CMVICES4-M34,103.147)
+herde@l=heren@m=20505@e=nonfrench@
+(HVP hast)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices4-m34.lemma.psd
+(ID CMVICES4-M34,108.212)
+herde@l=heren@m=20505@e=nonfrench@
+(HVP hast)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmvices4-m34.lemma.psd
+(ID CMVICES4-M34,116.362)
+herd@l=herden@m=20484@e=nonfrench@l=herden@m=20485@e=nonfrench@l=heren@m=20505@e=nonfrench@l=herten@m=20615@e=nonfrench@l=herien@m=20525@e=nonfrench@w=stemming@
+(HVP hast)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,228.87)
+ordeyned@l=ordeinen@m=30818@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,231.143)
+ordeynud@l=ordeinen@m=30818@e=french@w=stemming@
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,234.200)
+sauyd@l=saven@m=38642@e=french@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,278.937)
+wra+t+ted@l=wratthen@m=53563@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,305.1401)
+trowyd@l=trouen@m=47239@e=nonfrench@
+(HV haue)
+(MD schulde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,306.1410)
+trowyd@l=trouen@m=47239@e=nonfrench@
+(HVD hadde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,323.1729)
+teeld@l=telden@m=44677@e=nonfrench@
+(HV hafe)
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,323.1736)
+felyd@l=felen@m=15520@e=nonfrench@l=felen@m=15521@e=nonfrench@w=substitution@
+(HV hafe)
+(MD schulde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,323.1737)
+hungred@l=hungren@m=21503@e=nonfrench@
+(HV han)
+(MD schulde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,326.1775)
+fled@l=flen@m=16271@e=nonfrench@l=flen@m=16272@e=nonfrench@
+(HV haue)
+(MD myhte)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,338.1998)
+founden@l=finden@m=16004@e=nonfrench@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,341.2040)
+ordenyd@l=ordeinen@m=30818@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,343.2090)
+fownde@l=finden@m=16004@e=nonfrench@w=stemming@
+(HV haue)
+(MD schulde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,349.2183)
+stryuen@l=striven@m=43365@e=french@
+(HVP han)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,353.2252)
+fayled@l=failen@m=15144@e=french@
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,369.2568)
+trowed@l=trouen@m=47239@e=nonfrench@
+(HV $haue)
+(MD schulden)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,374.2658)
+ordeynet@l=ordeinen@m=30818@e=french@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,382.2812)
++gyuen@l=yeven@m=53944@e=nonfrench@w=substitution@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,395.3045)
+lettyd@l=leten@m=25257@e=nonfrench@
+(HV $haue)
+(ADVP-TMP (ADV +tanne))
+(MD wolde)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,416.3419)
+lettud@l=leven@m=25339@e=nonfrench@w=stemming@
+(HVD hadden)
+(ADVP-TMP (ADV +tanne))
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,418.3438)
+reproued@l=repreven@m=36957@e=french@
+(HV haue)
+(MD my+gten)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,418.3444)
+synned@l=sinnen@m=40481@e=nonfrench@
+(HV haue)
+(MD my+gte)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,522.3710)
+fulfullud@l=ful-fillen@m=17897@e=nonfrench@w=doubt@
+(HVP ha+t)
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmwycser-m3.lemma.psd
+(ID CMWYCSER-M3,523.3721)
+fulfullud@l=ful-fillen@m=17897@e=nonfrench@w=doubt@
+(HVP ha+t)

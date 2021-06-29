@@ -1,0 +1,5 @@
+# /home/gunnar/Projects/corpora/PPCME2-lemmatized/cmkempe-m4.lemma.psd
+(ID CMKEMPE-M4,33.721)
+dwellyng@l=dwellen@m=12880@e=nonfrench@
+(BEN ben)
+(HVD had)

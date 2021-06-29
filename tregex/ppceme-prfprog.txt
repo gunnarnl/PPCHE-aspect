@@ -1,0 +1,52 @@
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/burnetroc-e3-h.psd
+(ID BURNETROC-E3-H,20.98)
+preparing
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/hoole-e3-h.psd
+(ID HOOLE-E3-H,4.26)
+learning
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/rhaddsr-1700-e3-h.psd
+(ID RHADDSR-1700-E3-H,43.7)
+crying
+(BEN bine)
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/eoxinden-1680-e3-p1.psd
+(ID EOXINDEN-1680-E3-P1,352.42)
+scralling
+(BEN been)
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/vanbr-e3-p1.psd
+(ID VANBR-E3-P1,43.134)
+tampering
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/vanbr-e3-p1.psd
+(ID VANBR-E3-P1,56.592)
+Ogling
+(BEN been)
+(HVP has)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/vanbr-e3-p1.psd
+(ID VANBR-E3-P1,56.593)
+Ogling
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/knyvett-1630-e2-p2.psd
+(ID KNYVETT-1630-E2-P2,93.255)
+rambling
+(BEN been)
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/knyvett-1630-e2-p2.psd
+(ID KNYVETT-1630-E2-P2,94.256)
+*
+(BEN *)
+(HVP have)
+(NP-TMP (D this) (N weeke))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/rhaddsr-1670-e3-p2.psd
+(ID RHADDSR-1670-E3-P2,10.29)
+tydeing
+(BEN bine)
+(HVP have)

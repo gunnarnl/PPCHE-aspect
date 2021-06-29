@@ -1,0 +1,837 @@
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/anhatton-e3-h.psd
+(ID ANHATTON-E3-H,2,214.42)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/armin-e2-h.psd
+(ID ARMIN-E2-H,8.2)
+dealing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/armin-e2-h.psd
+(ID ARMIN-E2-H,42.260)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/asch-e1-h.psd
+(ID ASCH-E1-H,3R.60)
+speakinge
+(BEP be)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/authnew-e2-h.psd
+(ID AUTHNEW-E2-H,3,20J.295)
+baptizing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/behn-e3-h.psd
+(ID BEHN-E3-H,162.106)
+bursting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/behn-e3-h.psd
+(ID BEHN-E3-H,191.199)
+treating
+(BED was)
+(NP-TMP (Q every) (N day))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/burnetcha-e3-h.psd
+(ID BURNETCHA-E3-H,1.1,169.49)
+pressing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/burnetcha-e3-h.psd
+(ID BURNETCHA-E3-H,1.1,174.140)
+attempting
+(BED was)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/burnetcha-e3-h.psd
+(ID BURNETCHA-E3-H,1.2,162.316)
+entering
+(BED was)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/burnetcha-e3-h.psd
+(ID BURNETCHA-E3-H,1.2,164.350)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/chatton-e3-h.psd
+(ID CHATTON-E3-H,2,160.12)
+going
+(BEP is)
+(NP-TMP (D this) (N weeke))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/evelyn-e3-h.psd
+(ID EVELYN-E3-H,902.141)
+tempting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/fiennes-e3-h.psd
+(ID FIENNES-E3-H,152.287)
+passant
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/fox-e3-h.psd
+(ID FOX-E3-H,153.222)
+concerneinge
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/fox-e3-h.psd
+(ID FOX-E3-H,156.283)
+speakinge
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/fox-e3-h.psd
+(ID FOX-E3-H,156.300)
+layinge
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/fox-e3-h.psd
+(ID FOX-E3-H,156.301)
+askeinge
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/fryer-e3-h.psd
+(ID FRYER-E3-H,II,185.209)
+enticing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/gifford-e2-h.psd
+(ID GIFFORD-E2-H,B2R.146)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/hoxinden-1660-e3-h.psd
+(ID HOXINDEN-1660-E3-H,273.9)
+wanting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/hoxinden-1660-e3-h.psd
+(ID HOXINDEN-1660-E3-H,280.187)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/jpinney-e3-h.psd
+(ID JPINNEY-E3-H,39.52)
+$wanttinge
+(BE $be)
+(MD could)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/knyvett-1620-e2-h.psd
+(ID KNYVETT-1620-E2-H,56.29)
+providing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/knyvett-1620-e2-h.psd
+(ID KNYVETT-1620-E2-H,58.89)
+going
+(BEP am)
+(NP-TMP (D this) (N afternoone))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/knyvett-1620-e2-h.psd
+(ID KNYVETT-1620-E2-H,59.113)
+going
+(BEP am)
+(ADVP-TMP (ADV presently))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/knyvett-1620-e2-h.psd
+(ID KNYVETT-1620-E2-H,60.146)
+makeing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/latimer-e1-h.psd
+(ID LATIMER-E1-H,37L.327)
+goynge
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/locke-e3-h.psd
+(ID LOCKE-E3-H,45.5)
+oweing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/locke-e3-h.psd
+(ID LOCKE-E3-H,53.151)
+telling
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/machyn-e1-h.psd
+(ID MACHYN-E1-H,196.348)
+dwelling
+(BED was)
+(NP-TMP (D The) (NUM xxix) (N day) (PP (P of) (NP (NPR Aprell))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/machyn-e1-h.psd
+(ID MACHYN-E1-H,199.413)
+syngyng
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/madox-e2-h.psd
+(ID MADOX-E2-H,138.339)
+missing
+(BED wer)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/merrytal-e1-h.psd
+(ID MERRYTAL-E1-H,36.221)
+standyng
+(BED was)
+(ADVP-TMP (ADV Then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/middlet-e2-h.psd
+(ID MIDDLET-E2-H,17.365)
+making
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/middlet-e2-h.psd
+(ID MIDDLET-E2-H,18.399)
+crossing
+(BEP art)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/middlet-e2-h.psd
+(ID MIDDLET-E2-H,19.436)
+running
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/middlet-e2-h.psd
+(ID MIDDLET-E2-H,19.441)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/middlet-e2-h.psd
+(ID MIDDLET-E2-H,21.484)
+studying
+(BEP am)
+(ADVP-TMP (ADV Now) (CP-REL (WADVP-3 0) (C 0) (IP-SUB (ADVP-TMP *T*-3) (NP-SBJ (PRO I)) (HVP $have) (VBN $thought) (CODE {TEXT:ha'thought}) (PP (P+PRO on't)))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/middlet-e2-h.psd
+(ID MIDDLET-E2-H,26.685)
+setting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/mowntayne-e1-h.psd
+(ID MOWNTAYNE-E1-H,208.242)
+standynge
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/oates-e3-h.psd
+(ID OATES-E3-H,4,85.C1.634)
+going
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/osborne-e3-h.psd
+(ID OSBORNE-E3-H,22.9)
+knowing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/osborne-e3-h.psd
+(ID OSBORNE-E3-H,22.17)
+wanting
+(BE bee)
+(MD shall)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/penny-e3-h.psd
+(ID PENNY-E3-H,117.49)
+coming
+(BEP $is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/penny-e3-h.psd
+(ID PENNY-E3-H,149.259)
+Administring
+(BEP $'s)
+(ADVP-TMP (FP even) (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/penny-e3-h.psd
+(ID PENNY-E3-H,150.280)
+praying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/penny-e3-h.psd
+(ID PENNY-E3-H,158.398)
+asking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/pepys-e3-h.psd
+(ID PEPYS-E3-H,8,316.266)
+hearing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/pepys-e3-h.psd
+(ID PEPYS-E3-H,8,319.325)
+playing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/rhaddjr-e3-h.psd
+(ID RHADDJR-E3-H,41.12)
+goeing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/rhaddjr-e3-h.psd
+(ID RHADDJR-E3-H,42.20)
+goeing
+(BEP is)
+(ADVP-TMP (ADV presently))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/rhaddsr-1670-e3-h.psd
+(ID RHADDSR-1670-E3-H,21.52)
+shifting
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/shakesp-e2-h.psd
+(ID SHAKESP-E2-H,43.C2.37)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/shakesp-e2-h.psd
+(ID SHAKESP-E2-H,43.C2.38)
+comming
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/shakesp-e2-h.psd
+(ID SHAKESP-E2-H,54.C2.588)
+*
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/strype-e3-h.psd
+(ID STRYPE-E3-H,181.18)
+remaining
+(BEP is)
+(ADVP-TMP (ADV yet))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/strype-e3-h.psd
+(ID STRYPE-E3-H,182.36)
+beginning
+(BEP *)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/tillots-b-e3-h.psd
+(ID TILLOTS-B-E3-H,452.126)
+wanting
+(BE be)
+(ADVP-TMP (ADV never))
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/torkingt-e1-h.psd
+(ID TORKINGT-E1-H,61.365)
+growing
+(BEP ys)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/tyndnew-e1-h.psd
+(ID TYNDNEW-E1-H,2,1J.118)
+stondynge
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/vanbr-e3-h.psd
+(ID VANBR-E3-H,59.452)
+exposing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/vicary-e1-h.psd
+(ID VICARY-E1-H,55.132)
+according
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/helsinki/walton-e3-h.psd
+(ID WALTON-E3-H,210.7)
+rising
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/anhatton-e3-p1.psd
+(ID ANHATTON-E3-P1,2,154.22)
+failling
+(BE be)
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/armin-e2-p1.psd
+(ID ARMIN-E2-P1,5.5)
+leaning
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/armin-e2-p1.psd
+(ID ARMIN-E2-P1,22.236)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/authnew-e2-p1.psd
+(ID AUTHNEW-E2-P1,13,20J.205)
+leaning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/authnew-e2-p1.psd
+(ID AUTHNEW-E2-P1,2,1A.1179)
+dwelling
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/behn-e3-p1.psd
+(ID BEHN-E3-P1,154.109)
+wanting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/behn-e3-p1.psd
+(ID BEHN-E3-P1,167.212)
+dancing
+(BED were)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/behn-e3-p1.psd
+(ID BEHN-E3-P1,167.213)
+beholding
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/burnetcha-e3-p1.psd
+(ID BURNETCHA-E3-P1,1,176.28)
+owing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/deloney-e2-p1.psd
+(ID DELONEY-E2-P1,6.26)
+borrowing
+(BE be)
+(ADVP-TMP (ADV euer))
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/drummond-e3-p1.psd
+(ID DRUMMOND-E3-P1,2.4,190.12)
+doing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/evelyn-e3-p1.psd
+(ID EVELYN-E3-P1,909.53)
+fabricating
+(BED was)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/evelyn-e3-p1.psd
+(ID EVELYN-E3-P1,912.164)
+beginning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/evelyn-e3-p1.psd
+(ID EVELYN-E3-P1,918.380)
+making
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/farquhar-e3-p1.psd
+(ID FARQUHAR-E3-P1,18.390)
+travelling
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/fitzh-e1-p1.psd
+(ID FITZH-E1-P1,15.126)
+belongynge
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/fox-e3-p1.psd
+(ID FOX-E3-P1,162.365)
+comeinge
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/fox-e3-p1.psd
+(ID FOX-E3-P1,163.390)
+standinge
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/fryer-e3-p1.psd
+(ID FRYER-E3-P1,1,195.20)
+preparing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/gifford-e2-p1.psd
+(ID GIFFORD-E2-P1,F1R.368)
+shewing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/hooke-e3-p1.psd
+(ID HOOKE-E3-P1,108.113)
+differing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/jetaylor-e3-p1.psd
+(ID JETAYLOR-E3-P1,35.228)
+pleasing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/jotaylor-e2-p1.psd
+(ID JOTAYLOR-E2-P1,3,86.C2.337)
+belonging
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/knyvett-1620-e2-p1.psd
+(ID KNYVETT-1620-E2-P1,67.151)
+dispatching
+(BEP am)
+(ADVP-TMP (ADV nowe))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/knyvett-1620-e2-p1.psd
+(ID KNYVETT-1620-E2-P1,71.307)
+going
+(BEP am)
+(ADVP-TMP (ADV nowe))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/knyvett-1620-e2-p1.psd
+(ID KNYVETT-1620-E2-P1,73.371)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/latimer-e1-p1.psd
+(ID LATIMER-E1-P1,30P.109)
+appliynge
+(BEP is)
+(ADVP-TMP (ADV euer))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/latimer-e1-p1.psd
+(ID LATIMER-E1-P1,33P.190)
+hangynge
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/leland-e1-p1.psd
+(ID LELAND-E1-P1,101.428)
+longging
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/locke-e3-p1.psd
+(ID LOCKE-E3-P1,36.65)
+giveing
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/machyn-e1-p1.psd
+(ID MACHYN-E1-P1,56.123)
+rydying
+(BED was)
+(NP-TMP (D The) (NUM xxj) (N day) (PP (P of) (NP (NPR Feybruary))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/machyn-e1-p1.psd
+(ID MACHYN-E1-P1,63.272)
+syngyng
+(BED wher)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/machyn-e1-p1.psd
+(ID MACHYN-E1-P1,96.343)
+hangyng
+(BED $were)
+(ADVP-TMP (ADV be-tyme))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/masham-e2-p1.psd
+(ID MASHAM-E2-P1,103.49)
+going
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/merrytal-e1-p1.psd
+(ID MERRYTAL-E1-P1,2.18)
+walkyng
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/middlet-e2-p1.psd
+(ID MIDDLET-E2-P1,36.461)
+beholding
+(BEP $'me)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/morelet2-e1-p1.psd
+(ID MORELET2-E1-P1,553.132)
+dying
+(BEP am)
+(ADVP-TMP (ADV alredy))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/mowntayne-e1-p1.psd
+(ID MOWNTAYNE-E1-P1,178.11)
+standynge
+(BED where)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/mowntayne-e1-p1.psd
+(ID MOWNTAYNE-E1-P1,179.24)
+gooynge
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/nhadd-1700-e3-p1.psd
+(ID NHADD-1700-E3-P1,50.23)
+sending
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/oates-e3-p1.psd
+(ID OATES-E3-P1,4,76.160)
+riding
+(BED was)
+(ADVP-TMP (ADV before))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/penny-e3-p1.psd
+(ID PENNY-E3-P1,34.225)
+hiring
+(BE be)
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/pepys-e3-p1.psd
+(ID PEPYS-E3-P1,7,403.29)
+returning
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/pepys-e3-p1.psd
+(ID PEPYS-E3-P1,7,423.305)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/rhaddsr-1650-e3-p1.psd
+(ID RHADDSR-1650-E3-P1,4.60)
+wanting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/shakesp-e2-p1.psd
+(ID SHAKESP-E2-P1,48,C2.744)
+comming
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/shakesp-e2-p1.psd
+(ID SHAKESP-E2-P1,49,C1.872)
+going
+(BEP $'s)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/tillots-a-e3-p1.psd
+(ID TILLOTS-A-E3-P1,417.9)
+speaking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/torkingt-e1-p1.psd
+(ID TORKINGT-E1-P1,8.124)
+Werkying
+(BEP ys)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/torkingt-e1-p1.psd
+(ID TORKINGT-E1-P1,8.125)
+werkying
+(BEP be)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/torkingt-e1-p1.psd
+(ID TORKINGT-E1-P1,11.167)
+brynyng
+(BED war)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/torkingt-e1-p1.psd
+(ID TORKINGT-E1-P1,13.191)
+singing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/tyndnew-e1-p1.psd
+(ID TYNDNEW-E1-P1,2,1A.821)
+dwellinge
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/tyndold-e1-p1.psd
+(ID TYNDOLD-E1-P1,4,1G.62)
+buyldinge
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/udall-e1-p1.psd
+(ID UDALL-E1-P1,L33.30)
+facing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/udall-e1-p1.psd
+(ID UDALL-E1-P1,L33.30)
+craking
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/vanbr-e3-p1.psd
+(ID VANBR-E3-P1,49.358)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/vanbr-e3-p1.psd
+(ID VANBR-E3-P1,49.359)
+*
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/vanbr-e3-p1.psd
+(ID VANBR-E3-P1,51.394)
+debating
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/vanbr-e3-p1.psd
+(ID VANBR-E3-P1,52.440)
+coming
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/vanbr-e3-p1.psd
+(ID VANBR-E3-P1,55.551)
+thinking
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/vanbr-e3-p1.psd
+(ID VANBR-E3-P1,66.703)
+saying
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/vicary-e1-p1.psd
+(ID VICARY-E1-P1,24.198)
+waxing
+(BEP are)
+(ADVP-TMP (ADV alwayes))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn1/walton-e3-p1.psd
+(ID WALTON-E3-P1,232.240)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/armin-e2-p2.psd
+(ID ARMIN-E2-P2,39.287)
+pronouncing
+(BE be)
+(NP-TMP (Q+N sometime))
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/asch-e1-p2.psd
+(ID ASCH-E1-P2,11V.9)
+huntinge
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/asch-e1-p2.psd
+(ID ASCH-E1-P2,15V.118)
+preasing
+(BEP be)
+(ADVP-TMP (FP euen) (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/authnew-e2-p2.psd
+(ID AUTHNEW-E2-P2,8,1A.213)
+consenting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/authnew-e2-p2.psd
+(ID AUTHNEW-E2-P2,8,20A.277)
+returning
+(BED Was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/authnew-e2-p2.psd
+(ID AUTHNEW-E2-P2,12,1A.690)
+sleeping
+(BED was)
+(NP-TMP (D the) (ADJ same) (N night))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/authnew-e2-p2.psd
+(ID AUTHNEW-E2-P2,16,1A.1077)
+abiding
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/blundev-e2-p2.psd
+(ID BLUNDEV-E2-P2,59R.63)
+entring
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/blundev-e2-p2.psd
+(ID BLUNDEV-E2-P2,59R.64)
+entering
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/blundev-e2-p2.psd
+(ID BLUNDEV-E2-P2,59R.65)
+entring
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/burnetcha-e3-p2.psd
+(ID BURNETCHA-E3-P2,2,180.104)
+breaking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/burnetcha-e3-p2.psd
+(ID BURNETCHA-E3-P2,2,181.137)
+justifying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/chaplain-e1-p2.psd
+(ID CHAPLAIN-E1-P2,7.85)
+workynge
+(BEP be)
+(ADVP-TMP (ADV dayly))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/chaplain-e1-p2.psd
+(ID CHAPLAIN-E1-P2,13.199)
+remaynynge
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/conway2-e3-p2.psd
+(ID CONWAY2-E3-P2,2.33)
+running
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/conway2-e3-p2.psd
+(ID CONWAY2-E3-P2,3.39)
+trying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/conway2-e3-p2.psd
+(ID CONWAY2-E3-P2,11.91)
+drawing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/evelyn-e3-p2.psd
+(ID EVELYN-E3-P2,886.228)
+inlarging
+(BED were)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/farquhar-e3-p2.psd
+(ID FARQUHAR-E3-P2,22.81)
+breeding
+(BEP $'s)
+(ADVP-TMP (ADV already))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/farquhar-e3-p2.psd
+(ID FARQUHAR-E3-P2,23.142)
+Gabbering
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/farquhar-e3-p2.psd
+(ID FARQUHAR-E3-P2,30.439)
+dying
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/fiennes-e3-p2.psd
+(ID FIENNES-E3-P2,176.189)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/fox-e3-p2.psd
+(ID FOX-E3-P2,108.112)
+rideinge
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/gawdy-e2-p2.psd
+(ID GAWDY-E2-P2,46.18)
+talking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/hoxinden-1650-e3-p2.psd
+(ID HOXINDEN-1650-E3-P2,172.102)
+going
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/jotaylor-e2-p2.psd
+(ID JOTAYLOR-E2-P2,1,145.C2.122)
+grinding
+(BE bee)
+(ADVP-TMP (ADV euer))
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/jotaylor-e2-p2.psd
+(ID JOTAYLOR-E2-P2,3,95.C2.266)
+wanting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/judall-e2-p2.psd
+(ID JUDALL-E2-P2,1,178.441)
+beginning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/knyvett-1630-e2-p2.psd
+(ID KNYVETT-1630-E2-P2,87.34)
+stiring
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/knyvett-1630-e2-p2.psd
+(ID KNYVETT-1630-E2-P2,88.73)
+gadding
+(BEP are)
+(ADVP-TMP (ADV nowe))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/langf-e3-p2.psd
+(ID LANGF-E3-P2,46.3)
+going
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/langf-e3-p2.psd
+(ID LANGF-E3-P2,74.302)
+ascending
+(BEP is)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/lisle-e3-p2.psd
+(ID LELAND-E1-P2,124.428)
+dwelling
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/lisle-e3-p2.psd
+(ID LISLE-E3-P2,4.115.106)
+laughing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/lisle-e3-p2.psd
+(ID LISLE-E3-P2,4.116.175)
+studying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/lisle-e3-p2.psd
+(ID LISLE-E3-P2,4.116.175)
+musing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/lisle-e3-p2.psd
+(ID LISLE-E3-P2,4.117.245)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/machyn-e1-p2.psd
+(ID MACHYN-E1-P2,75.243)
+gohyng
+(BED wher)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/madox-e2-p2.psd
+(ID MADOX-E2-P2,147.177)
+leaping
+(BED wer)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/merrytal-e1-p2.psd
+(ID MERRYTAL-E1-P2,64.64)
+goynge
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/merrytal-e1-p2.psd
+(ID MERRYTAL-E1-P2,130.359)
+syttynge
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/merrytal-e1-p2.psd
+(ID MERRYTAL-E1-P2,138.428)
+rydyng
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/middlet-e2-p2.psd
+(ID MIDDLET-E2-P2,64.633)
+making
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/middlet-e2-p2.psd
+(ID MIDDLET-E2-P2,67.747)
+comming
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/milton-e3-p2.psd
+(ID MILTON-E3-P2,X,181.92)
+drawing
+(BED was)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/montague-e3-p2.psd
+(ID MONTAGUE-E3-P2,1,193.40)
+going
+(BEP is)
+(NP-TMP (N (N21 to) (N22 morrow)))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/moreric-e1-p2.psd
+(ID MORERIC-E1-P2,44.63)
+contryuyng
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/penny-e3-p2.psd
+(ID PENNY-E3-P2,209.318)
+sitting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/penny-e3-p2.psd
+(ID PENNY-E3-P2,211.357)
+preparing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/penny-e3-p2.psd
+(ID PENNY-E3-P2,211.358)
+passing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/pepys-e3-p2.psd
+(ID PEPYS-E3-P2,8,332.275)
+raising
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/rhaddsr-1670-e3-p2.psd
+(ID RHADDSR-1670-E3-P2,10.14)
+wanting
+(BE be)
+(MD shall)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/rhaddsr-1670-e3-p2.psd
+(ID RHADDSR-1670-E3-P2,14.109)
+wanting
+(BE be)
+(MD shall)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/rhaddsr-1670-e3-p2.psd
+(ID RHADDSR-1670-E3-P2,22.186)
+wanting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/shakesp-e2-p2.psd
+(ID SHAKESP-E2-P2,50.C2_misnumbered_as_58.C2.163)
+commin
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/shakesp-e2-p2.psd
+(ID SHAKESP-E2-P2,51.C2.338)
+comming
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/shakesp-e2-p2.psd
+(ID SHAKESP-E2-P2,55.C2.662)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/tillots-c-e3-p2.psd
+(ID TILLOTS-C-E3-P2,465.157)
+wanting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/tyndnew-e1-p2.psd
+(ID TYNDNEW-E1-P2,16,1A.765)
+abydynge
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/vanbr-e3-p2.psd
+(ID VANBR-E3-P2,30.236)
+beholding
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/vanbr-e3-p2.psd
+(ID VANBR-E3-P2,68.319)
+coming
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/vanbr-e3-p2.psd
+(ID VANBR-E3-P2,70.409)
+Capitulating
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/vanbr-e3-p2.psd
+(ID VANBR-E3-P2,71.440)
+coming
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/vanbr-e3-p2.psd
+(ID VANBR-E3-P2,74.568)
+coming
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/walton-e3-p2.psd
+(ID WALTON-E3-P2,243.96)
+beholding
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCEME-RELEASE-3/corpus/psd/penn2/zouch-e3-p2.psd
+(ID ZOUCH-E3-P2,159.9)
+wanting
+(BE be)
+(ADVP-TMP (ADV never))
+(MD shall)

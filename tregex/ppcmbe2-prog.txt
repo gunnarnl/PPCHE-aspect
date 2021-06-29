@@ -1,0 +1,5029 @@
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/adams-1787-2.psd
+(ID ADAMS-1787-2,668.225)
+speaking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/albin-1736-1.psd
+(ID ALBIN-1736-1,28.755)
+standing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/andrews2-1796-2.psd
+(ID ANDREWS2-1796-2,2,11.105)
+owing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/anon4-1791-2.psd
+(ID ANON4-1791-2,141.73)
+crossing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/anon4-1791-2.psd
+(ID ANON4-1791-2,142.80)
+building
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/anon4-1791-2.psd
+(ID ANON4-1791-2,153.189)
+carrying
+(BEP are)
+(ADVP-TMP (ADV seldom))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/anon4-1791-2.psd
+(ID ANON4-1791-2,159.246)
+living
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/anon4-1791-2.psd
+(ID ANON4-1791-2,189.498)
+putting
+(BE be)
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,160.11)
+getting
+(BED was)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,178.387)
+putting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,178.393)
+clearing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,178.397)
+constructing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,179.417)
+feeling
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,180.449)
+reading
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,180.454)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,181.480)
+gratifying
+(BE be)
+(MD ought)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,183.515)
+smiling
+(BEP are)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,185.558)
+reading
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,187.601)
+watching
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,187.606)
+walking
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,187.612)
+writing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,188.649)
+going
+(BE be)
+(NP-TMP (ADV about) (D the) (ADJ same) (N time))
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-180x-1.psd
+(ID AUSTEN-180X-1,190.686)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,158.97)
+cherishing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,163.338)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,165.434)
+calling
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,166.493)
+walking
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,167.500)
+wanting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,167.505)
+planning
+(BE be)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,167.505)
+proceeding
+(BE be)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,167.505)
+hoping
+(BE be)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,172.738)
+wanting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,172.746)
+recovering
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,173.764)
+assuming
+(BED were)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-181x-2.psd
+(ID AUSTEN-181X-2,456.57)
+breaking
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-181x-2.psd
+(ID AUSTEN-181X-2,458.88)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-181x-2.psd
+(ID AUSTEN-181X-2,460.146)
+getting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-181x-2.psd
+(ID AUSTEN-181X-2,462.190)
+writing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-181x-2.psd
+(ID AUSTEN-181X-2,464.246)
+wanting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-181x-2.psd
+(ID AUSTEN-181X-2,465.251)
+nursing
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-181x-2.psd
+(ID AUSTEN-181X-2,476.506)
+wanting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-181x-2.psd
+(ID AUSTEN-181X-2,476.515)
+spending
+(BE be)
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-181x-2.psd
+(ID AUSTEN-181X-2,479.563)
+wishing
+(BE be)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-181x-2.psd
+(ID AUSTEN-181X-2,479.565)
+seeking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bain-1878-1.psd
+(ID BAIN-1878-1,375.238)
+going
+(BEP is)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/barclay-1743-1.psd
+(ID BARCLAY-1743-1,31.211)
+chiding
+(BE be)
+(MD shall)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/barton-gresswell-1906-2.psd
+(ID BARTON-GRESSWELL-1906-2,74.55)
+treating
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/barton-gresswell-1906-2.psd
+(ID BARTON-GRESSWELL-1906-2,74.61)
+growing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/beale-1898-2.psd
+(ID BEALE-1898-2,3.40)
+devoting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/beale-1898-2.psd
+(ID BEALE-1898-2,5.61)
+recognising
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/beale-1898-2.psd
+(ID BEALE-1898-2,6.81)
+seeking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/beale-1898-2.psd
+(ID BEALE-1898-2,6.83)
+pouring
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/beddingfield-1763-2.psd
+(ID BEDDINGFIELD-1763-2,9.76)
+sitting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/beddingfield-1763-2.psd
+(ID BEDDINGFIELD-1763-2,9.86)
+putting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/beddingfield-1763-2.psd
+(ID BEDDINGFIELD-1763-2,14.266)
+sitting
+(BED was)
+(NP-TMP (ONE one) (N night))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/beddingfield-1763-2.psd
+(ID BEDDINGFIELD-1763-2,14.279)
+writing
+(BED was)
+(NP-TMP (NUM Once))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/beddingfield-1763-2.psd
+(ID BEDDINGFIELD-1763-2,14.281)
+walking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/beddingfield-1763-2.psd
+(ID BEDDINGFIELD-1763-2,14.283)
+coming
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/beddingfield-1763-2.psd
+(ID BEDDINGFIELD-1763-2,33.879)
+lying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bell-1911-2.psd
+(ID BELL-1911-2,162.86)
+growing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bell-1911-2.psd
+(ID BELL-1911-2,164.138)
+reckoning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bell-1911-2.psd
+(ID BELL-1911-2,166.169)
+growing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bell-1911-2.psd
+(ID BELL-1911-2,172.298)
+paying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bell-1911-2.psd
+(ID BELL-1911-2,179.523)
+standing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bell-1911-2.psd
+(ID BELL-1911-2,183.610)
+setting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bell-1911-2.psd
+(ID BELL-1911-2,184.649)
+holding
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,12.117)
+reckoning
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,12.123)
+suggesting
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,13.132)
+improving
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,14.156)
+depending
+(BE be)
+(MD may)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,14.168)
+going
+(BED was)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,15.173)
+calling
+(BED was)
+(NP-TMP (D the) (ADJS next) (N day))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,17.222)
+saying
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,30.524)
+pulling
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,31.544)
+thinking
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,32.574)
+giving
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,34.601)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,34.605)
+giving
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,34.606)
+getting
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,36.642)
+putting
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,37.678)
+forgetting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,38.685)
+giving
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,42.773)
+walking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,46.824)
+waiting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,47.836)
+hoping
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,48.862)
+bringing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,49.880)
+taking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,51.928)
+treating
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/benson-1908-1.psd
+(ID BENSON-1908-1,37.41)
+rewarding
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/benson-1908-1.psd
+(ID BENSON-1908-1,47.115)
+writing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/benson-1908-1.psd
+(ID BENSON-1908-1,47.120)
+ceasing
+(BEP is)
+(NP-TMP-RSP (D that) (N moment))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/benson-1908-1.psd
+(ID BENSON-1908-1,82.395)
+interesting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/benson-190x-1.psd
+(ID BENSON-190X-1,107.54)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/benson-190x-1.psd
+(ID BENSON-190X-1,118.399)
+celebrating
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/benson-190x-1.psd
+(ID BENSON-190X-1,124.616)
+blowing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/benson-190x-1.psd
+(ID BENSON-190X-1,126.659)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/benson-190x-1.psd
+(ID BENSON-190X-1,130.788)
+reading
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-1768-2.psd
+(ID BOSWELL-1768-2,62.55)
+attempting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-1776-1.psd
+(ID BOSWELL-1776-1,40.157)
+advancing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-1776-1.psd
+(ID BOSWELL-1776-1,40.158)
+soothing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-1776-1.psd
+(ID BOSWELL-1776-1,41.189)
+complaining
+(BED was)
+(NP-TMP (N today))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-1776-1.psd
+(ID BOSWELL-1776-1,47.374)
+flying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-1776-1.psd
+(ID BOSWELL-1776-1,51.556)
+appearing
+(BEP are)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-1776-1.psd
+(ID BOSWELL-1776-1,59.876)
+giving
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-1783-2.psd
+(ID BOSWELL-1783-2,50.100)
+lying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-1783-2.psd
+(ID BOSWELL-1783-2,67.739)
+amazing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-178x-2.psd
+(ID BOSWELL-178X-2,4,297.144)
+passing
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-178x-2.psd
+(ID BOSWELL-178X-2,4,298.164)
+going
+(BEP am)
+(ADVP-TMP (ADV here) (CONJ and) (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-178x-2.psd
+(ID BOSWELL-178X-2,4,305.223)
+learning
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-178x-2.psd
+(ID BOSWELL-178X-2,4,305.232)
+shewing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-178x-2.psd
+(ID BOSWELL-178X-2,4,332.473)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-178x-2.psd
+(ID BOSWELL-178X-2,4,335.504)
+writing
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-178x-2.psd
+(ID BOSWELL-178X-2,4,345.564)
+travelling
+(BE be)
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-178x-2.psd
+(ID BOSWELL-178X-2,4,353.602)
+attempting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-178x-2.psd
+(ID BOSWELL-178X-2,4,353.604)
+resisting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/boswell-1791-2.psd
+(ID BOSWELL-1791-2,1,34.415)
+increasing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley1-1905-1.psd
+(ID BRADLEY1-1905-1,203.82)
+wandering
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley1-1905-1.psd
+(ID BRADLEY1-1905-1,214.238)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley1-1905-1.psd
+(ID BRADLEY1-1905-1,215.259)
+burning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley1-1905-1.psd
+(ID BRADLEY1-1905-1,215.260)
+surging
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley1-1905-1.psd
+(ID BRADLEY1-1905-1,222.339)
+looking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley1-1905-1.psd
+(ID BRADLEY1-1905-1,223.355)
+brushing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley1-1905-1.psd
+(ID BRADLEY1-1905-1,224.369)
+nearing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley1-1905-1.psd
+(ID BRADLEY1-1905-1,224.370)
+yellowing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley1-1905-1.psd
+(ID BRADLEY1-1905-1,228.415)
+underlying
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley2-1760-2.psd
+(ID BRADLEY2-1760-2,9.172)
+speaking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley2-1760-2.psd
+(ID BRADLEY2-1760-2,22.487)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley2-1760-2.psd
+(ID BRADLEY2-1760-2,23.544)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley2-1760-2.psd
+(ID BRADLEY2-1760-2,23.546)
+decaying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley2-1760-2.psd
+(ID BRADLEY2-1760-2,26.631)
+getting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley2-1760-2.psd
+(ID BRADLEY2-1760-2,27.665)
+growing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley2-1760-2.psd
+(ID BRADLEY2-1760-2,28.692)
+following
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bradley2-1760-2.psd
+(ID BRADLEY2-1760-2,33.845)
+roasting
+(BE be)
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bronte-1848-2.psd
+(ID BRONTE-1848-2,2,283.208)
+passing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bronte-1848-2.psd
+(ID BRONTE-1848-2,2,298.727)
+recovering
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brough-1867-2.psd
+(ID BROUGH-1867-2,4.47)
+getting
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brough-1867-2.psd
+(ID BROUGH-1867-2,4.73)
+coming
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brough-1867-2.psd
+(ID BROUGH-1867-2,5.77)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brough-1867-2.psd
+(ID BROUGH-1867-2,15.575)
+wishing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brough-1867-2.psd
+(ID BROUGH-1867-2,20.797)
+sleeping
+(BE be)
+(MD $can)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brough-1867-2.psd
+(ID BROUGH-1867-2,21.889)
+coming
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brough-1867-2.psd
+(ID BROUGH-1867-2,22.933)
+going
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brough-1867-2.psd
+(ID BROUGH-1867-2,22.938)
+going
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brough-1867-2.psd
+(ID BROUGH-1867-2,24.1000)
+saying
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brough-1867-2.psd
+(ID BROUGH-1867-2,25.1061)
+beginning
+(BEP $'re)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham1-1861-1.psd
+(ID BROUGHAM1-1861-1,3.14)
+picking
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham1-1861-1.psd
+(ID BROUGHAM1-1861-1,5.100)
+looking
+(BED was)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham1-1861-1.psd
+(ID BROUGHAM1-1861-1,7.192)
+coming
+(BEP $'re)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham1-1861-1.psd
+(ID BROUGHAM1-1861-1,14.482)
+going
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham1-1861-1.psd
+(ID BROUGHAM1-1861-1,16.572)
+looking
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham1-1861-1.psd
+(ID BROUGHAM1-1861-1,19.683)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham1-1861-1.psd
+(ID BROUGHAM1-1861-1,25.907)
+astonishing
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham1-1861-1.psd
+(ID BROUGHAM1-1861-1,27.979)
+admiring
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham1-1861-1.psd
+(ID BROUGHAM1-1861-1,28.1010)
+creeping
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham2-1825-2.psd
+(ID BROUGHAM2-1825-2,2.18)
+owing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham2-1825-2.psd
+(ID BROUGHAM2-1825-2,7.124)
+beginning
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham2-1825-2.psd
+(ID BROUGHAM2-1825-2,7.141)
+gratifying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham2-1825-2.psd
+(ID BROUGHAM2-1825-2,19.368)
+deserving
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1768-2.psd
+(ID BURNEY-1768-2,1,8.109)
+reading
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1768-2.psd
+(ID BURNEY-1768-2,1,8.117)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1768-2.psd
+(ID BURNEY-1768-2,1,9.147)
+writing
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1768-2.psd
+(ID BURNEY-1768-2,1,9.150)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1768-2.psd
+(ID BURNEY-1768-2,1,10.166)
+tolling
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1768-2.psd
+(ID BURNEY-1768-2,1,21.418)
+reading
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1768-2.psd
+(ID BURNEY-1768-2,1,26.546)
+going
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1768-2.psd
+(ID BURNEY-1768-2,1,26.548)
+going
+(BEP are)
+(NP-TMP (D this) (N afternoon))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1768-2.psd
+(ID BURNEY-1768-2,1,27.563)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1782-2.psd
+(ID BURNEY-1782-2,1,101.12)
+quitting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1782-2.psd
+(ID BURNEY-1782-2,1,111.144)
+beginning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1782-2.psd
+(ID BURNEY-1782-2,1,137.554)
+retiring
+(BED was)
+(ADVP-TMP (ADV immediately))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1782-2.psd
+(ID BURNEY-1782-2,1,142.615)
+moving
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1782-2.psd
+(ID BURNEY-1782-2,1,142.619)
+bursting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1792-2.psd
+(ID BURNEY-1792-2,5,66.297)
+writing
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1792-2.psd
+(ID BURNEY-1792-2,5,76.485)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burton2-1857-2.psd
+(ID BURTON2-1857-2,395.269)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burton2-1857-2.psd
+(ID BURTON2-1857-2,396.275)
+creaking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burton2-1857-2.psd
+(ID BURTON2-1857-2,402.344)
+struggling
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burton2-1857-2.psd
+(ID BURTON2-1857-2,409.430)
+sitting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burton2-1857-2.psd
+(ID BURTON2-1857-2,409.433)
+awaiting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burton2-1857-2.psd
+(ID BURTON2-1857-2,414.495)
+beginning
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burton2-1857-2.psd
+(ID BURTON2-1857-2,416.524)
+laying
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burton2-1857-2.psd
+(ID BURTON2-1857-2,416.525)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burton2-1857-2.psd
+(ID BURTON2-1857-2,416.526)
+sitting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/butler-1726-1.psd
+(ID BUTLER-1726-1,229.22)
+speaking
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/butler-1726-1.psd
+(ID BUTLER-1726-1,229.26)
+wanting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/butler-1726-1.psd
+(ID BUTLER-1726-1,233.52)
+finding
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/butler-1726-1.psd
+(ID BUTLER-1726-1,257.204)
+speaking
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1835-1.psd
+(ID CARLYLE-1835-1,2,255.16)
+coming
+(BED was)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1835-1.psd
+(ID CARLYLE-1835-1,2,255.17)
+confusing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1835-1.psd
+(ID CARLYLE-1835-1,2,258.56)
+coming
+(BE be)
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1835-1.psd
+(ID CARLYLE-1835-1,2,261.106)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1835-1.psd
+(ID CARLYLE-1835-1,2,261.109)
+becoming
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1835-1.psd
+(ID CARLYLE-1835-1,2,261.110)
+sitting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1835-1.psd
+(ID CARLYLE-1835-1,2,277.352)
+talking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1835-1.psd
+(ID CARLYLE-1835-1,2,283.422)
+coming
+(BEP is)
+(ADVP-TMP (ADV soon))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1835-1.psd
+(ID CARLYLE-1835-1,2,301.688)
+remaining
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,138.38)
+drizzling
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,140.84)
+growing
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,142.147)
+decreeing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,144.212)
+driving
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,145.222)
+becoming
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,147.274)
+growing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,149.340)
+eyeing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,152.410)
+wriggling
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,152.429)
+gathering
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,153.446)
+sewing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,153.450)
+pealing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,155.485)
+$packing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,155.492)
+getting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,155.494)
+dropping
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,155.501)
+prospering
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,156.524)
+wanting
+(BE be)
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1837-1.psd
+(ID CARLYLE-1837-1,1,159.589)
+crowding
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1858-2.psd
+(ID CARLYLE-1858-2,24.86)
+sinking
+(BED was)
+(NP-TMP (D The) (OTHER other) (N year))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1858-2.psd
+(ID CARLYLE-1858-2,25.111)
+detecting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1858-2.psd
+(ID CARLYLE-1858-2,44.466)
+rising
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/centlivre-1723-2.psd
+(ID CENTLIVRE-1723-2,36.36)
+pointing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/centlivre-1723-2.psd
+(ID CENTLIVRE-1723-2,46.341)
+Travelling
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/centlivre-1723-2.psd
+(ID CENTLIVRE-1723-2,52.552)
+coming
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/cibber-1740-1.psd
+(ID CIBBER-1740-1,36.39)
+making
+(BE be)
+(MD might)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/cibber-1740-1.psd
+(ID CIBBER-1740-1,48.177)
+repelling
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/cobbett-1838-2.psd
+(ID COBBETT-1838-2,144.118)
+speaking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/cobbett-1838-2.psd
+(ID COBBETT-1838-2,150.248)
+bursting
+(BE be)
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coleridge-1825-2.psd
+(ID COLERIDGE-1825-2,5,515.307)
+coming
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/collier-1835-1.psd
+(ID COLLIER-1835-1,9.163)
+going
+(BEP $'s)
+(ADVP-TMP (ADV never))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/collier-1835-1.psd
+(ID COLLIER-1835-1,9.190)
+coming
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/collier-1835-1.psd
+(ID COLLIER-1835-1,10.212)
+getting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/collier-1835-1.psd
+(ID COLLIER-1835-1,10.233)
+carrying
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/collier-1835-1.psd
+(ID COLLIER-1835-1,16.491)
+carrying
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/collier-1835-1.psd
+(ID COLLIER-1835-1,20.691)
+getting
+(BEP are)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/collier-1835-1.psd
+(ID COLLIER-1835-1,21.713)
+getting
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/collier-1835-1.psd
+(ID COLLIER-1835-1,21.719)
+carrying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/collier-1835-1.psd
+(ID COLLIER-1835-1,21.730)
+brewing
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,22.137)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,24.180)
+reversing
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,27.275)
+crying
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,34.498)
+going
+(BEP are)
+(ADVP-TMP (ADV now) (CP-REL (WADVP-1 0) (C 0) (IP-SUB (ADVP-TMP *T*-1) (NP-SBJ (PRO $I)) (BEP $'m) (CODE {TEXT:I'm}) (VAN ruined))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,36.550)
+going
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,36.565)
+breaking
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,36.575)
+thinking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,36.585)
+playing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,37.597)
+saving
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,37.620)
+going
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,38.637)
+making
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,42.769)
+deceiving
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,48.932)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,49.946)
+laughing
+(BEP $'re)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,52.1029)
+putting
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/cooke2-1770-2.psd
+(ID COOKE2-1770-2,49.72)
+visiting
+(BE be)
+(ADVP-TMP (ADV now))
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/cooke2-1770-2.psd
+(ID COOKE2-1770-2,54.167)
+lasting
+(BEP are)
+(ADVP-TMP (ADV yet))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coyne-1855-2.psd
+(ID COYNE-1855-2,4.71)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coyne-1855-2.psd
+(ID COYNE-1855-2,7.245)
+coming
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coyne-1855-2.psd
+(ID COYNE-1855-2,7.253)
+losing
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coyne-1855-2.psd
+(ID COYNE-1855-2,8.280)
+getting
+(BEP $'s)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coyne-1855-2.psd
+(ID COYNE-1855-2,12.489)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coyne-1855-2.psd
+(ID COYNE-1855-2,13.543)
+wishing
+(BED were)
+(NP-TMP (D this) (N moment))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coyne-1855-2.psd
+(ID COYNE-1855-2,15.630)
+looking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coyne-1855-2.psd
+(ID COYNE-1855-2,17.740)
+going
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coyne-1855-2.psd
+(ID COYNE-1855-2,18.782)
+speaking
+(BED were)
+(NP-TMP (D this) (N moment))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coyne-1855-2.psd
+(ID COYNE-1855-2,21.907)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coyne-1855-2.psd
+(ID COYNE-1855-2,21.908)
+carrying
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,50.497)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,51.516)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,53.593)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,55.652)
+speaking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,57.725)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,63.901)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,72.1135)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,72.1136)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,73.1152)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,73.1154)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,78.1221)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,79.1236)
+going
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,79.1241)
+respecting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,79.1243)
+endeavouring
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,92.1530)
+speaking
+(BE be)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,92.1534)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,104.1887)
+going
+(BED was)
+(NP-TMP (D the) (ADJS next) (N day))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,113.2153)
+sitting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,120.2350)
+coming
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,124.2479)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,126.2517)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/crossfield-1796-2.psd
+(ID CROSSFIELD-1796-2,126.2532)
+waiting
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/darwin-1835-2.psd
+(ID DARWIN-1835-2,385.120)
+hurrying
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/darwin-1835-2.psd
+(ID DARWIN-1835-2,392.219)
+working
+(BE be)
+(ADVP-TMP (ADV always))
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/darwin-1835-2.psd
+(ID DARWIN-1835-2,399.345)
+owing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/darwin-1835-2.psd
+(ID DARWIN-1835-2,409.584)
+standing
+(BED were)
+(ADVP-TMP (ADV yet))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/darwin-1842-2.psd
+(ID DARWIN-1842-2,102.225)
+encroaching
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/davys-1716-1.psd
+(ID DAVYS-1716-1,27.130)
+going
+(BE be)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/davys-1716-1.psd
+(ID DAVYS-1716-1,30.215)
+going
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/davys-1716-1.psd
+(ID DAVYS-1716-1,40.543)
+tasting
+(BE be)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/davys-1716-1.psd
+(ID DAVYS-1716-1,46.754)
+running
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/decourcy-1776-2.psd
+(ID DECOURCY-1776-2,24.169)
+accomplishing
+(BEP is)
+(ADVP-TMP (ADV daily))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/dickens-1837-1.psd
+(ID DICKENS-1837-1,546.60)
+getting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/dickens-1837-1.psd
+(ID DICKENS-1837-1,550.162)
+walking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/dickens-1837-1.psd
+(ID DICKENS-1837-1,551.181)
+performing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/dickens-1837-1.psd
+(ID DICKENS-1837-1,551.182)
+sitting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/dickens-1837-1.psd
+(ID DICKENS-1837-1,561.416)
+leaning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/dickens-1837-1.psd
+(ID DICKENS-1837-1,566.560)
+riding
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/disraeli-1827-2.psd
+(ID DISRAELI-1827-2,229.101)
+thinking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/disraeli-1827-2.psd
+(ID DISRAELI-1827-2,237.238)
+exercising
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/doddridge-1747-1.psd
+(ID DODDRIDGE-1747-1,12.88)
+applying
+(BED was)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/doddridge-1747-1.psd
+(ID DODDRIDGE-1747-1,40.310)
+crying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/doyle-1905-2.psd
+(ID DOYLE-1905-2,27.24)
+leaning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/doyle-1905-2.psd
+(ID DOYLE-1905-2,27.25)
+unfolding
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/doyle-1905-2.psd
+(ID DOYLE-1905-2,34.224)
+looking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/doyle-1905-2.psd
+(ID DOYLE-1905-2,43.502)
+writhing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/doyle-1905-2.psd
+(ID DOYLE-1905-2,43.503)
+shining
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/doyle-1905-2.psd
+(ID DOYLE-1905-2,45.560)
+writing
+(BED was)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/doyle-1905-2.psd
+(ID DOYLE-1905-2,49.689)
+amusing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ellis-1851-2.psd
+(ID ELLIS-1851-2,9.5)
+gratifying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-1.psd
+(ID ERV-NEW-1881-1,1,1J.19)
+coming
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-1.psd
+(ID ERV-NEW-1881-1,3,20J.193)
+baptizing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-1.psd
+(ID ERV-NEW-1881-1,4,20J.280)
+coming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-1.psd
+(ID ERV-NEW-1881-1,6,1J.433)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-1.psd
+(ID ERV-NEW-1881-1,6,1J.436)
+rising
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-1.psd
+(ID ERV-NEW-1881-1,10,20J.915)
+walking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,18,1J.411)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,18,1J.433)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,18,1J.439)
+standing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,18,1J.441)
+warming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,19,20J.551)
+standing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,20,1J.606)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,2,1A.763)
+dwelling
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,3,1A.824)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,8,1A.1138)
+consenting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,8,20A.1180)
+returning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,8,20A.1180)
+sitting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,8,20A.1181)
+reading
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,10,20A.1348)
+waiting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,12,1A.1439)
+sleeping
+(BED was)
+(NP-TMP (D the) (ADJ same) (N night))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/erv-new-1881-2.psd
+(ID ERV-NEW-1881-2,16,20A.1707)
+listening
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/faraday-1859-1.psd
+(ID FARADAY-1859-1,10.99)
+steaming
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/faraday-1859-1.psd
+(ID FARADAY-1859-1,12.116)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/faraday-1859-1.psd
+(ID FARADAY-1859-1,14.140)
+owing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/faraday-1859-1.psd
+(ID FARADAY-1859-1,24.235)
+hanging
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/faraday-1859-1.psd
+(ID FARADAY-1859-1,30.293)
+going
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/faraday-1859-1.psd
+(ID FARADAY-1859-1,39.390)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/faraday-1859-1.psd
+(ID FARADAY-1859-1,41.419)
+going
+(BEP am)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/faraday-1859-1.psd
+(ID FARADAY-1859-1,44.471)
+becoming
+(BEP is)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,7.164)
+becoming
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,8.178)
+returning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,8.185)
+making
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,11.257)
+lying
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,11.271)
+striking
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,12.282)
+making
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,13.311)
+growing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,15.359)
+blowing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,15.364)
+making
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,15.365)
+pressing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,16.402)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,16.419)
+working
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,16.421)
+leaking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,17.423)
+blowing
+(BED was)
+(NP-TMP (ONE One) (CODE <P_17>) (N night))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,17.429)
+rolling
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,17.443)
+steering
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,17.445)
+acting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,18.489)
+working
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,19.524)
+sailing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fayrer-1900-1.psd
+(ID FAYRER-1900-1,19.525)
+leaking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fielding1-1735-2.psd
+(ID FIELDING1-1735-2,26.319)
+trifling
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fielding1-1735-2.psd
+(ID FIELDING1-1735-2,45.927)
+relying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fielding1-1735-2.psd
+(ID FIELDING1-1735-2,45.928)
+relying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fielding1-1749-1.psd
+(ID FIELDING1-1749-1,1,8.44)
+preparing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fielding1-1749-1.psd
+(ID FIELDING1-1749-1,2,15.267)
+pursuing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fielding1-1749-1.psd
+(ID FIELDING1-1749-1,3,5.333)
+stirring
+(BED was)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fielding1-1749-1.psd
+(ID FIELDING1-1749-1,3,8.354)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fielding2-1744-2.psd
+(ID FIELDING2-1744-2,1,5.6)
+owing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fielding2-1744-2.psd
+(ID FIELDING2-1744-2,1,19.151)
+going
+(BED was)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fielding2-1744-2.psd
+(ID FIELDING2-1744-2,1,26.225)
+forming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fielding2-1744-2.psd
+(ID FIELDING2-1744-2,1,49.448)
+deliberating
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fleming-1886-1.psd
+(ID FLEMING-1886-1,86.364)
+embarrassing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-1910-2.psd
+(ID FORSTER2-1910-2,73.127)
+sitting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-1910-2.psd
+(ID FORSTER2-1910-2,78.354)
+bringing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-1910-2.psd
+(ID FORSTER2-1910-2,83.553)
+nearing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-1910-2.psd
+(ID FORSTER2-1910-2,87.768)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-1910-2.psd
+(ID FORSTER2-1910-2,89.861)
+rolling
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-1910-2.psd
+(ID FORSTER2-1910-2,90.871)
+dying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-1910-2.psd
+(ID FORSTER2-1910-2,90.891)
+mating
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-1910-2.psd
+(ID FORSTER2-1910-2,91.909)
+attempting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,100.23)
+looking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,103.134)
+reading
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,104.157)
+getting
+(BEP is)
+(ADVP-TMP (ADV already))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,104.188)
+going
+(BEP is)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,104.189)
+writing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,105.234)
+reading
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,107.275)
+pointing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,107.277)
+sleeping
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,107.283)
+enjoying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,107.285)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,108.330)
+going
+(BEP am)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,109.343)
+reading
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,111.424)
+taking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,112.442)
+walking
+(BE be)
+(NP-TMP (D this) (N month))
+(MD may)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,112.450)
+nibbling
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,114.541)
+bringing
+(BEP am)
+(NP-TMP (D this) (N autumn))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,114.545)
+correcting
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,117.611)
+venturing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,118.648)
+arousing
+(BE be)
+(ADVP-TMP (ADV always))
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,118.656)
+making
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,118.669)
+selling
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,120.732)
+reading
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,122.796)
+strumming
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,122.799)
+forgetting
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,122.817)
+tempting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,122.825)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,123.851)
+sending
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,125.892)
+running
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,125.918)
+writing
+(BEP am)
+(ADVP-TMP (ADV soon))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,162.11)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,163.37)
+placing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,167.218)
+waiting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,170.319)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,173.503)
+running
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,173.504)
+seeing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,174.514)
+hurrahing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,174.560)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,174.563)
+raising
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,177.705)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,179.799)
+raising
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,182.879)
+living
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,182.884)
+residing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,182.885)
+residing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,195.1260)
+hanging
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,199.1435)
+going
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,199.1437)
+proposing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,199.1438)
+proposing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,199.1441)
+referring
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,201.1526)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,202.1575)
+continuing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,203.1637)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,203.1643)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,203.1658)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,203.1661)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,205.1717)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,208.1887)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,209.1939)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,210.2026)
+moving
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,211.2069)
+showing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,211.2086)
+standing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,212.2126)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,212.2131)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,212.2137)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,214.2244)
+coming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,219.2514)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,219.2546)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,220.2547)
+pushing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,223.2656)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,227.2899)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,227.2903)
+beating
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,227.2915)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,228.2925)
+opening
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,228.2962)
+running
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,229.3009)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,230.3021)
+getting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-1.psd
+(ID FROST-1840-1,230.3037)
+opening
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,237.111)
+standing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,239.221)
+suffering
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,243.416)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,243.417)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,249.676)
+passing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,251.752)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,251.765)
+proceeding
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,256.981)
+abiding
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,256.983)
+abiding
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,259.1098)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,262.1174)
+speaking
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,265.1287)
+making
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,267.1411)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,267.1414)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,267.1415)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/frost-1840-2.psd
+(ID FROST-1840-2,268.1436)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/froude-1830-1.psd
+(ID FROUDE-1830-1,2,1.13)
+drawing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/froude-1830-1.psd
+(ID FROUDE-1830-1,2,14.142)
+taking
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/froude-1830-1.psd
+(ID FROUDE-1830-1,2,45.298)
+assigning
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/garrick-1759-2.psd
+(ID GARRICK-1759-2,18.317)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/garrick-1759-2.psd
+(ID GARRICK-1759-2,26.469)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/george-1763-1.psd
+(ID GEORGE-1763-1,184.70)
+coming
+(BE be)
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/george-1763-1.psd
+(ID GEORGE-1763-1,193.181)
+owing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/george-1763-1.psd
+(ID GEORGE-1763-1,198.263)
+running
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/george-1763-1.psd
+(ID GEORGE-1763-1,199.272)
+taking
+(BE be)
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gibbon-1776-1.psd
+(ID GIBBON-1776-1,1,372.291)
+forcing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gibbon-1789-2.psd
+(ID GIBBON-1789-2,1,48.369)
+approaching
+(BED was)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gisborne-1802-2.psd
+(ID GISBORNE-1802-2,69.177)
+persevering
+(BE be)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gladstone-1873-1.psd
+(ID GLADSTONE-1873-1,2,383.221)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gladstone-1873-1.psd
+(ID GLADSTONE-1873-1,2,399.464)
+running
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gladstone-1873-1.psd
+(ID GLADSTONE-1873-1,2,414.756)
+getting
+(BEP am)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/godwin-1805-1.psd
+(ID GODWIN-1805-1,72.355)
+surprising
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1766-2.psd
+(ID GOLDSMITH-1766-2,2,101.183)
+owing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1766-2.psd
+(ID GOLDSMITH-1766-2,2,108.263)
+bursting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1766-2.psd
+(ID GOLDSMITH-1766-2,2,108.265)
+expiring
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1766-2.psd
+(ID GOLDSMITH-1766-2,2,129.524)
+repeating
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1773-1.psd
+(ID GOLDSMITH-1773-1,18.29)
+wishing
+(BEP $'s)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1773-1.psd
+(ID GOLDSMITH-1773-1,36.442)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1773-1.psd
+(ID GOLDSMITH-1773-1,36.443)
+observing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1773-1.psd
+(ID GOLDSMITH-1773-1,36.446)
+observing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1773-1.psd
+(ID GOLDSMITH-1773-1,43.603)
+riding
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1773-1.psd
+(ID GOLDSMITH-1773-1,52.754)
+endeavouring
+(BEP is)
+(NP-TMP (D this) (ADJ very) (N instant))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1773-1.psd
+(ID GOLDSMITH-1773-1,53.784)
+missing
+(BE be)
+(MD may)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1773-1.psd
+(ID GOLDSMITH-1773-1,62.997)
+introducing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gordon-1781-2.psd
+(ID GORDON-1781-2,1,9.148)
+astonishing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gordon-1781-2.psd
+(ID GORDON-1781-2,1,14.393)
+going
+(BED was)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gordon-1781-2.psd
+(ID GORDON-1781-2,1,17.580)
+coming
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gordon-1781-2.psd
+(ID GORDON-1781-2,1,17.587)
+coming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gordon-1781-2.psd
+(ID GORDON-1781-2,1,19.749)
+speaking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gordon-1781-2.psd
+(ID GORDON-1781-2,1,22.915)
+relating
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gordon-1781-2.psd
+(ID GORDON-1781-2,1,27.1251)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gordon-1781-2.psd
+(ID GORDON-1781-2,1,27.1260)
+ordering
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gordon-1781-2.psd
+(ID GORDON-1781-2,1,27.1261)
+directing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gordon-1781-2.psd
+(ID GORDON-1781-2,1,27.1271)
+throwing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gordon-1781-2.psd
+(ID GORDON-1781-2,1,35.1765)
+speaking
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gordon-1781-2.psd
+(ID GORDON-1781-2,2,11.2254)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/green-1874-2.psd
+(ID GREEN-1874-2,3,217.19)
+mustering
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/green-1874-2.psd
+(ID GREEN-1874-2,3,221.82)
+preparing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/green-1874-2.psd
+(ID GREEN-1874-2,3,225.190)
+toiling
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/green-1874-2.psd
+(ID GREEN-1874-2,3,234.356)
+using
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/green-1874-2.psd
+(ID GREEN-1874-2,3,236.385)
+pressing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/green-1874-2.psd
+(ID GREEN-1874-2,3,236.388)
+growing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/green-1874-2.psd
+(ID GREEN-1874-2,3,237.396)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/greville-1827-2.psd
+(ID GREVILLE-1827-2,1,85.20)
+sitting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/greville-1827-2.psd
+(ID GREVILLE-1827-2,1,92.216)
+going
+(BEP are)
+(NP-TMP (ADJS next) (N week))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/greville-1827-2.psd
+(ID GREVILLE-1827-2,1,109.569)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/greville-1827-2.psd
+(ID GREVILLE-1827-2,1,110.585)
+grasping
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/greville-1855-2.psd
+(ID GREVILLE-1855-2,1,258.199)
+getting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/grey-1914-2.psd
+(ID GREY-1914-2,26.167)
+travelling
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/grey-1914-2.psd
+(ID GREY-1914-2,63.353)
+endeavouring
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/grey-1914-2.psd
+(ID GREY-1914-2,66.397)
+working
+(BED was)
+(NP-TMP (N To-day))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/grey-1914-2.psd
+(ID GREY-1914-2,68.442)
+taking
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/grey-1914-2.psd
+(ID GREY-1914-2,90.616)
+repeating
+(BE be)
+(ADVP-TMP (ADV now))
+(MD should)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/grey-1914-2.psd
+(ID GREY-1914-2,97.658)
+abstaining
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hardy-1874-2.psd
+(ID HARDY-1874-2,271.147)
+auditing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hardy-1874-2.psd
+(ID HARDY-1874-2,275.293)
+dressing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hardy-1874-2.psd
+(ID HARDY-1874-2,277.379)
+sitting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hardy-1874-2.psd
+(ID HARDY-1874-2,280.540)
+buttoning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hardy-1874-2.psd
+(ID HARDY-1874-2,284.715)
+looking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hardy-1874-2.psd
+(ID HARDY-1874-2,284.716)
+looking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hardy-1874-2.psd
+(ID HARDY-1874-2,285.774)
+beginning
+(BED were)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hare-183x-2.psd
+(ID HARE-183X-2,2,282.290)
+lying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hare-183x-2.psd
+(ID HARE-183X-2,2,294.476)
+praying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/harris-177x-2.psd
+(ID HARRIS-177X-2,1,93.112)
+raising
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/harris-177x-2.psd
+(ID HARRIS-177X-2,1,100.212)
+owing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1808-1.psd
+(ID HAYDON-1808-1,1,11.202)
+pursuing
+(BED was)
+(ADVP-TMP (ADV soon))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1808-1.psd
+(ID HAYDON-1808-1,1,21.411)
+going
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1842-2.psd
+(ID HAYDON-1842-2,5,118.119)
+dying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1842-2.psd
+(ID HAYDON-1842-2,5,121.197)
+beginning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1842-2.psd
+(ID HAYDON-1842-2,5,121.200)
+beginning
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1842-2.psd
+(ID HAYDON-1842-2,5,125.352)
+going
+(BEP am)
+(NP-TMP (D this) (N moment))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1842-2.psd
+(ID HAYDON-1842-2,5,127.390)
+lying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1842-2.psd
+(ID HAYDON-1842-2,5,128.452)
+dining
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1842-2.psd
+(ID HAYDON-1842-2,5,132.588)
+owing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1842-2.psd
+(ID HAYDON-1842-2,5,136.730)
+encreasing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1842-2.psd
+(ID HAYDON-1842-2,5,142.999)
+advancing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1842-2.psd
+(ID HAYDON-1842-2,5,144.1044)
+beginning
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/haydon-1842-2.psd
+(ID HAYDON-1842-2,5,145.1072)
+employing
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/herschel-1797-1.psd
+(ID HERSCHEL-1797-1,6.51)
+remaining
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/herschel-1797-1.psd
+(ID HERSCHEL-1797-1,11.225)
+preceding
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/herschel-1797-1.psd
+(ID HERSCHEL-1797-1,29.658)
+owing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hind-1707-1.psd
+(ID HIND-1707-1,300.42)
+depending
+(BED was)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hind-1707-1.psd
+(ID HIND-1707-1,301.54)
+wanting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hind-1707-1.psd
+(ID HIND-1707-1,313.178)
+assisting
+(BE be)
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hobson-173x-2.psd
+(ID HOBSON-173X-2,295.249)
+living
+(BED was)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hobson-173x-2.psd
+(ID HOBSON-173X-2,297.299)
+travelling
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hobson-173x-2.psd
+(ID HOBSON-173X-2,301.375)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hobson-173x-2.psd
+(ID HOBSON-173X-2,313.629)
+riding
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hodgkin-1880-2.psd
+(ID HODGKIN-1880-2,2,576.32)
+speaking
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hodgkin-1880-2.psd
+(ID HODGKIN-1880-2,2,581.70)
+living
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hodgkin-1880-2.psd
+(ID HODGKIN-1880-2,2,581.70)
+flourishing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/holcroft-1794-2.psd
+(ID HOLCROFT-1794-2,4,149.313)
+approaching
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/holcroft-1794-2.psd
+(ID HOLCROFT-1794-2,4,160.432)
+concerning
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/holmes-letters-1749-1.psd
+(ID HOLMES-LETTERS-1749-1,37.44)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/holmes-letters-1749-1.psd
+(ID HOLMES-LETTERS-1749-1,97.150)
+running
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/holmes-trial-1749-1.psd
+(ID HOLMES-TRIAL-1749-1,39.608)
+bearing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/holmes-trial-1749-1.psd
+(ID HOLMES-TRIAL-1749-1,40.620)
+going
+(BED Was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hume-1757-2.psd
+(ID HUME-1757-2,2,3.50)
+paving
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hume-1757-2.psd
+(ID HUME-1757-2,2,13.264)
+preparing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hunt-1844-2.psd
+(ID HUNT-1844-2,14.135)
+surprising
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hunt-1844-2.psd
+(ID HUNT-1844-2,17.160)
+residing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/huxley-186x-2.psd
+(ID HUXLEY-186X-2,3,76.38)
+becoming
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/huxley-186x-2.psd
+(ID HUXLEY-186X-2,3,84.121)
+continuing
+(BEP is)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/huxley-1889-2.psd
+(ID HUXLEY-1889-2,27.24)
+making
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/inchbald-1793-2.psd
+(ID INCHBALD-1793-2,38.240)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/inchbald-1793-2.psd
+(ID INCHBALD-1793-2,38.243)
+going
+(BEP am)
+(NP-TMP (D this) (N moment))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/inchbald-1793-2.psd
+(ID INCHBALD-1793-2,38.260)
+reverting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/inchbald-1793-2.psd
+(ID INCHBALD-1793-2,41.334)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/inchbald-1793-2.psd
+(ID INCHBALD-1793-2,46.498)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/inchbald-1793-2.psd
+(ID INCHBALD-1793-2,49.592)
+telling
+(BED was)
+(ADVP-TMP (ADV just) (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/inchbald-1793-2.psd
+(ID INCHBALD-1793-2,58.843)
+hurrying
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/innes-1902-2.psd
+(ID INNES-1902-2,61.7)
+lamenting
+(BED was)
+(NP-TMP (ADV About) (D the) (N time) (CP-REL (WADVP-1 (WADV when)) (C 0) (IP-SUB (ADVP-TMP *T*-1) (NP-SBJ (NPR Nadir) (NPR Shah)) (BED was) (VAG sacking) (NP-OB1 (NPR Delhi)))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/innes-1902-2.psd
+(ID INNES-1902-2,63.37)
+thinking
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/innes-1902-2.psd
+(ID INNES-1902-2,64.72)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/innes-1902-2.psd
+(ID INNES-1902-2,68.148)
+holding
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/innes-1902-2.psd
+(ID INNES-1902-2,82.447)
+profiting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/innes-1902-2.psd
+(ID INNES-1902-2,84.480)
+increasing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-1759-2.psd
+(ID JOHNSON-1759-2,1,112.321)
+relating
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-1759-2.psd
+(ID JOHNSON-1759-2,1,120.394)
+muttering
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-1759-2.psd
+(ID JOHNSON-1759-2,1,120.395)
+searching
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-176x-2.psd
+(ID JOHNSON-176X-2,1,185.262)
+writing
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-176x-2.psd
+(ID JOHNSON-176X-2,1,185.268)
+printing
+(BEP $is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-176x-2.psd
+(ID JOHNSON-176X-2,1,206.716)
+thinking
+(BE be)
+(ADVP-TMP (ADV always))
+(MD $can)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-176x-2.psd
+(ID JOHNSON-176X-2,1,206.721)
+reading
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-1775-1.psd
+(ID JOHNSON-1775-1,2,4.73)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-1775-1.psd
+(ID JOHNSON-1775-1,2,7.138)
+reading
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-1775-1.psd
+(ID JOHNSON-1775-1,2,7.146)
+prosecuting
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-1775-1.psd
+(ID JOHNSON-1775-1,2,10.189)
+going
+(BEP am)
+(NP-TMP (N $tomorrow))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-1775-1.psd
+(ID JOHNSON-1775-1,2,11.200)
+going
+(BEP are)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-1775-1.psd
+(ID JOHNSON-1775-1,2,28.517)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-1775-1.psd
+(ID JOHNSON-1775-1,2,30.569)
+starving
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-1775-1.psd
+(ID JOHNSON-1775-1,2,39.784)
+waiting
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnson-1775-1.psd
+(ID JOHNSON-1775-1,2,44.902)
+quarrelling
+(BEP are)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnstone-1786-2.psd
+(ID JOHNSTONE-1786-2,28.144)
+jesting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnstone-1786-2.psd
+(ID JOHNSTONE-1786-2,37.483)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnstone-1786-2.psd
+(ID JOHNSTONE-1786-2,43.709)
+saying
+(BED was)
+(NP-TMP (D the) (ADJ last) (N time) (CP-REL (WADVP-1 0) (C 0) (IP-SUB (ADVP-TMP *T*-1) (NP-SBJ (PRO I)) (VBD saw) (NP-OB1 (PRO her)))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnstone-1786-2.psd
+(ID JOHNSTONE-1786-2,43.720)
+seeking
+(BED was)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnstone-1786-2.psd
+(ID JOHNSTONE-1786-2,44.744)
+milling
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnstone-1786-2.psd
+(ID JOHNSTONE-1786-2,46.828)
+dressing
+(BEP $'s)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnstone-1786-2.psd
+(ID JOHNSTONE-1786-2,54.1129)
+begging
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/justice-1739-2.psd
+(ID JUSTICE-1739-2,31.512)
+living
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kinglake-1844-2.psd
+(ID KINGLAKE-1844-2,72.30)
+chatting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kinglake-1844-2.psd
+(ID KINGLAKE-1844-2,83.205)
+hanging
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kinglake-1844-2.psd
+(ID KINGLAKE-1844-2,83.206)
+smoking
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kinglake-1844-2.psd
+(ID KINGLAKE-1844-2,83.207)
+lying
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kinglake-1844-2.psd
+(ID KINGLAKE-1844-2,84.224)
+falling
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kinglake-1844-2.psd
+(ID KINGLAKE-1844-2,86.251)
+approaching
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,548.18)
+dealing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,552.68)
+trying
+(BEP is)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,555.142)
+dealing
+(BEP are)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,556.169)
+getting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,559.258)
+holding
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,559.259)
+snoring
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,559.270)
+worrying
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,560.296)
+pouring
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,563.389)
+building
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,564.396)
+spoiling
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,564.396)
+cosseting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,566.460)
+standing
+(BEP are)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,566.467)
+laying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,567.493)
+stating
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,568.532)
+reeking
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,571.593)
+making
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,571.594)
+stirring
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,571.594)
+simmering
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,572.639)
+yelling
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,572.647)
+laying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kirkland-1774-2.psd
+(ID KIRKLAND-1774-2,58.53)
+concerning
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kirkland-1774-2.psd
+(ID KIRKLAND-1774-2,62.89)
+becoming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/knox-1786-2.psd
+(ID KNOX-1786-2,57.444)
+bearing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/knyveton-1752-actually-gray-1937-2.psd
+(ID KNYVETON-1752-ACTUALLY-GRAY-1937-2,147.79)
+bawling
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/knyveton-1752-actually-gray-1937-2.psd
+(ID KNYVETON-1752-ACTUALLY-GRAY-1937-2,154.189)
+Wrestling
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/knyveton-1752-actually-gray-1937-2.psd
+(ID KNYVETON-1752-ACTUALLY-GRAY-1937-2,154.189)
+Fighting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/knyveton-1752-actually-gray-1937-2.psd
+(ID KNYVETON-1752-ACTUALLY-GRAY-1937-2,155.203)
+coming
+(BED was)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/knyveton-1752-actually-gray-1937-2.psd
+(ID KNYVETON-1752-ACTUALLY-GRAY-1937-2,159.242)
+dining
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/knyveton-1752-actually-gray-1937-2.psd
+(ID KNYVETON-1752-ACTUALLY-GRAY-1937-2,177.487)
+getting
+(BEP is)
+(NP-TMP (N Tonight))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lancaster1-1806-1.psd
+(ID LANCASTER1-1806-1,63.434)
+disgusting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,52.31)
+strewing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,52.36)
+going
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,53.84)
+learning
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,53.109)
+choking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,53.110)
+cooling
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,53.111)
+cooling
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,54.114)
+rusting
+(BEP am)
+(ADVP-TMP (ADV already))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,54.118)
+wearing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,54.137)
+losing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,55.160)
+going
+(BEP am)
+(NP-TMP (N Tonight))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,55.172)
+forgetting
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,56.198)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,57.214)
+neighing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,57.243)
+sliding
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,57.244)
+keeping
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,58.295)
+swotting
+(BE be)
+(MD ought)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,59.315)
+fascinating
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,62.440)
+terrifying
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,63.458)
+learning
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,63.491)
+wearying
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,64.516)
+arranging
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,65.560)
+tanning
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,66.585)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,66.597)
+missing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,66.599)
+missing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,69.726)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,72.850)
+speaking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,72.871)
+getting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,72.875)
+getting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layard-1894-2.psd
+(ID LAYARD-1894-2,92.21)
+running
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layard-1894-2.psd
+(ID LAYARD-1894-2,98.125)
+demanding
+(BED was)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layard-1894-2.psd
+(ID LAYARD-1894-2,99.146)
+bullying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layard-1894-2.psd
+(ID LAYARD-1894-2,99.146)
+threatening
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layard-1894-2.psd
+(ID LAYARD-1894-2,102.198)
+approaching
+(BED were)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layard-1894-2.psd
+(ID LAYARD-1894-2,106.258)
+entering
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layard-1894-2.psd
+(ID LAYARD-1894-2,106.264)
+getting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layard-1894-2.psd
+(ID LAYARD-1894-2,106.265)
+entering
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layard-1894-2.psd
+(ID LAYARD-1894-2,108.305)
+returning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layer-1723-2.psd
+(ID LAYER-1723-2,25.1013)
+calling
+(BE be)
+(NP-TMP (D the) (ADJ first) (N time))
+(MD shall)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layer-1723-2.psd
+(ID LAYER-1723-2,25.1031)
+insinuating
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layer-1723-2.psd
+(ID LAYER-1723-2,29.1226)
+searching
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layer-1723-2.psd
+(ID LAYER-1723-2,56.2271)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layer-1723-2.psd
+(ID LAYER-1723-2,56.2288)
+giving
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layer-1723-2.psd
+(ID LAYER-1723-2,57.2314)
+asking
+(BEP 's)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layer-1723-2.psd
+(ID LAYER-1723-2,59.2472)
+going
+(BED was)
+(NP-TMP (D That) (N Morning))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/leathes-1913-2.psd
+(ID LEATHES-1913-2,3.57)
+gathering
+(BEP are)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/leathes-1913-2.psd
+(ID LEATHES-1913-2,24.431)
+beginning
+(BEP are)
+(ADVP-TMP (FP only) (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lefevre-1843-2.psd
+(ID LEFEVRE-1843-2,1,4.15)
+embarking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lefevre-1843-2.psd
+(ID LEFEVRE-1843-2,1,14.196)
+skimming
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lefevre-1843-2.psd
+(ID LEFEVRE-1843-2,1,17.273)
+writing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lefevre-1843-2.psd
+(ID LEFEVRE-1843-2,1,18.295)
+continuing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lefevre-1843-2.psd
+(ID LEFEVRE-1843-2,1,24.395)
+gnawing
+(BED was)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lefevre-1843-2.psd
+(ID LEFEVRE-1843-2,1,28.460)
+waiting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lefevre-1843-2.psd
+(ID LEFEVRE-1843-2,1,29.486)
+advancing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/liddon-1889-2.psd
+(ID LIDDON-1889-2,17.140)
+replying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/liddon-1889-2.psd
+(ID LIDDON-1889-2,21.200)
+thinking
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lind-1753-1.psd
+(ID LIND-1753-1,280.245)
+owing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/long-1866-1.psd
+(ID LINGARD-1823-2,388.433)
+winding
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/long-1866-1.psd
+(ID LONG-1866-1,2,83.190)
+alluding
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/long-1866-1.psd
+(ID LONG-1866-1,2,85.266)
+preparing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/long-1866-1.psd
+(ID LONG-1866-1,2,91.389)
+living
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/long-1866-1.psd
+(ID LONG-1866-1,2,91.390)
+writing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lyell-1830-1.psd
+(ID LYELL-1830-1,1,81.94)
+surprising
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lyell-1830-1.psd
+(ID LYELL-1830-1,1,85.150)
+becoming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lyell-1830-1.psd
+(ID LYELL-1830-1,1,88.182)
+burning
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1833-2.psd
+(ID MACAULAY-1833-2,8,252.20)
+suffering
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1833-2.psd
+(ID MACAULAY-1833-2,8,252.21)
+trying
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1833-2.psd
+(ID MACAULAY-1833-2,8,261.164)
+hastening
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1833-2.psd
+(ID MACAULAY-1833-2,8,270.320)
+drawing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1833-2.psd
+(ID MACAULAY-1833-2,8,271.336)
+dying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1833-2.psd
+(ID MACAULAY-1833-2,8,271.337)
+defrauding
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1833-2.psd
+(ID MACAULAY-1833-2,8,271.338)
+bequeathing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1833-2.psd
+(ID MACAULAY-1833-2,8,274.412)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1833-2.psd
+(ID MACAULAY-1833-2,8,274.418)
+suffering
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1843-2.psd
+(ID MACAULAY-1843-2,10,17.263)
+mourning
+(BED was)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1843-2.psd
+(ID MACAULAY-1843-2,10,27.455)
+sinking
+(BED was)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1843-2.psd
+(ID MACAULAY-1843-2,10,28.476)
+taking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1843-2.psd
+(ID MACAULAY-1843-2,10,29.477)
+playing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macaulay-1849-2.psd
+(ID MACAULAY-1849-2,1,64.402)
+struggling
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macquarie-1815-2.psd
+(ID MACQUARIE-1815-2,90.24)
+waiting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/macquarie-1815-2.psd
+(ID MACQUARIE-1815-2,115.449)
+building
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,5.92)
+talking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,7.209)
+humming
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,7.223)
+going
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,7.236)
+coming
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,8.298)
+plodding
+(BEP $'re)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,8.320)
+picking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,11.451)
+going
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,13.529)
+going
+(BEP $'re)
+(ADVP-TMP (ADV never))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,18.751)
+going
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,18.778)
+getting
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,18.779)
+starting
+(BE be)
+(MD ought)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,19.862)
+getting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,21.949)
+losing
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,22.993)
+taking
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,23.1064)
+coming
+(BEP $'m)
+(ADVP-TMP (ADV directly))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,26.1085)
+speaking
+(BED were)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,27.1133)
+giving
+(BEP $'s)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,331.68)
+aiming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,331.70)
+laying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,331.71)
+saying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,331.72)
+saying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,332.73)
+declaring
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,335.125)
+acting
+(BE be)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,335.125)
+reacting
+(BE be)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,341.210)
+learning
+(BED was)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,350.298)
+bringing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,350.299)
+revealing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,352.315)
+striking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,352.316)
+striking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,357.380)
+speaking
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maxwell-1747-1.psd
+(ID MAXWELL-1747-1,21.207)
+pricking
+(BE be)
+(MD should)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maxwell-1747-1.psd
+(ID MAXWELL-1747-1,35.446)
+making
+(BE be)
+(NP-TMP (NUM once) (NP-MSR (Q every) (N Day)))
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,758.95)
+breathing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,758.97)
+hoping
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,763.253)
+improving
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,765.277)
+owing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,767.318)
+lying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,780.678)
+getting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,783.774)
+dying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,786.877)
+occurring
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,790.1017)
+copying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-1895-1.psd
+(ID MEREDITH-1895-1,19,143.192)
+lying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-1895-1.psd
+(ID MEREDITH-1895-1,19,144.221)
+proceeding
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-1895-1.psd
+(ID MEREDITH-1895-1,19,153.394)
+looking
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-1895-1.psd
+(ID MEREDITH-1895-1,19,155.457)
+instructing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-1895-1.psd
+(ID MEREDITH-1895-1,19,156.503)
+playing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/midshipman-1767-2.psd
+(ID MIDSHIPMAN-1767-2,24.16_unnumbered_in_text.461)
+improving
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/miles1-1873-2.psd
+(ID MILES1-1873-2,489.C1.261)
+crossing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/miles1-1873-2.psd
+(ID MILES1-1873-2,491.C1.337)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/miles2-1893-2.psd
+(ID MILES2-1893-2,2,135.C1.76)
+supposing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mill-1854-2.psd
+(ID MILL-1854-2,14,120.31)
+owing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mill-1854-2.psd
+(ID MILL-1854-2,14,120.32)
+owing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mill-1854-2.psd
+(ID MILL-1854-2,14,128.229)
+writing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mill-1854-2.psd
+(ID MILL-1854-2,14,128.245)
+forgetting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mill-1854-2.psd
+(ID MILL-1854-2,14,131.328)
+working
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mill-1854-2.psd
+(ID MILL-1854-2,14,133.402)
+getting
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mill-1854-2.psd
+(ID MILL-1854-2,14,133.407)
+reading
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mill-1854-2.psd
+(ID MILL-1854-2,14,139.595)
+beginning
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mill-1871-2.psd
+(ID MILL-1871-2,17,1806.248)
+coming
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/montagu-1718-1.psd
+(ID MONTAGU-1718-1,104.327)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/montefiore-1836-1.psd
+(ID MONTEFIORE-1836-1,130.35)
+swimming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/montefiore-1836-1.psd
+(ID MONTEFIORE-1836-1,131.36)
+feeding
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/montefiore-1836-1.psd
+(ID MONTEFIORE-1836-1,151.278)
+sitting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/montefiore-1836-1.psd
+(ID MONTEFIORE-1836-1,158.389)
+lying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/montefiore-1836-1.psd
+(ID MONTEFIORE-1836-1,166.513)
+enjoying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/montefiore-1836-1.psd
+(ID MONTEFIORE-1836-1,169.556)
+observing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/moore-181x-2.psd
+(ID MOORE-181X-2,3.71)
+becoming
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/moore-181x-2.psd
+(ID MOORE-181X-2,8.265)
+ruining
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/moore-181x-2.psd
+(ID MOORE-181X-2,13.432)
+showing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/moore-181x-2.psd
+(ID MOORE-181X-2,18.656)
+making
+(BEP is)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/moore-181x-2.psd
+(ID MOORE-181X-2,19.698)
+proceeding
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/morton-1813-2.psd
+(ID MORTON-1813-2,25.771)
+thinking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/morton-1813-2.psd
+(ID MORTON-1813-2,28.840)
+thinking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/morton-1813-2.psd
+(ID MORTON-1813-2,28.857)
+sounding
+(BE be)
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/morton-1813-2.psd
+(ID MORTON-1813-2,35.1096)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/newcome-new-1796-1.psd
+(ID NEWCOME-NEW-1796-1,3,20J.195)
+baptizing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,160.108)
+sitting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,161.123)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,162.141)
+praying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,162.156)
+taking
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,167.301)
+enjoying
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,168.306)
+dragging
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,168.323)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,170.377)
+carrying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,171.382)
+leaving
+(BEP is)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,173.446)
+laughing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,176.527)
+hoping
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,177.552)
+saying
+(BEP is)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-1848-2.psd
+(ID NIGHTINGALE-1848-2,180.589)
+rejoicing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-188x-1.psd
+(ID NIGHTINGALE-188X-1,410.27)
+suggesting
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-188x-1.psd
+(ID NIGHTINGALE-188X-1,412.85)
+coming
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-188x-1.psd
+(ID NIGHTINGALE-188X-1,414.109)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-188x-1.psd
+(ID NIGHTINGALE-188X-1,415.125)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-188x-1.psd
+(ID NIGHTINGALE-188X-1,419.210)
+dying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-189x-1.psd
+(ID NIGHTINGALE-189X-1,421.44)
+longing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-189x-1.psd
+(ID NIGHTINGALE-189X-1,423.94)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-189x-1.psd
+(ID NIGHTINGALE-189X-1,426.129)
+beginning
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-189x-1.psd
+(ID NIGHTINGALE-189X-1,428.166)
+trying
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-189x-1.psd
+(ID NIGHTINGALE-189X-1,429.186)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-189x-1.psd
+(ID NIGHTINGALE-189X-1,436.375)
+dying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/nightingale-189x-1.psd
+(ID NIGHTINGALE-189X-1,436.377)
+discussing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,134.46)
+continuing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,144.483)
+asking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,144.484)
+tessing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,144.485)
+repeating
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,145.528)
+writing
+(BED was)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,179.659)
+alluding
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,193.1361)
+coming
+(BED were)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,197.1531)
+giving
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,200.1690)
+playing
+(BED was)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,203.1879)
+saying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,203.1901)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,204.1950)
+coming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,204.1957)
+shouting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,206.2067)
+playing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,206.2076)
+making
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,206.2083)
+describing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,209.2216)
+looking
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,209.2253)
+coming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,211.2335)
+talking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,211.2353)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,213.2470)
+telling
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,214.2544)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,215.2596)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,216.2650)
+thinking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,217.2722)
+joking
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,219.2810)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,222.3008)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,222.3014)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,223.3084)
+giving
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,226.3266)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,227.3309)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,227.3323)
+going
+(BE be)
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,229.3371)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,230.3421)
+coming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,231.3469)
+speaking
+(BED was)
+(NP-TMP (ONE one) (N part) (PP (P of) (NP (PRO it))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,236.3733)
+approaching
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,236.3745)
+coming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,236.3751)
+walking
+(BED Was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,237.3795)
+standing
+(BED was)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,237.3800)
+standing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,238.3824)
+giving
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,238.3848)
+keeping
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,241.4056)
+disposing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,242.4101)
+enjoying
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,243.4149)
+selling
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,243.4150)
+giving
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/officer-1744-1.psd
+(ID OFFICER-1744-1,215.83)
+owing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/officer-1744-1.psd
+(ID OFFICER-1744-1,222.211)
+hawling
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/okeeffe-1767-2.psd
+(ID OKEEFFE-1767-2,8.138)
+talking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/okeeffe-1767-2.psd
+(ID OKEEFFE-1767-2,10.158)
+considering
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/okeeffe-1767-2.psd
+(ID OKEEFFE-1767-2,23.516)
+pimping
+(BEP $'re)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/okeeffe-1767-2.psd
+(ID OKEEFFE-1767-2,24.526)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/okeeffe-1826-1.psd
+(ID OKEEFFE-1826-1,1,7.79)
+sitting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/okeeffe-1826-1.psd
+(ID OKEEFFE-1826-1,1,17.180)
+standing
+(BED was)
+(NP-TMP (ONE One) (N day))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/okeeffe-1826-1.psd
+(ID OKEEFFE-1826-1,1,27.289)
+swimming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/okeeffe-1826-1.psd
+(ID OKEEFFE-1826-1,1,27.296)
+hurrying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/okeeffe-1826-1.psd
+(ID OKEEFFE-1826-1,1,34.352)
+washing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oldmixon-1716-2.psd
+(ID OLDMIXON-1716-2,44.203)
+drinking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oldmixon-1716-2.psd
+(ID OLDMIXON-1716-2,53.281)
+speaking
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oman-1895-1.psd
+(ID OMAN-1895-1,383.72)
+moving
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oman-1895-1.psd
+(ID OMAN-1895-1,385.109)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oman-1895-1.psd
+(ID OMAN-1895-1,385.110)
+striving
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oman-1895-1.psd
+(ID OMAN-1895-1,386.132)
+checking
+(BED was)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oman-1895-1.psd
+(ID OMAN-1895-1,390.204)
+pushing
+(BED were)
+(NP-TMP (ADJ+N Meanwhile))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oman-1895-1.psd
+(ID OMAN-1895-1,399.452)
+trying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1813-2.psd
+(ID OWEN-1813-2,1,46.120)
+advancing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1813-2.psd
+(ID OWEN-1813-2,1,46.122)
+surprising
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1847-2.psd
+(ID OWEN-1847-2,27.24)
+looking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1847-2.psd
+(ID OWEN-1847-2,29.34)
+standing
+(BE be)
+(MD might)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1847-2.psd
+(ID OWEN-1847-2,67.361)
+holding
+(BE be)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1847-2.psd
+(ID OWEN-1847-2,67.362)
+conjuring
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1847-2.psd
+(ID OWEN-1847-2,67.363)
+revealing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1847-2.psd
+(ID OWEN-1847-2,69.377)
+saying
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1847-2.psd
+(ID OWEN-1847-2,72.394)
+soaring
+(BE be)
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1857-2.psd
+(ID OWEN-1857-2,1,8.215)
+passing
+(BED was)
+(NP-TMP (ONE One) (N day))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1857-2.psd
+(ID OWEN-1857-2,1,9.250)
+bringing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1857-2.psd
+(ID OWEN-1857-2,1,11.317)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1857-2.psd
+(ID OWEN-1857-2,1,12.348)
+beginning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/owen-1857-2.psd
+(ID OWEN-1857-2,1,16.438)
+endeavouring
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/palgrave1-185x-2.psd
+(ID PALGRAVE1-185X-2,3,298.47)
+hunting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/palgrave1-185x-2.psd
+(ID PALGRAVE1-185X-2,3,307.174)
+triumphing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/palgrave1-185x-2.psd
+(ID PALGRAVE1-185X-2,3,314.290)
+drawing
+(BED was)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/palgrave1-185x-2.psd
+(ID PALGRAVE1-185X-2,3,323.427)
+proceeding
+(BE be)
+(MD might)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/palgrave1-185x-2.psd
+(ID PALGRAVE1-185X-2,3,325.454)
+existing
+(BED were)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/palgrave2-1863-2.psd
+(ID PALGRAVE2-1863-2,400.188)
+sitting
+(BED were)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1827-2.psd
+(ID PLANCHE-1827-2,11.80)
+going
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1827-2.psd
+(ID PLANCHE-1827-2,20.463)
+worrying
+(BEP $'re)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1827-2.psd
+(ID PLANCHE-1827-2,23.639)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1827-2.psd
+(ID PLANCHE-1827-2,29.865)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1846-2.psd
+(ID PLANCHE-1846-2,8.115)
+living
+(BEP are)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1846-2.psd
+(ID PLANCHE-1846-2,9.146)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1846-2.psd
+(ID PLANCHE-1846-2,10.193)
+seeking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1846-2.psd
+(ID PLANCHE-1846-2,10.216)
+dying
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1846-2.psd
+(ID PLANCHE-1846-2,11.225)
+talking
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1846-2.psd
+(ID PLANCHE-1846-2,11.226)
+expatiating
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1846-2.psd
+(ID PLANCHE-1846-2,22.636)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1846-2.psd
+(ID PLANCHE-1846-2,23.648)
+leading
+(BEP $'m)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/pope-172x-2.psd
+(ID POPE-172X-2,163.147)
+providing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/priestley-1765-2.psd
+(ID PRIESTLEY-1765-2,161.18)
+improving
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/priestley-1765-2.psd
+(ID PRIESTLEY-1765-2,201.323)
+gaining
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/priestley-1769-1.psd
+(ID PRIESTLEY-1769-1,167.162)
+missing
+(BE be)
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/priestley-1769-1.psd
+(ID PRIESTLEY-1769-1,171.203)
+waiting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/priestley-1769-1.psd
+(ID PRIESTLEY-1769-1,183.315)
+entering
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/purver-new-1764-1.psd
+(ID PURVER-NEW-1764-1,3,20J.167)
+baptizing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/purver-new-1764-1.psd
+(ID PURVER-NEW-1764-1,6,1J.391)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/purver-new-1764-2.psd
+(ID PURVER-NEW-1764-2,13,20J.127)
+leaning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/purver-new-1764-2.psd
+(ID PURVER-NEW-1764-2,8,1A.1041)
+consenting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/purver-new-1764-2.psd
+(ID PURVER-NEW-1764-2,8,20A.1075)
+returning
+(BED Was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/purver-new-1764-2.psd
+(ID PURVER-NEW-1764-2,8,20A.1075)
+sitting
+(BED Was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/purver-new-1764-2.psd
+(ID PURVER-NEW-1764-2,12,1A.1290)
+sleeping
+(BED was)
+(NP-TMP (D that) (N Night))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/purver-new-1764-2.psd
+(ID PURVER-NEW-1764-2,14,1A.1413)
+preaching
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/purver-old-1764-2.psd
+(ID PURVER-OLD-1764-2,8,1D.1015)
+bringing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/purver-old-1764-2.psd
+(ID PURVER-OLD-1764-2,9,20D.1063)
+provoking
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/pusey-186x-1.psd
+(ID PUSEY-186X-1,286.114)
+unfolding
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/pusey-186x-1.psd
+(ID PUSEY-186X-1,290.156)
+living
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/pusey-186x-1.psd
+(ID PUSEY-186X-1,290.157)
+leading
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/pusey-186x-1.psd
+(ID PUSEY-186X-1,299.273)
+interceding
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/pusey-186x-1.psd
+(ID PUSEY-186X-1,303.323)
+wanting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/reade-1863-1.psd
+(ID READE-1863-1,210.162)
+singing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/reade-1863-1.psd
+(ID READE-1863-1,211.197)
+staying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/reade-1863-1.psd
+(ID READE-1863-1,221.500)
+lying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/reade-1863-1.psd
+(ID READE-1863-1,221.513)
+glimmering
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/reade-1863-1.psd
+(ID READE-1863-1,222.544)
+owing
+(BE be)
+(MD may)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/roberts-1726-2.psd
+(ID ROBERTS-1726-2,419.243)
+endeavouring
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/robertson-1792-2.psd
+(ID ROBERTSON-1792-2,155.400)
+recovering
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/robertson-1792-2.psd
+(ID ROBERTSON-1792-2,157.478)
+recovering
+(BED was)
+(NP-TMP (ADJ 8th))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/robertson-1792-2.psd
+(ID ROBERTSON-1792-2,159.545)
+recovering
+(BED was)
+(NP-TMP (ADJ 8th))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/robertson-1792-2.psd
+(ID ROBERTSON-1792-2,161.615)
+recovering
+(BED was)
+(NP-TMP (ADJ 7th))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ruskin-1835-1.psd
+(ID RUSKIN-1835-1,1,13.357)
+melting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ruskin-1882-2.psd
+(ID RUSKIN-1882-2,3,1012.20)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ruskin-1882-2.psd
+(ID RUSKIN-1882-2,3,1017.181)
+ceasing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ruskin-1882-2.psd
+(ID RUSKIN-1882-2,3,1017.186)
+sitting
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ruskin-1882-2.psd
+(ID RUSKIN-1882-2,3,1020.317)
+clearing
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ruskin-1882-2.psd
+(ID RUSKIN-1882-2,3,1028.576)
+clearing
+(BEP is)
+(NP-TMP (D this) (N morning))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ryder-1716-1.psd
+(ID RYDER-1716-1,161.18)
+telling
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ryder-1716-1.psd
+(ID RYDER-1716-1,165.129)
+walking
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ryder-1716-1.psd
+(ID RYDER-1716-1,165.134)
+lamenting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ryder-1716-1.psd
+(ID RYDER-1716-1,172.356)
+talking
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ryder-1716-1.psd
+(ID RYDER-1716-1,178.503)
+pursuing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ryder-1716-1.psd
+(ID RYDER-1716-1,182.599)
+talking
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ryder-1716-1.psd
+(ID RYDER-1716-1,182.603)
+pleading
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ryder-1716-1.psd
+(ID RYDER-1716-1,185.673)
+coming
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/shaw-1903-2.psd
+(ID SHAW-1903-2,18.452)
+putting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/shaw-1903-2.psd
+(ID SHAW-1903-2,26.687)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/shaw-1903-2.psd
+(ID SHAW-1903-2,26.712)
+going
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/shaw-1903-2.psd
+(ID SHAW-1903-2,28.785)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/shaw-1903-2.psd
+(ID SHAW-1903-2,28.793)
+waiting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/shaw-1903-2.psd
+(ID SHAW-1903-2,33.939)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sheridan-1756-2.psd
+(ID SHERIDAN-1756-2,205.89)
+owing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/skeavington-184x-1.psd
+(ID SKEAVINGTON-184X-1,18.C1.86)
+watching
+(BE be)
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/skeavington-184x-1.psd
+(ID SKEAVINGTON-184X-1,18.C1.86)
+fretting
+(BE be)
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/skeavington-184x-1.psd
+(ID SKEAVINGTON-184X-1,19.C1.126)
+studying
+(BE be)
+(MD might)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/skeavington-184x-1.psd
+(ID SKEAVINGTON-184X-1,25.C1.338)
+getting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/skeavington-184x-1.psd
+(ID SKEAVINGTON-184X-1,27.C2.395)
+cooling
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/smollett-175x-2.psd
+(ID SMOLLETT-175X-2,42.16)
+approaching
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/smollett-175x-2.psd
+(ID SMOLLETT-175X-2,81.620)
+owing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/southey-1813-1.psd
+(ID SOUTHEY-1813-1,187.254)
+becoming
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/southey-1813-1.psd
+(ID SOUTHEY-1813-1,187.255)
+receiving
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/southey-1813-1.psd
+(ID SOUTHEY-1813-1,189.308)
+owing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/southey-1813-1.psd
+(ID SOUTHEY-1813-1,190.330)
+pacing
+(BED was)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/southey-1813-1.psd
+(ID SOUTHEY-1813-1,192.371)
+sitting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/southey-1813-1.psd
+(ID SOUTHEY-1813-1,198.498)
+waving
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/southey-1813-1.psd
+(ID SOUTHEY-1813-1,198.504)
+drifting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/st-john-1711-2.psd
+(ID ST-JOHN-1711-2,2,70.355)
+recruiting
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,18.10)
+owing
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,18.25)
+declining
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,20.64)
+beginning
+(BEP $'s)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,37.483)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,37.489)
+making
+(BEP are)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,40.572)
+saying
+(BED were)
+(NP-TMP (ADJ last) (N Night))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,44.673)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,50.847)
+reading
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,52.896)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,53.924)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,53.926)
+going
+(BEP am)
+(NP-TMP (D this) (N Morning))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,53.929)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stokes-1887-2.psd
+(ID STOKES-1887-2,306.152)
+speaking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,97.43)
+thinking
+(BED was)
+(NP-TMP (D the) (OTHER other) (N night))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,101.189)
+sneezing
+(BE be)
+(ADVP-TMP (ADV presently))
+(MD shall)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,105.310)
+coming
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,105.319)
+glowing
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,109.466)
+keeping
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,113.586)
+hibernating
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,114.604)
+thinking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,122.777)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,690.18)
+proving
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,692.50)
+approaching
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,696.134)
+making
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,699.201)
+offering
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,700.219)
+rejoicing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,704.286)
+making
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,704.287)
+walking
+(BED was)
+(NP-TMP (D this) (N morning))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,705.305)
+expecting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,705.310)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,705.313)
+taking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,708.386)
+wondering
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,708.392)
+feeling
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,709.398)
+thinking
+(BED was)
+(NP-TMP (N today))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,709.412)
+wondering
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,713.492)
+feeling
+(BED was)
+(ADVP-TMP (ADV just) (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1914-2.psd
+(ID STURT-1914-2,2,716.538)
+wiping
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/swift-1735-2.psd
+(ID SWIFT-1735-2,4,298.176)
+ruining
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/swift-1735-2.psd
+(ID SWIFT-1735-2,4,303.241)
+owing
+(BE be)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/swift-1735-2.psd
+(ID SWIFT-1735-2,4,333.581)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/talbot-1901-1.psd
+(ID TALBOT-1901-1,113.313)
+giving
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/talbot-1901-1.psd
+(ID TALBOT-1901-1,113.314)
+making
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/temple-1914-2.psd
+(ID TEMPLE-1914-2,163.19)
+stirring
+(BEP is)
+(ADVP-TMP (NP-MSR (D A) (ADJ little)) (ADVR later))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/temple-1914-2.psd
+(ID TEMPLE-1914-2,165.44)
+saying
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/temple-1914-2.psd
+(ID TEMPLE-1914-2,168.83)
+calling
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/temple-1914-2.psd
+(ID TEMPLE-1914-2,181.252)
+pouring
+(BE be)
+(MD shall)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/temple-1914-2.psd
+(ID TEMPLE-1914-2,191.371)
+allowing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/temple-1914-2.psd
+(ID TEMPLE-1914-2,192.375)
+failing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/temple-1914-2.psd
+(ID TEMPLE-1914-2,192.381)
+poisoning
+(BE be)
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/temple-1914-2.psd
+(ID TEMPLE-1914-2,194.398)
+recalling
+(BE be)
+(NP-TMP (ADJS next) (N week))
+(MD shall)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/temple-1914-2.psd
+(ID TEMPLE-1914-2,194.399)
+swaying
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thackeray-1855-2.psd
+(ID THACKERAY-1855-2,717.550)
+canvassing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thompson-1859-2.psd
+(ID THOMPSON-1859-2,126.C1.183)
+owing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-187x-1.psd
+(ID THRING-187X-1,218.76)
+getting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-187x-1.psd
+(ID THRING-187X-1,222.189)
+going
+(BEP is)
+(ADVP-TMP (ADV Now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-187x-1.psd
+(ID THRING-187X-1,226.307)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-187x-1.psd
+(ID THRING-187X-1,226.310)
+touching
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-187x-1.psd
+(ID THRING-187X-1,227.353)
+boiling
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-187x-1.psd
+(ID THRING-187X-1,227.365)
+beginning
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-187x-1.psd
+(ID THRING-187X-1,228.398)
+coming
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-187x-1.psd
+(ID THRING-187X-1,229.417)
+carrying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-187x-1.psd
+(ID THRING-187X-1,232.526)
+going
+(BEP are)
+(NP-TMP (D This) (N week))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-187x-1.psd
+(ID THRING-187X-1,232.528)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-187x-1.psd
+(ID THRING-187X-1,234.583)
+getting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-1883-2.psd
+(ID THRING-1883-2,167.154)
+teaching
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trevelyan-1911-2.psd
+(ID TREVELYAN-1911-2,7.31)
+recovering
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trevelyan-1911-2.psd
+(ID TREVELYAN-1911-2,13.116)
+changing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trevelyan-1911-2.psd
+(ID TREVELYAN-1911-2,17.161)
+serving
+(BED were)
+(ADVP-TMP (ADV shortly))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trevelyan-1911-2.psd
+(ID TREVELYAN-1911-2,24.255)
+wanting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trevelyan-1911-2.psd
+(ID TREVELYAN-1911-2,26.299)
+pressing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trevelyan-1913-2.psd
+(ID TREVELYAN-1913-2,16.24)
+beginning
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trevelyan-1913-2.psd
+(ID TREVELYAN-1913-2,17.31)
+entering
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trevelyan-1913-2.psd
+(ID TREVELYAN-1913-2,17.37)
+helping
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trevelyan-1913-2.psd
+(ID TREVELYAN-1913-2,17.48)
+thronging
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trevelyan-1913-2.psd
+(ID TREVELYAN-1913-2,21.123)
+making
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trevelyan-1913-2.psd
+(ID TREVELYAN-1913-2,26.211)
+waiting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trevelyan-1913-2.psd
+(ID TREVELYAN-1913-2,37.442)
+referring
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trollope-1879-2.psd
+(ID TROLLOPE-1879-2,2.41)
+complaining
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trollope-1879-2.psd
+(ID TROLLOPE-1879-2,29.559)
+staying
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trollope-1882-1.psd
+(ID TROLLOPE-1882-1,159.28)
+lying
+(BED was)
+(NP-TMP (D the) (ADJ+N meanwhile))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trollope-1882-1.psd
+(ID TROLLOPE-1882-1,185.465)
+going
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trollope-1882-1.psd
+(ID TROLLOPE-1882-1,189.524)
+going
+(BED was)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/trollope-1882-1.psd
+(ID TROLLOPE-1882-1,191.549)
+beginning
+(BEP is)
+(ADVP-TMP (FP only) (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/turner1-1799-1.psd
+(ID TURNER1-1799-1,27.22)
+remaining
+(BEP is)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/turner1-1799-1.psd
+(ID TURNER1-1799-1,31.78)
+wanting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/turner1-1799-1.psd
+(ID TURNER1-1799-1,43.195)
+wanting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/turner1-1799-1.psd
+(ID TURNER1-1799-1,55.275)
+darkening
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/turner1-1799-1.psd
+(ID TURNER1-1799-1,55.276)
+consuming
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/turner1-1799-1.psd
+(ID TURNER1-1799-1,55.277)
+learning
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/turner1-1799-1.psd
+(ID TURNER1-1799-1,66.368)
+moving
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/turner2-1800-1.psd
+(ID TURNER2-1800-1,234.83)
+becoming
+(BED was)
+(ADVP-TMP (ADV already))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/turner3-1722-2.psd
+(ID TURNER3-1722-2,1,12.6)
+owing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-diary-2.psd
+(ID VICTORIA-186X-DIARY-2,1,4.14)
+pouring
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-diary-2.psd
+(ID VICTORIA-186X-DIARY-2,1,12.54)
+shedding
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-diary-2.psd
+(ID VICTORIA-186X-DIARY-2,1,46.245)
+coming
+(BED was)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-diary-2.psd
+(ID VICTORIA-186X-DIARY-2,1,62.349)
+remaining
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-diary-2.psd
+(ID VICTORIA-186X-DIARY-2,1,72.396)
+sitting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-diary-2.psd
+(ID VICTORIA-186X-DIARY-2,1,223.577)
+dragging
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-diary-2.psd
+(ID VICTORIA-186X-DIARY-2,1,287.697)
+standing
+(BE be)
+(ADVP-TMP (ADV soon))
+(MD should)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-official-letters-2.psd
+(ID VICTORIA-186X-OFFICIAL-LETTERS-2,1,231.118)
+wearing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-official-letters-2.psd
+(ID VICTORIA-186X-OFFICIAL-LETTERS-2,1,330.453)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-private-letters-1.psd
+(ID VICTORIA-186X-PRIVATE-LETTERS-1,1,65.48)
+urging
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-private-letters-1.psd
+(ID VICTORIA-186X-PRIVATE-LETTERS-1,1,68.76)
+looking
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-private-letters-1.psd
+(ID VICTORIA-186X-PRIVATE-LETTERS-1,1,110.269)
+owing
+(BE be)
+(MD will)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-private-letters-1.psd
+(ID VICTORIA-186X-PRIVATE-LETTERS-1,1,233.515)
+sitting
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-private-letters-1.psd
+(ID VICTORIA-186X-PRIVATE-LETTERS-1,1,233.515)
+writing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-private-letters-1.psd
+(ID VICTORIA-186X-PRIVATE-LETTERS-1,1,268.618)
+recovering
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-private-letters-1.psd
+(ID VICTORIA-186X-PRIVATE-LETTERS-1,1,269.650)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-private-letters-1.psd
+(ID VICTORIA-186X-PRIVATE-LETTERS-1,1,269.652)
+going
+(BEP am)
+(ADVP-TMP (ADV first))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-private-letters-1.psd
+(ID VICTORIA-186X-PRIVATE-LETTERS-1,1,284.803)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-174x-1.psd
+(ID WALPOLE-174X-1,5,6.94)
+dying
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-174x-1.psd
+(ID WALPOLE-174X-1,5,6.97)
+writing
+(BEP am)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-174x-1.psd
+(ID WALPOLE-174X-1,5,10.224)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-174x-1.psd
+(ID WALPOLE-174X-1,5,12.278)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-174x-1.psd
+(ID WALPOLE-174X-1,5,22.519)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-174x-1.psd
+(ID WALPOLE-174X-1,5,23.524)
+going
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-174x-1.psd
+(ID WALPOLE-174X-1,5,25.575)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-174x-1.psd
+(ID WALPOLE-174X-1,5,26.602)
+scolding
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-174x-1.psd
+(ID WALPOLE-174X-1,5,28.634)
+skimming
+(BEP is)
+(ADVP-TMP (ADV just) (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-174x-1.psd
+(ID WALPOLE-174X-1,5,28.642)
+writing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-179x-2.psd
+(ID WALPOLE-179X-2,247.13)
+lying
+(BEP am)
+(NP-TMP (N To-day))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-179x-2.psd
+(ID WALPOLE-179X-2,248.31)
+hastening
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-179x-2.psd
+(ID WALPOLE-179X-2,254.206)
+sitting
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-179x-2.psd
+(ID WALPOLE-179X-2,254.207)
+wishing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-179x-2.psd
+(ID WALPOLE-179X-2,255.223)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-179x-2.psd
+(ID WALPOLE-179X-2,255.233)
+rising
+(BEP are)
+(NP-TMP (NP (Q every) (N day)) (CONJP (CONJ and) (ADVP (Q every) (WADV where))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-179x-2.psd
+(ID WALPOLE-179X-2,613.416)
+writing
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-179x-2.psd
+(ID WALPOLE-179X-2,617.508)
+proceeding
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,86.151)
+making
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,114.902)
+sitting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,115.928)
+standing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,116.969)
+writing
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,136.1475)
+ascending
+(BED was)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,136.1475)
+descending
+(BED was)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,151.1824)
+going
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,153.1878)
+discharging
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,154.1883)
+marching
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,154.1890)
+returning
+(BED were)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,154.1891)
+returning
+(BED were)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,159.2018)
+asking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,161.2052)
+pursuing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watson-1817-1.psd
+(ID WATSON-1817-1,1,165.2165)
+passing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watts-1726-2.psd
+(ID WATTS-1726-2,4.32)
+Rising
+(BEP $is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/watts-1726-2.psd
+(ID WATTS-1726-2,4.33)
+Setting
+(BEP $is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/weathers-1913-1.psd
+(ID WEATHERS-1913-1,1,3.50)
+wanting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/weathers-1913-1.psd
+(ID WEATHERS-1913-1,1,6.136)
+becoming
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/weathers-1913-1.psd
+(ID WEATHERS-1913-1,1,6.143)
+covering
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/weathers-1913-1.psd
+(ID WEATHERS-1913-1,1,7.152)
+beginning
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/weathers-1913-1.psd
+(ID WEATHERS-1913-1,1,7.162)
+astonishing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/weathers-1913-1.psd
+(ID WEATHERS-1913-1,1,9.218)
+taking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/weathers-1913-1.psd
+(ID WEATHERS-1913-1,1,11.242)
+vanishing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wellesley-1815-1.psd
+(ID WELLESLEY-1815-1,867.524)
+deserting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wellesley-1815-1.psd
+(ID WELLESLEY-1815-1,867.525)
+withdrawing
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wesley-174x-1.psd
+(ID WESLEY-174X-1,20.196)
+relating
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wesley-174x-1.psd
+(ID WESLEY-174X-1,20.200)
+loving
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wesley-174x-1.psd
+(ID WESLEY-174X-1,22.255)
+owing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wesley-174x-1.psd
+(ID WESLEY-174X-1,23.281)
+inquiring
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wesley-174x-1.psd
+(ID WESLEY-174X-1,24.298)
+walking
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wesley-174x-1.psd
+(ID WESLEY-174X-1,26.364)
+waiting
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wesley-174x-1.psd
+(ID WESLEY-174X-1,28.403)
+cursing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wesley-174x-1.psd
+(ID WESLEY-174X-1,28.403)
+swearing
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wesley-174x-1.psd
+(ID WESLEY-174X-1,29.421)
+riding
+(BED were)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wesley-1750-2.psd
+(ID WESLEY-1750-2,19.168)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wesley-1750-2.psd
+(ID WESLEY-1750-2,19.169)
+walking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wesley-1755-2.psd
+(ID WESLEY-1755-2,27.229)
+putting
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/white-1784-2.psd
+(ID WHITE-1784-2,283.375)
+unravelling
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/whitefield-1737-2.psd
+(ID WHITEFIELD-1737-2,16,E.275)
+speaking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,39.6)
+lounging
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,39.7)
+standing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,43.106)
+living
+(BED was)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,46.173)
+saying
+(BEP am)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,46.194)
+waiting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,50.299)
+going
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,51.331)
+going
+(BEP $'m)
+(NP-TMP (N tonight))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,52.337)
+going
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,52.341)
+looking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,53.377)
+talking
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,54.387)
+putting
+(BEP am)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,54.401)
+talking
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,58.507)
+thinking
+(BEP are)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,65.698)
+staying
+(BED was)
+(NP-TMP (ADJ last) (N autumn) (, ,) (CP-REL (WADVP-1 (WADV when)) (C 0) (IP-SUB (ADVP-TMP *T*-1) (NP-SBJ (PRO we)) (BED were) (ADVP-LOC (ADV there)))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,66.722)
+dining
+(BEP are)
+(NP-TMP (N tonight))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,72.896)
+arranging
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,72.905)
+wearing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wilde-1895-1.psd
+(ID WILDE-1895-1,74.940)
+losing
+(BEP are)
+(ADVP-TMP (ADV always))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wollaston-1793-1.psd
+(ID WOLLASTON-1793-1,30.232)
+feeling
+(BEP are)
+(ADVP-TMP (ADV already))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wollstonecraft-1787-2.psd
+(ID WOLLSTONECRAFT-1787-2,21.138)
+pleasing
+(BEP is)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wollstonecraft-1787-2.psd
+(ID WOLLSTONECRAFT-1787-2,66.461)
+correcting
+(BEP are)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wollstonecraft-1787-2.psd
+(ID WOLLSTONECRAFT-1787-2,73.506)
+falling
+(BEP are)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wood-1864-2.psd
+(ID WOOD-1864-2,37.199)
+owing
+(BE be)
+(MD may)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/yonge-1865-1.psd
+(ID YONGE-1865-1,160.31)
+explaining
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/yonge-1865-1.psd
+(ID YONGE-1865-1,165.172)
+sitting
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/yonge-1865-1.psd
+(ID YONGE-1865-1,174.386)
+reading
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/yonge-1865-1.psd
+(ID YONGE-1865-1,174.395)
+becoming
+(BED was)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/yonge-1865-1.psd
+(ID YONGE-1865-1,181.552)
+going
+(BED was)
+(NP-TMP (D the) (ADJS next) (N day))

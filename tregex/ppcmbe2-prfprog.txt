@@ -1,0 +1,589 @@
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/anon4-1791-2.psd
+(ID ANON4-1791-2,160.262)
+getting
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,156.38)
+speaking
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,170.661)
+meeting
+(BEN been)
+(HVD had)
+(NP-TMP (ADV almost) (Q every) (N day))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-1815-2.psd
+(ID AUSTEN-1815-2,173.770)
+gaining
+(BEN been)
+(HVD had)
+(ADVP-TMP (ADV lately))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-181x-2.psd
+(ID AUSTEN-181X-2,457.70)
+wanting
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/austen-181x-2.psd
+(ID AUSTEN-181X-2,473.448)
+suffering
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bardsley-1807-1.psd
+(ID BARDSLEY-1807-1,26.245)
+gaining
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bardsley-1807-1.psd
+(ID BARDSLEY-1807-1,40.415)
+gaining
+(BEN been)
+(HVP Has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/barton-gresswell-1906-2.psd
+(ID BARTON-GRESSWELL-1906-2,74.60)
+going
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,8.28)
+wanting
+(BEN been)
+(HVP $'ve)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bennett-1911-2.psd
+(ID BENNETT-1911-2,11.114)
+taking
+(BEN been)
+(HVP $'ve)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/bracken-1738-2.psd
+(ID BRACKEN-1738-2,23.250)
+edifying
+(BEN been)
+(HV have)
+(MD might)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brough-1867-2.psd
+(ID BROUGH-1867-2,13.436)
+drinking
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham1-1861-1.psd
+(ID BROUGHAM1-1861-1,10.337)
+crying
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham1-1861-1.psd
+(ID BROUGHAM1-1861-1,17.598)
+crying
+(BEN been)
+(HVP $'ve)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/brougham2-1825-2.psd
+(ID BROUGHAM2-1825-2,15.283)
+teaching
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/burney-1792-2.psd
+(ID BURNEY-1792-2,5,68.346)
+recruiting
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1835-1.psd
+(ID CARLYLE-1835-1,2,258.60)
+parading
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1835-1.psd
+(ID CARLYLE-1835-1,2,262.129)
+making
+(BEN been)
+(HVP have)
+(ADVP-TMP (ADV now) (PP (P for) (NP (D the) (ADJ last) (NUM eight) (NS days))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/carlyle-1835-1.psd
+(ID CARLYLE-1835-1,2,297.614)
+writing
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/centlivre-1723-2.psd
+(ID CENTLIVRE-1723-2,36.32)
+fetching
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/centlivre-1723-2.psd
+(ID CENTLIVRE-1723-2,40.152)
+teaching
+(BEN been)
+(HVP have)
+(NP-TMP (D these) (NUM three) (NS Days))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,24.183)
+keeping
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,46.870)
+glancing
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/colman-1805-1.psd
+(ID COLMAN-1805-1,49.952)
+listening
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/coyne-1855-2.psd
+(ID COYNE-1855-2,14.572)
+trying
+(BEN been)
+(HVP $'ve)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/davys-1716-1.psd
+(ID DAVYS-1716-1,40.541)
+tormenting
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/dickens-1837-1.psd
+(ID DICKENS-1837-1,562.444)
+eyeing
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/dickens-1837-1.psd
+(ID DICKENS-1837-1,564.503)
+filing
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ellis-1851-2.psd
+(ID ELLIS-1851-2,131.233)
+giving
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ellis-1851-2.psd
+(ID ELLIS-1851-2,131.234)
+endeavouring
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/fielding1-1735-2.psd
+(ID FIELDING1-1735-2,22.217)
+telling
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-1910-2.psd
+(ID FORSTER2-1910-2,82.530)
+talking
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,105.204)
+electioneering
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,106.252)
+muddling
+(BEN been)
+(HVP have)
+(ADVP-TMP (ADV now))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,113.495)
+writing
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,115.581)
+walking
+(BEN been)
+(HVP have)
+(ADVP-TMP (ADV just))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,122.797)
+playing
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,122.812)
+thinking
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/forster2-191x-2.psd
+(ID FORSTER2-191X-2,1,123.855)
+reading
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/garrick-1759-2.psd
+(ID GARRICK-1759-2,34.612)
+thinking
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gladstone-1873-1.psd
+(ID GLADSTONE-1873-1,2,408.641)
+telegraphing
+(BEN been)
+(HVP have)
+(NP-TMP (N today))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/gladstone-1873-1.psd
+(ID GLADSTONE-1873-1,2,408.646)
+inclining
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1773-1.psd
+(ID GOLDSMITH-1773-1,23.141)
+thinking
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1773-1.psd
+(ID GOLDSMITH-1773-1,31.324)
+persuading
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1773-1.psd
+(ID GOLDSMITH-1773-1,41.549)
+saying
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/goldsmith-1773-1.psd
+(ID GOLDSMITH-1773-1,42.577)
+dosing
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/green-1874-2.psd
+(ID GREEN-1874-2,3,227.220)
+seeking
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/green-1874-2.psd
+(ID GREEN-1874-2,3,227.225)
+intriguing
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/greville-1827-2.psd
+(ID GREVILLE-1827-2,1,110.598)
+going
+(BEN been)
+(HVP has)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hind-1707-1.psd
+(ID HIND-1707-1,317.219)
+wanting
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hobson-173x-2.psd
+(ID HOBSON-173X-2,311.589)
+feeding
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hume-1776-2.psd
+(ID HUME-1776-2,10.115)
+making
+(BEN been)
+(HVD had)
+(ADVP-TMP (ADV still))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/hunt-1844-2.psd
+(ID HUNT-1844-2,32.299)
+suffering
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/inchbald-1793-2.psd
+(ID INCHBALD-1793-2,34.147)
+weeping
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/inchbald-1793-2.psd
+(ID INCHBALD-1793-2,43.396)
+praising
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/innes-1902-2.psd
+(ID INNES-1902-2,66.121)
+wasting
+(BEN been)
+(HVD had)
+(NP-TMP (N+N Meantime))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/johnstone-1786-2.psd
+(ID JOHNSTONE-1786-2,36.451)
+blowing
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kimber-1742-1.psd
+(ID KIMBER-1742-1,262.C2.113)
+carrying
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kimber-1742-1.psd
+(ID KIMBER-1742-1,269.C1.259)
+making
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,557.208)
+lying
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,559.269)
+keeping
+(BEN been)
+(HVP have)
+(NP-TMP (NP (D this) (N hour)) (CONJP (CONJ and) (NP (QR more))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/kingsley-1897-2.psd
+(ID KINGSLEY-1897-2,571.603)
+feeling
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/knyveton-1752-actually-gray-1937-2.psd
+(ID KNYVETON-1752-ACTUALLY-GRAY-1937-2,173.429)
+aiding
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,53.102)
+trying
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/lawrence-1908-2.psd
+(ID LAWRENCE-1908-2,1,60.354)
+conjuring
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/layard-1894-2.psd
+(ID LAYARD-1894-2,110.351)
+going
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/leathes-1913-2.psd
+(ID LEATHES-1913-2,8.152)
+moving
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mathews-1875-2.psd
+(ID MATHEWS-1875-2,28.1193)
+pawning
+(BEN been)
+(HVP $'ve)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/maurice-1857-2.psd
+(ID MAURICE-1857-2,359.398)
+stepping
+(BEN been)
+(HV have)
+(MD would)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,757.72)
+designing
+(BEN been)
+(HVP have)
+(ADVP-TMP (ADV Often) (PP (P of) (NP (ADJ late))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,778.605)
+struggling
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,779.656)
+talking
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/meredith-188x-2.psd
+(ID MEREDITH-188X-2,2,781.719)
+staying
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/mill-1854-2.psd
+(ID MILL-1854-2,14,137.525)
+reading
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/moore-181x-2.psd
+(ID MOORE-181X-2,8.236)
+receiving
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/morton-1813-2.psd
+(ID MORTON-1813-2,29.884)
+drinking
+(BEN been)
+(HVP $'ve)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,140.264)
+acting
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,141.332)
+contributing
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oconnell-1844-2.psd
+(ID OCONNELL-1844-2,228.3353)
+proceeding
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/officer-1744-1.psd
+(ID OFFICER-1744-1,236.504)
+attempting
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/oman-1895-1.psd
+(ID OMAN-1895-1,389.184)
+fighting
+(BEN been)
+(HVD had)
+(ADVP-TMP (ADV Ever) (PP (P since) (NP (D the) (N massacre) (PP (P of) (NP (NUM 1641))))))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/palgrave1-185x-2.psd
+(ID PALGRAVE1-185X-2,3,297.36)
+verging
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1827-2.psd
+(ID PLANCHE-1827-2,20.458)
+watching
+(BEN been)
+(HVP $'ve)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/planche-1846-2.psd
+(ID PLANCHE-1846-2,28.854)
+saying
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/poore-1876-1.psd
+(ID POORE-1876-1,167.107)
+suffering
+(BEN been)
+(HVD had)
+(ADVP-TMP (ADV then))
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/pope-172x-2.psd
+(ID POPE-172X-2,170.288)
+amusing
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/priestley-1765-2.psd
+(ID PRIESTLEY-1765-2,166.47)
+worshipping
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/reade-1863-1.psd
+(ID READE-1863-1,207.108)
+playing
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/richardson-1858-2.psd
+(ID RICHARDSON-1858-2,23.249)
+gaining
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ruskin-1882-2.psd
+(ID RUSKIN-1882-2,3,1019.265)
+grumbling
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/ruskin-1882-2.psd
+(ID RUSKIN-1882-2,3,1024.419)
+thinking
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/shaw-1903-2.psd
+(ID SHAW-1903-2,10.226)
+refusing
+(BEN been)
+(HVP $'ve)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/skeavington-184x-1.psd
+(ID SKEAVINGTON-184X-1,26.C2.375)
+lurking
+(BEN been)
+(HV have)
+(MD might)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/smollett-175x-2.psd
+(ID SMOLLETT-175X-2,61.332)
+groaning
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/southey-1813-1.psd
+(ID SOUTHEY-1813-1,192.366)
+firing
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,27.244)
+catechising
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/stevens-1745-1.psd
+(ID STEVENS-1745-1,43.642)
+watching
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/strutt-1890-1.psd
+(ID STRUTT-1890-1,3,352.292)
+speaking
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,99.106)
+eating
+(BEN been)
+(HVP Have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,100.131)
+working
+(BEN been)
+(HV have)
+(MD must)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,102.232)
+wondering
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,105.309)
+talking
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,111.542)
+dabbling
+(BEN been)
+(HVP $'ve)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,116.638)
+helping
+(BEN been)
+(HVP Have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/sturt-1890-2.psd
+(ID STURT-1890-2,1,117.670)
+reading
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/swift-1735-2.psd
+(ID SWIFT-1735-2,4,296.126)
+endeavouring
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/swift-1735-2.psd
+(ID SWIFT-1735-2,4,310.345)
+managing
+(BEN been)
+(HVP hath)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/thring-187x-1.psd
+(ID THRING-187X-1,231.481)
+talking
+(BEN been)
+(HVP has)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-diary-2.psd
+(ID VICTORIA-186X-DIARY-2,1,234.592)
+waiting
+(BEN been)
+(HVD had)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/victoria-186x-private-letters-1.psd
+(ID VICTORIA-186X-PRIVATE-LETTERS-1,1,274.722)
+taking
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/walpole-179x-2.psd
+(ID WALPOLE-179X-2,253.180)
+writing
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/whewell-1837-1.psd
+(ID WHEWELL-1837-1,8.40)
+going
+(BEN been)
+(HVP have)
+# /home/gunnar/Projects/corpora/PPCHE/PPCHE/PENN-CORPORA/PPCMBE2-RELEASE-1/corpus/psd/wollstonecraft-1787-2.psd
+(ID WOLLSTONECRAFT-1787-2,59.410)
+struggling
+(BEN been)
+(HV have)
+(MD may)
